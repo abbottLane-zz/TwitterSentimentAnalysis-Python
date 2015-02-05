@@ -1,240 +1,419 @@
-1: I believe that any former player who feels neglected would probably be cheered if they walked through the doors right now. #BYUSN #BYU
-2: So is #BYU signee Beau Hoge the son or a relative of Merrill Hoge?
-3: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-4: RT @UofCFB: Who has the more passionate fans?
-RT for #Arizona
-FAV for #BYU 
--Round of 32- http://t.co/bCOPNfIXyE
-5: RT @DougKimmelScout: Zayne Anderson is a name to remember if you are a #BYU fan... he may be the sleeper in the class: http://t.co/tBdelqvw…
-6: RT @jaromjordan: Jason Beck says Kody Wilstead is going on his mission to Argentina in March. Beau Hoge will play the next 4-5 years. #BYUS…
-7: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-8: RT @jaromjordan: Jason Beck says Kody Wilstead is going on his mission to Argentina in March. Beau Hoge will play the next 4-5 years. #BYUS…
-9: RT @jaromjordan: Jason Beck says Kody Wilstead is going on his mission to Argentina in March. Beau Hoge will play the next 4-5 years. #BYUS…
-10: RT @Spencer_Linton: Thank u Eric! "@morrow31: Coached at a clinic w/ [Mo Langi] in Tonga. Legend of his size is true. Video proof: http://t…
-11: Jason Beck says Kody Wilstead is going on his mission to Argentina in March. Beau Hoge will play the next 4-5 years. #BYUSN #BYU
-12: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-13: So, the plan for Mo Langi is to line him up at NT and use him like the Juggernaut, right? #BYU
-14: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-15: RT @Spencer_Linton: Juxtaposition: "@brettpyne: Check out new #BYU signee Motekiai Taukolo Langi w/ BYU's 6-7, 265-lb Bronson Kaufusi. http…
-16: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-17: Who would've thought that the Harvey Langi transfer from Utah, meant we were getting TWO play makers? Motekiai Langi is a beast #BYU
-18: RT @jaromjordan: Check out @BYUSportsNation for highlights of the announcements, player highs, analysis, &amp; coach interviews. #BYU http://t.…
-19: Has Tanner Mangum been on a mission for 5 years now? Good heavens he has to be 26 by now. #BYU
-20: RT @BYUapologist: So is BYU trolling the media and fans by having former players announce the new signees? #BYU
-21: @5lbtrout @rakoto10 I’ve seen a couple of people claim that #BYU is lying about his size because of that photo.
-22: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-23: #BYU picks up biggest commitment of signin day 6-7 410 �  http://t.co/y9FjAlmKrd #BYUCougars #LiahonaHighSchool #MotekiaiLangi #Tonga
-24: National signing day=college football in February! Big day for #Vandy #BYU!!!
-25: #BYU signing day# They appear to have "Bucked" the nepotism deterrent and hit a slam with the alumni &amp; format! Lets see how players pan out!
-26: RT @vballife: Never celebrate too early 😳👏#crazyplay #BYU https://t.co/Xm6LzE5Qky
-27: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-28: RT @jplaxman2: Real proud of my brother @rileyburt34 you're gonna do great things #RiseUp  #NationalSigningDay #BYU http://t.co/ApcL3HsiyN
-29: “@byusoccer_w: Welcome our first signee of the day, goalkeeper Sabrina Macias @Sobbz00 #BYUSoccer http://t.co/9WePxhr2Fe” #BYU #NSD2015
-30: Check out @BYUSportsNation for highlights of the announcements, player highs, analysis, &amp; coach interviews. #BYU http://t.co/AAbKKLDRT0
-31: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-32: RT @BYUSportsNation: It's National Signing Day and #BYUSN has got you covered on all things #BYU  Watch here for your ALL-ACCESS info. 
+1: # LUCMICHEL. NET/
+FOX NEWS, LA TV POUBELLE DES NEOCONS NE RECULE JAMAIS DEVANT RIEN !... http://t.co/Et6o1DfHWf
+	Sentiment(polarity=0.0, subjectivity=0.0)
+2: Rodan &amp; Fields has been featured in Forbes, Fox News,The Today Show, all major beauty magazines, blogs… http://t.co/foC4YWpIbY
+	Sentiment(polarity=0.0625, subjectivity=0.5)
+3: RT @P0TUS: Isn't possible that Fox News thinks "Frozen" emasculates men. Don't believe it. Impossible. Cuz Fox doesn't know what "emasculat…
+	Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)
+4: RT @jenanmoussa: RT @intelwire News media #protip: If u wouldnt show white American being burned alive, don't show brown person abroad http…
+	Sentiment(polarity=0.03333333333333333, subjectivity=0.13333333333333333)
+5: http://t.co/Wvgd3z0n1P
+	Sentiment(polarity=0.0, subjectivity=0.0)
+6: RT @Bahdal: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/M…
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+7: Clip hacks Keurig K-Cup pods http://t.co/niR0zZ3pEK #fox-news
+	Sentiment(polarity=0.0, subjectivity=0.0)
+8: Headless body exhumed in bid to solve '87 cold case - Police: Man missing after lottery win found dead http://t.co/SW4Ywv0Hts #fox-news
+	Sentiment(polarity=-0.05, subjectivity=0.4625)
+9: New post: "Fox News shows brutal ISIS video" http://t.co/LVOSD108YX
+	Sentiment(polarity=-0.3693181818181818, subjectivity=0.7272727272727273)
+10: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+11: RT @GSpellchecker: So @FoxNews will broadcast a man burning alive, but cartoons of Muhammad is where they draw the line http://t.co/Y1qYlma…
+	Sentiment(polarity=0.1, subjectivity=0.4)
+12: "Do you want to build a strawman." Is really the best title for this mess. If fox's argument is true, wouldn't... http://t.co/6Bn5KIZm4i
+	Sentiment(polarity=0.34375, subjectivity=0.33125000000000004)
+13: RT @SissyWillis: NOOOOO! RT @WashTimes: Is @FoxNews already in the tank for Jeb 2016?  http://t.co/fWehqU1csi  #JebBush2016 http://t.co/kPT…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+14: Fox News Guest A Racist Is Anyone Winnin An Argument wiv A Democrat #AlceeHastings #AlceeLHastings #LarryGatlin http://t.co/PoP285qwtd
+	Sentiment(polarity=0.0, subjectivity=0.0)
+15: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+16: #fox #news Texas man arrested after attempt to pay taxes with tightly folded dollar bills:  http://t.co/XrgH82wN4l
+	Sentiment(polarity=-0.17857142857142858, subjectivity=0.2857142857142857)
+17: RT @sayu_973: Ted Koppel: Fox News 'Bad for America' http://t.co/AeKFimDiC4 http://t.co/cROnQUdCe7
+	Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+18: At least 23 dead after plane crashes into Taiwan river - Fox News http://t.co/GhrbhbKFyJ #taiwan
+	Sentiment(polarity=-0.25, subjectivity=0.4)
+19: RT @NatGeo: Extremely rare fox seen in Yosemite—first time in 100 years: http://t.co/okVNfiylUf
+	Sentiment(polarity=0.3, subjectivity=0.9)
+20: RT @vplus: Fox News airs horrific ISIS execution video after previously blasting media outlets for airing "Terrorist Propaganda" http://t.c…
+	Sentiment(polarity=-0.4222222222222223, subjectivity=0.4222222222222223)
+21: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+22: Is Fox News already in the tank for Jeb Bush 2016? http://t.co/mq9zqLJ0Xt via @washtimes
+	Sentiment(polarity=0.0, subjectivity=0.0)
+23: #Breaking Buffett says will likely buy small business in Europe - Fox Business Read More : https://t.co/iOz4WnpCLo
+	Sentiment(polarity=0.08333333333333333, subjectivity=0.6333333333333333)
+24: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+25: Is Fox News already in tank for Jeb Bush? http://t.co/oOxgtbYQvG via @washtimes So far, also seem fair to Walker &amp; Rubio, others less so
+	Sentiment(polarity=0.2111111111111111, subjectivity=0.6555555555555556)
+26: Fox News Airs Images Of Burning Jordanian Pilot: 'We Feel You Need To See It' http://t.co/l3mfwC8l51 via @HuffPostMedia #jlabnews
+	Sentiment(polarity=0.0, subjectivity=0.0)
+27: Fox News presenters mock female pilot who took part in campaign against Isis
+	Sentiment(polarity=0.0, subjectivity=0.16666666666666666)
+28: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+29: RT @LibyaLiberty: “[Fox News] are literally – literally – working for al-Qaida and Isis’ media arm." 
 
-ht…
-33: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-34: RT @lexiehardy: congrats to @rileyburt34 for signing with the greatest school today 😊💙 so excited for you!!! keep it up!! #BYU http://t.co/…
-35: RT @jaromjordan: .@BYUSportsNation is live in the football lobby. #BYUSN #BYU http://t.co/6QycZmasgH
-36: Got stuck at the front of a lecture with all the good students. I'm just on Twitter reading about #BYU #NationalSigningDay being scoffed at
-37: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-38: .@BYUSportsNation is live in the football lobby. #BYUSN #BYU http://t.co/6QycZmasgH
-39: Helping LGBTQ/SSA churchgoers feel welcome in an #LDS environment: http://t.co/cWPpuTT2vW
+a new low. and what a low.
 
-#LGBT #BYU #Gay #Mormon http://t.co/U7w8PPFaKg
-40: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-41: congrats to @rileyburt34 for signing with the greatest school today 😊💙 so excited for you!!! keep it up!! #BYU http://t.co/9fntCjgLzC
-42: RT @DougKimmelScout: Zayne Anderson is a name to remember if you are a #BYU fan... he may be the sleeper in the class: http://t.co/tBdelqvw…
-43: "Anyone with a body is an athlete."--Nike marketing director, Phil Knight. #businessmarketing #byu  @Nike
-44: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-45: RT @TheMontyShow: Impressed with @TheeeGifted …He told me there is no doubt his values and abilities fit at #BYU …being recruited by Hollid…
-46: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-47: RT @TheMontyShow: Impressed with @TheeeGifted …He told me there is no doubt his values and abilities fit at #BYU …being recruited by Hollid…
-48: Ten Study Methods That Work: http://t.co/tpBI14mrSx 
+ http://…
+	Sentiment(polarity=0.04545454545454545, subjectivity=0.3515151515151515)
+30: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+31: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/B5S2RDkbsD Via (Harradox)
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+32: VIPIR Radar shows the rain ending west to east. We dry out soon. How about the parades? Details on FOX 8 News @ 4 http://t.co/cAJxleeGhA
+	Sentiment(polarity=-0.06666666666666665, subjectivity=0.6)
+33: RT @cjwerleman: Terror expert says Fox News is "literally working as ISIS media arm” in showing execution video: http://t.co/PSSu11V0Ma …
+	Sentiment(polarity=0.0, subjectivity=0.0)
+34: Slow clap RT @meadea: Can't believe it! Fox News embeds unedited Isis video showing brutal murder of Jordanian pilot http://t.co/ZRLlMwKkhP
+	Sentiment(polarity=-0.625, subjectivity=0.7)
+35: "@ochocinco: I love porn stars &amp; everybody at Fox News..." @JimmyDeRosaJr
+	Sentiment(polarity=0.5, subjectivity=0.6)
+36: RT @P0TUS: Isn't possible that Fox News thinks "Frozen" emasculates men. Don't believe it. Impossible. Cuz Fox doesn't know what "emasculat…
+	Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)
+37: RT @meadea: I can't believe it! Fox News site embeds unedited Isis video showing brutal murder of Jordanian pilot http://t.co/GNoLAB46jL
+	Sentiment(polarity=-0.875, subjectivity=1.0)
+38: RT @koconews: Fox News breaks from pack and shows ISIS video http://t.co/xiY3W4WDk3
+	Sentiment(polarity=0.0, subjectivity=0.0)
+39: Buffett says will likely buy small business in Europe: Fox Business http://t.co/oX3Ei8yLkJ
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+40: RT @WashTimes: Is Fox News already in the tank for Jeb Bush 2016? - http://t.co/W1mihogvei #FoxNews #JebBush2016 http://t.co/gCE9xjwBVB
+	Sentiment(polarity=0.0, subjectivity=0.0)
+41: RT @P0TUS: Isn't possible that Fox News thinks "Frozen" emasculates men. Don't believe it. Impossible. Cuz Fox doesn't know what "emasculat…
+	Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)
+42: "Fox News guest finds a way to criticize 'Frozen,' says it empowers women to 'tear ... - http://t.co/LdUTTvUzi7" http://t.co/droW8H07xw #Ce…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+43: Ex-ObamaCare adviser Gruber: Tax fat people by body weight | Fox News http://t.co/H9qlA61PYi via @foxnewspolitics
+	Sentiment(polarity=0.0, subjectivity=0.0)
+44: @ErikWemple @brianstelter @HowardKurtz @BretBaier Fox News linked to entire Isis video! Al Qaeda will now switch from Al Jazeera to Fox!LOL
+	Sentiment(polarity=0.0, subjectivity=0.625)
+45: RT @MitchBenn: So Fox News showed unedited footage of a man being immolated, but I bet you if they interviewed a topless woman they'd pixel…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+46: #Setting4Success Buffett says will likely buy small business in Europe: Fox Business #News #smallbusiness #entrepreneur
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+47: @JimmyTusheets @mmfa Don't care. They R still better than FOX FAKE NEWS&amp;Propaganda Network Media.
+	Sentiment(polarity=0.0, subjectivity=0.75)
+48: RT @vplus: Fox News airs horrific ISIS execution video after previously blasting media outlets for airing "Terrorist Propaganda" http://t.c…
+	Sentiment(polarity=-0.4222222222222223, subjectivity=0.4222222222222223)
+49: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/f0qKH4CzXO
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+50: Fox News: Frozen Is Teaching Little Girls that Men are Dumb http://t.co/nwS79X9C1Z
+	Sentiment(polarity=-0.28125, subjectivity=0.5)
+51: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+52: http://t.co/XPxn4YzGAM Don't steal that fluffy towel, hotels may be tracking you with linen chip - Fox News http://t.co/JgZBIIPf4Q
+	Sentiment(polarity=-0.2, subjectivity=0.4)
+53: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/3wZVhzWyNr
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+54: Buena nota Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look... http://t.co/kcmdDzLKJd
+	Sentiment(polarity=0.22083333333333333, subjectivity=0.6291666666666667)
+55: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/EtgaPyInaM
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+56: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/Vso0cVk9Fc
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+57: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/WchQKb3tLX
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+58: Just when you thought Fox News couldn't get any worse, my god. http://t.co/XKaM32UOtA
+	Sentiment(polarity=-0.4, subjectivity=0.6)
+59: RT @vplus: Fox News airs horrific ISIS execution video after previously blasting media outlets for airing "Terrorist Propaganda" http://t.c…
+	Sentiment(polarity=-0.4222222222222223, subjectivity=0.4222222222222223)
+60: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/R2dlz7JYgF
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+61: Long-serving Obama senior aide stepping down:  http://t.co/U16A38YhzB #Fox #News #AN247
+	Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+62: Texas man arrested after attempt to pay taxes with tightly folded dollar bills:  http://t.co/zjacg917CV #Fox #News #AN247
+	Sentiment(polarity=-0.17857142857142858, subjectivity=0.2857142857142857)
+63: Republicans warn EPA plan would give feds ‘free reign’ to regulate almost all waterways | Fox News http://t.co/XWWoQZfpE8
+	Sentiment(polarity=0.4, subjectivity=0.8)
+64: RT @gaywonk: If Fox News was a real news organization, this kind of a screw up would get a reporter in trouble. But it isn't. http://t.co/f…
+	Sentiment(polarity=0.20000000000000004, subjectivity=0.46666666666666673)
+65: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/0ppU059T2k
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+66: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Lo... http://t.co/I6oDZeNe3M (via @feeds)
+	Sentiment(polarity=0.22083333333333333, subjectivity=0.6291666666666667)
+67: FOX News promoted terrorism today. No joke or exaggeration. .. http://t.co/URHIwqN0X4
+	Sentiment(polarity=0.0, subjectivity=0.0)
+68: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/EgwtgXiDPO
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+69: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/3eNoNojmV9
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+70: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/ypeKS7UtAw
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+71: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/IWPUoBMWAQ
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+72: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/LQbollcpBy #teamfollowback
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+73: RT @DanFrakes: Fox News says we shouldn’t take boys to movies with negative messages about men. #nottheonion http://t.co/IF96NWiG9h
+	Sentiment(polarity=-0.3, subjectivity=0.4)
+74: #NewsOnVitaminaPOP Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's B... http://t.co/ywPpZQxwR4
+	Sentiment(polarity=0.18333333333333335, subjectivity=0.6166666666666667)
+75: Wichita businessman named deputy secretary in @KDHE  http://t.co/nFj629lIwF
+Fox, welcome to your henhouse. 
+(What could possibly go wrong)
+	Sentiment(polarity=0.15000000000000002, subjectivity=0.9)
+76: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/nUQbWT9LeO
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+77: RT @P0TUS: Isn't possible that Fox News thinks "Frozen" emasculates men. Don't believe it. Impossible. Cuz Fox doesn't know what "emasculat…
+	Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)
+78: Murder of Jordanian pilot will backfire on ISIS, former Iraqi diplomat says | Fox News http://t.co/s7YZHUMmbq via @foxnews
+	Sentiment(polarity=0.0, subjectivity=0.0)
+79: RT @gaywonk: Fox News employee review:
+"So you misread the news, published something completely false, and didn't issue a correction? Nice …
+	Sentiment(polarity=0.09999999999999995, subjectivity=0.8)
+80: Extremely Rare Fox Seen in Yosemite—First Time in 100 Years http://t.co/AMV7rxE38V via @NatGeo
+	Sentiment(polarity=0.3, subjectivity=0.9)
+81: WORLD | Buffett says will likely buy small business in Europe: Fox Business | Read: http://t.co/n3FLPNmUA6 via Yahoo!© News
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+82: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look! http://t.co/DAtXmTAkYN
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+83: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/M8u3WcCbYt
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+84: Vivica A. Fox Flashes Bare Breasts and Nipples in Sexy Sheer Dress: See the 50-Year-Old's Bold Look!: Vivica A... http://t.co/6SrL76PWK5
+	Sentiment(polarity=0.24166666666666667, subjectivity=0.6291666666666667)
+85: Fox News airs horrific ISIS execution video after previously blasting media outlets for airing "Terrorist Propaganda" http://t.co/lzdGHaBeGu
+	Sentiment(polarity=-0.4222222222222223, subjectivity=0.4222222222222223)
+86: Rep. Gabbard: This is not a religious war - Fox News http://t.co/45zs2o59Hn
+	Sentiment(polarity=0.0, subjectivity=0.25)
+87: RT @intelwire: News media #protip: If you wouldn't show a white American being burned alive, don't show a brown person abroad http://t.co/M…
+	Sentiment(polarity=0.03333333333333333, subjectivity=0.13333333333333333)
+88: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+89: @Ian_Kuehn  “@ochocinco: I love porn stars &amp; everybody at Fox News...”
+	Sentiment(polarity=0.5, subjectivity=0.6)
+90: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+91: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+92: @eScarry I think the real problem is most cable news viewers are very old and conservative. Fox average viewer is 68 years old.
+	Sentiment(polarity=0.15599999999999997, subjectivity=0.33199999999999996)
+93: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+94: Isn't possible that Fox News thinks "Frozen" emasculates men. Don't believe it. Impossible. Cuz Fox doesn't know what "emasculate" means.
+	Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)
+95: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+96: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+97: Fox News guest finds a way to criticize 'Frozen,' says it empowers women to 'tear ... - http://t.co/7PkoWrXIsA … http://t.co/17Wgug8z0M
+	Sentiment(polarity=0.0, subjectivity=0.0)
+98: Fox News guest finds a way to criticize 'Frozen,' says it empowers women to 'tear ... - http://t.co/9I2uxLQPJ5
 
-#BYUIS #OnlineStudy #OnlineEducation #BYU
-49: So is BYU trolling the media and fans by having former players announce the new signees? #BYU
-50: Hell has frozen over. Fox said something nice about #BYU RT @foxonabox: BYU PR &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Utah PR
-51: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-52: #BYU rolling out "rapping coaches" on NLI Day has to be one of the most unexpected and entertaining recruiting ploys to date for any school.
-53: It's National Signing Day and #BYUSN has got you covered on all things #BYU  Watch here for your ALL-ACCESS info. 
+TheC… http://t.co/d2Njn7CqzC
+	Sentiment(polarity=0.0, subjectivity=0.0)
+99: Fox News posts Jordanian pilot execution video on website http://t.co/gpyrJmtJQ6 
+To punctuate Murdochs points only. Why Lie?
+	Sentiment(polarity=0.0, subjectivity=1.0)
+100: RT @armstrongjp: US Department of Justice confirms it will take no action against News Corporation after $551m investigation http://t.co/g3…
+	Sentiment(polarity=-0.05, subjectivity=0.1)
+101: Fox News' Shep Smith watched the latest Isis snuff film and took *six* pages of notes http://t.co/zc7faUwkAn
+	Sentiment(polarity=0.5, subjectivity=0.9)
+102: STEVE DEACE: Is Fox News already in the tank for Jeb Bush 2016? http://t.co/Ea38bOsx7F
+	Sentiment(polarity=0.0, subjectivity=0.0)
+103: RT @stuartmillar159: YouTube removed Isis video. Facebook says it will remove if any users post. But @FoxNews? Happy to run whole thing htt…
+	Sentiment(polarity=0.5, subjectivity=0.7)
+104: I can't believe it! Fox News site embeds unedited Isis video showing brutal murder of Jordanian pilot http://t.co/GNoLAB46jL
+	Sentiment(polarity=-0.875, subjectivity=1.0)
+105: RT @AddInfoOrg: Fox News: Disney’s ‘Frozen’ Makes Men Feel Bad By ‘Empowering Girls’ (VIDEO) http://t.co/91Q6iOTcxV
+	Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+106: STEVE DEACE: Is Fox News already in the tank for Jeb Bush 2016? http://t.co/DM9SNBbnIb
+	Sentiment(polarity=0.0, subjectivity=0.0)
+107: RT @Independent: Fox News is actually airing Isis' uncut footage of Muath al-Kasaesbeh's death http://t.co/itKLtcqYOJ http://t.co/IDPxAO4bDu
+	Sentiment(polarity=-0.16666666666666666, subjectivity=0.34166666666666673)
+108: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+109: RT @gaywonk: Fox News employee review:
+"So you misread the news, published something completely false, and didn't issue a correction? Nice …
+	Sentiment(polarity=0.09999999999999995, subjectivity=0.8)
+110: It's time people realize what we're dealing with.... So sad and so cruel http://t.co/Aoa2CrhVbS
+	Sentiment(polarity=-0.75, subjectivity=1.0)
+111: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+112: Saudi prince unloading much of News Corp. stake; keeping Fox http://t.co/kb2OK6GsmX $NWS $NWSA $FOX $FOXA
+	Sentiment(polarity=0.2, subjectivity=0.2)
+113: I dont know what Fox News intentions were by posting the entire video but I finally realize how sick ISIS is. They deserve hell
+	Sentiment(polarity=-0.2380952380952381, subjectivity=0.8273809523809524)
+114: Saudi prince unloading much of News Corp. stake; keeping Fox http://t.co/z4NraGD6He $NWS $NWSA $FOX $FOXA
+	Sentiment(polarity=0.2, subjectivity=0.2)
+115: Fox News Analyst Says Islamic State Having 'Time of Their Lives' Over Pilot-Bur... http://t.co/EIOnfmeG3F via @theblaze
+	Sentiment(polarity=0.0, subjectivity=0.0)
+116: This is my favourite Fox News story since the one about the last Muppets movie being anti-capitalist propaganda. http://t.co/F1wrSBhdTj
+	Sentiment(polarity=-0.05, subjectivity=0.08333333333333334)
+117: RT @Philippedecamps: Fox News diffuse des images d'un policier qu'on abat, d'un prisonnier qu'on brûle vivant, mais pas d'une caricature #p…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+118: Nothing makes your Day better then #War #Mongering News Thx #CNN #FOX News
+	Sentiment(polarity=0.5, subjectivity=0.5)
+119: RT @TPM: Fox News segment explores how movies like "Frozen" are emasculating America's men http://t.co/t3N8WCC94B http://t.co/2ArqBbxNHO
+	Sentiment(polarity=0.0, subjectivity=0.0)
+120: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+121: RT @MitchBenn: So Fox News showed unedited footage of a man being immolated, but I bet you if they interviewed a topless woman they'd pixel…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+122: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+123: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+124: 'Apple Electric Car' company uncovered - Fox News http://t.co/i2FZI3ZjxO #apple #mac
+	Sentiment(polarity=0.0, subjectivity=0.0)
+125: Bug Spray News- Bug-burning teen sparked Clearwater brush fire, police say - FOX 13 Tampa Bay, WTVT-TV http://t.co/lFnYUwVR9J
+	Sentiment(polarity=0.0, subjectivity=0.0)
+126: RT @kpfallon: Fox News thinks #Frozen is too empowering to women and harmful to little boys. LOLOLOLOLOLOLOLOL http://t.co/jeu2axGmlJ
+	Sentiment(polarity=-0.1875, subjectivity=0.5)
+127: 'Apple Electric Car' company uncovered - Fox News http://t.co/rLHM0HbWpC
+	Sentiment(polarity=0.0, subjectivity=0.0)
+128: RT @Margoandhow: Fox News eyes latest danger to America’s culture: The movie Frozen, w its strong female characters sending a bad message a…
+	Sentiment(polarity=0.058333333333333376, subjectivity=0.6166666666666667)
+129: RT @KamahlAJE: There is something of an unwritten code that media outlets don't broadcast ISIL videos, if only on decency grounds. Why brea…
+	Sentiment(polarity=0.0, subjectivity=1.0)
+130: RT @jojokejohn: hi is fox news or mainstream news on yet??? http://t.co/zE8WVhyMWL
+	Sentiment(polarity=0.0, subjectivity=0.0)
+131: RT @ItsKDToYou: Just Signed To University Of Northern Iowa🙏👏🏈💯 .... CBS &amp; Fox News Interview http://t.co/9EFhL9ZgPh
+	Sentiment(polarity=0.0, subjectivity=0.0)
+132: RT @ELTIEMPO: Polémica en EE.UU: Fox News publicó video de piloto quemado por el Estado Islámico http://t.co/biYjovSI0Z http://t.co/GDd2O2c…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+133: Republican response: GOP Congress ready to champion middle class | Fox News http://t.co/Vt4nAdMEFE http://t.co/nffA5Xx81L
+	Sentiment(polarity=0.1, subjectivity=0.25)
+134: RT @gaywonk: Embarrassing. Fox News reporter gets story about anti-gay cake bakers totally backwards.  http://t.co/feZF2OTdE6 http://t.co/W…
+	Sentiment(polarity=0.0, subjectivity=0.75)
+135: @FoxNews sans pitié! http://t.co/l69klLo3IE #pilotejordanien
+	Sentiment(polarity=0.0, subjectivity=0.0)
+136: RT @sarahlery: @owais00 I'll try. Fuck Fox News. Fuck them blaming this on religion. I saw them hammering that message home to their viewer…
+	Sentiment(polarity=-0.4, subjectivity=0.6)
+137: RT @TheMarySue: #Frozen Will Harm the Production of “Real Men” Because Fox News is Backwards Land
+http://t.co/kHNemhaICP http://t.co/bZxvYW…
+	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
+138: Finally, someone speaks to my problems MT @TPM: Fox News explores how movies like "Frozen" are emasculating men http://t.co/84YQcGYr3T
+	Sentiment(polarity=0.0, subjectivity=1.0)
+139: RT @TPM: Fox News segment explores how movies like "Frozen" are emasculating America's men http://t.co/t3N8WCC94B http://t.co/2ArqBbxNHO
+	Sentiment(polarity=0.0, subjectivity=0.0)
+140: DOJ declines to prosecute FOX.  Review the the News of the World Phone-hacking scandal timeline http://t.co/lt9wTzTr48
+	Sentiment(polarity=0.0, subjectivity=0.0)
+141: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+142: From Fox News (mock it all you want, I won't disagree): The CIA has admitted t http://t.co/TYyfj2X4sV http://t.co/GlZwCwm6am
+	Sentiment(polarity=0.0, subjectivity=0.0)
+143: Fox News Segment: Movies Like 'Frozen' Are Emasculating America's Men http://t.co/8JyIbMsFtm
+	Sentiment(polarity=0.0, subjectivity=0.0)
+144: Buffett says will likely buy small business in Europe: Fox Business http://t.co/8zTkVMXJUy via @YahooFinance 버핏
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+145: "@bbcmundo: Fox News defiende decisión de mostrar video del piloto jordano en llamas http://t.co/1p64QRChSv"
+	Sentiment(polarity=0.0, subjectivity=0.0)
+146: Fox News the leading worldwide distributor of terrorist videos.
+	Sentiment(polarity=0.0, subjectivity=0.0)
+147: New post: Fox News Pimps Vaccines http://t.co/QvdczptRyp
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+148: RT @bbcmundo: Fox News defiende decisión de mostrar video del piloto jordano en llamas http://t.co/W6GRT0K1SY
+	Sentiment(polarity=0.0, subjectivity=0.0)
+149: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+150: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+151: Fox News Analyst Says Islamic State Having 'Time of Their Lives' Over Pilot-Bur... http://t.co/g71r3ShEWv via @theblaze
+	Sentiment(polarity=0.0, subjectivity=0.0)
+152: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+153: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+154: @JonKolb25 All I can say is, read some of the racist posts on the Fox News FB page and tell me they're not afraid of being outnumbered soon.
+	Sentiment(polarity=0.3, subjectivity=0.9)
+155: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+156: RT @cher: “GOP”CARES 4 MIDDLE,CLASS,LIKE I CARE 4,KKK,
+SPIDERS,RUBARB,SEA WORLD,MEASLES,TAIJI,FOX NEWS, SARAH PALIN,MCDONALDS,HELL,C.CHRIST…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+157: ISIS's favorite media outlet is FOX News they broadcast their videos and propaganda unedited and unfiltered and... http://t.co/zmYNbzJR3T
+	Sentiment(polarity=0.2, subjectivity=0.55)
+158: “@foxraven: Uh...WHAT??? http://t.co/slEadXHB0t” Fox News is a bizarre fail of an organization w women entombed in layers of cake makeup
+	Sentiment(polarity=-0.04999999999999999, subjectivity=0.44999999999999996)
+159: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+160: FOX News: a Wahabi Arab sheik riding shotgun with an Australian NAZI tearing America apart, facilitating its... http://t.co/cTOWGJZy1M
+	Sentiment(polarity=0.0, subjectivity=0.0)
+161: @a1sportsnut007 u radical left wing extremists r like robots. 1%!! Koch brothers!! Haliburtin! Fox news!! Lmao like the walking dead!
+	Sentiment(polarity=0.11666666666666665, subjectivity=0.4666666666666666)
+162: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+163: RT @ItsKDToYou: Just Signed To University Of Northern Iowa🙏👏🏈💯 .... CBS &amp; Fox News Interview http://t.co/9EFhL9ZgPh
+	Sentiment(polarity=0.0, subjectivity=0.0)
+164: Code Pink Leader Gives Fox News Sound Advice On Nonviolent Ways To  http://t.co/Y3B5zphJVS
+  #foxnews #islamicstate
+	Sentiment(polarity=0.23333333333333336, subjectivity=0.4333333333333333)
+165: RT @DemocracyFail: Fox News site embeds unedited Isis video showing brutal murder of Jordanian pilot http://t.co/yR4Ptrf1gB
+	Sentiment(polarity=-0.875, subjectivity=1.0)
+166: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+167: RT @stuartmillar159: YouTube removed Isis video. Facebook says it will remove if any users post. But @FoxNews? Happy to run whole thing htt…
+	Sentiment(polarity=0.5, subjectivity=0.7)
+168: #news #newsnight Buffett says will likely buy small business in Europe - Fox Business: Billionaire investor Wa...  http://t.co/MKQ6meB4Gg
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+169: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+170: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+171: “@ochocinco: I love porn stars &amp; everybody at Fox News...”@miakhalifa 💙
+	Sentiment(polarity=0.5, subjectivity=0.6)
+172: Dartmouth College to offer ‘Black Lives Matter’ classes | Fox News http://t.co/KSoiOepc8d via @foxnews
+	Sentiment(polarity=-0.16666666666666666, subjectivity=0.43333333333333335)
+173: #Craftbeer News -  Firin' Up The Fox Introduces New Chairman http://t.co/M0ClUseeNI
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+174: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+175: RT @sarahlery: @owais00 I'll try. Fuck Fox News. Fuck them blaming this on religion. I saw them hammering that message home to their viewer…
+	Sentiment(polarity=-0.4, subjectivity=0.6)
+176: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+177: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+178: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+179: holy shit this is the most absurd shit even for FOX news  https://t.co/3MktGsZUOl
+	Sentiment(polarity=-0.1, subjectivity=0.7749999999999999)
+180: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+181: Fox News' Krauthammer Blows the Cover Off the President's 'Pretend Strategy' to Get ISIS http://t.co/kFNM58bWNP
+	Sentiment(polarity=0.0, subjectivity=0.0)
+182: BREAKING: Frozen is a children’s animated movie. http://t.co/qDXv1YX2R4
+	Sentiment(polarity=0.0, subjectivity=0.0)
+183: EASIER ON THE GOATS..Fox News Analyst Says Islamic State Having 'Time of Their Lives' Over Pilot-Bur... http://t.co/viIglRRy92 via @theblaze
+	Sentiment(polarity=0.0, subjectivity=0.0)
+184: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+185: Buffett says will likely buy small business in Europe: Fox Business http://t.co/gsBh1kt4Cf
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+186: UC Davis #5 - Fox News 
 
-http://t.co/8YjYz72vmq
-54: so we really didn't need to go indy for exposure? we were waiting for Mo Langi NLI. lol #BYU
-55: RT @DerwinLGray: I remember signing my National Letter of Intent Feb. 15, 1989 with #BYU. 
-
-Congratulations to all who signed today! http:/…
-56: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-57: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-58: RT @TJoe_Sweet: Now that was a #NationalSigningDay ceremony right there! @DesotoFB @dctf @SMURivals @TXHSFB #PonyUp #Bucky #KSU #BYU http:/…
-59: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-60: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-61: RT @VanquishTheFoe: ATTN CFB: Y'all stay the hell outta Tonga, too. Always been #BYU country. :-)
-62: RT @jplaxman2: Real proud of my brother @rileyburt34 you're gonna do great things #RiseUp  #NationalSigningDay #BYU http://t.co/ApcL3HsiyN
-63: RT @TJoe_Sweet: Now that was a #NationalSigningDay ceremony right there! @DesotoFB @dctf @SMURivals @TXHSFB #PonyUp #Bucky #KSU #BYU http:/…
-64: Wow, #BYU has received a ton of national attention for the NLOI signing of 410 lb Langi 👍
-65: Real proud of my brother @rileyburt34 you're gonna do great things #RiseUp  #NationalSigningDay #BYU http://t.co/ApcL3HsiyN
-66: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-67: RT @jaromjordan: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-68: RT @jaromjordan: Preston Hadley is the MC. Different former players announce the signees. Video highlights and celebration.#BYUSN #BYU http…
-69: Kyle Whittingham is so uncomfortable speaking room so fake trying to create energy you have to feel sorry for the Utes...but I don't #BYU
-70: Bryan Kehl and David Nixon just announced the signing of their sons. #BYUSN #BYU http://t.co/ALGI8ins1m
-71: still can't deny @UtahCoachWhitt did a great job recruiting after losing oc and dc. More valuable than Chris hill IMO. #byu #utes
-72: RT @Spencer_Linton: Juxtaposition: "@brettpyne: Check out new #BYU signee Motekiai Taukolo Langi w/ BYU's 6-7, 265-lb Bronson Kaufusi. http…
-73: RT @TheMontyShow: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-74: Now that was a #NationalSigningDay ceremony right there! @DesotoFB @dctf @SMURivals @TXHSFB #PonyUp #Bucky #KSU #BYU http://t.co/w2ySbakG8V
-75: RT @jaromjordan: Preston Hadley is the MC. Different former players announce the signees. Video highlights and celebration.#BYUSN #BYU http…
-76: RT @jaromjordan: Preston Hadley is the MC. Different former players announce the signees. Video highlights and celebration.#BYUSN #BYU http…
-77: Preston Hadley is the MC. Different former players announce the signees. Video highlights and celebration.#BYUSN #BYU http://t.co/66BkKehR3U
-78: RT @jaromjordan: Check out @BYUSportsNation at 10am MT for BYU Football Signing Day reaction &amp; interviews from coaches. #BYUSN #BYU http://…
-79: RT @imsoeducated: #imsoeducated COLLEGE TOURS #BoiseState # IdahoState #BYU #CollegeofIdaho http://t.co/WnLL1c51Mo
-80: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-81: I don't think any school in the country has put together a better signing day experience than #BYU. Congrats to @geoffmartzen @BYUfootball
-82: Vista Murrieta HS DL Tevita Mounga (@mounga50) has sent his NLI in to #BYU. #2015ChosenOnes #BYUFOOTBALL #ScoutNSD
-83: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-84: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-85: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-86: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-87: RT @Y4LYFE: Nobody is harder on #BYU program than me and I'm floored by the show they're putting on, the guys they've been signing, &amp; the a…
-88: RT @Y4LYFE: Nobody is harder on #BYU program than me and I'm floored by the show they're putting on, the guys they've been signing, &amp; the a…
-89: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-90: RT @jaromjordan: Check out @BYUSportsNation at 10am MT for BYU Football Signing Day reaction &amp; interviews from coaches. #BYUSN #BYU http://…
-91: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-92: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-93: @AgentCam He is NOT going to #BYU ...He has had some interest but my guess is that he will go back to JC
-94: Nobody is harder on #BYU program than me and I'm floored by the show they're putting on, the guys they've been signing, &amp; the alums helping
-95: "74% of LGBT BYU students have suicidal ideation, and 24% attempt"
-http://t.co/cWPpuTT2vW
-
-#LGBT #BYU #Gay #Mormon #LDS
-96: RT @DougKimmelScout: Zayne Anderson is a name to remember if you are a #BYU fan... he may be the sleeper in the class: http://t.co/tBdelqvw…
-97: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-98: “@jaromjordan: The big board. #BYUSN #BYU http://t.co/kB1e8wbOWi” hey das me
-99: #BYU picks up biggest commitment of signing day: ... #BYUCougars #LiahonaHighSchool #MotekiaiLangi #Tonga http://t.co/3qg0ILWflY
-100: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-101: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-102: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-103: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-104: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-105: RT @jaromjordan: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-106: The big board. #BYUSN #BYU http://t.co/CxsseNC6Ue
-107: Signing Day .. Congrats to my Boy @Meekuhh42 , #BYU getting one of the most disruptive/destructive ballers out there !
-108: Check out @BYUSportsNation at 10am MT for BYU Football Signing Day reaction &amp; interviews from coaches. #BYUSN #BYU http://t.co/AAbKKLDRT0
-109: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-110: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-111: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-112: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-113: RT @Spencer_Linton: Thank u Eric! "@morrow31: Coached at a clinic w/ [Mo Langi] in Tonga. Legend of his size is true. Video proof: http://t…
-114: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-115: RT @LarsHanson: Mika Tafua has signed with #BYU over #Washington. Another close decision between the two. WR Jaylinn Hawkins announces arou…
-116: RT @TotalBlueSports: Mika Tafua (@Meekuhh42) announced via twitter that he will indeed sign w/ #BYU today. #BYUfootball #2015ChosenOnes #Sc…
-117: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-118: Mika Tafua has signed with #BYU over #Washington. Another close decision between the two. WR Jaylinn Hawkins announces around noon today.
-119: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-120: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-121: RT @TotalBlueSports: Mika Tafua (@Meekuhh42) announced via twitter that he will indeed sign w/ #BYU today. #BYUfootball #2015ChosenOnes #Sc…
-122: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-123: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-124: RT @TotalBlueSports: Mika Tafua (@Meekuhh42) announced via twitter that he will indeed sign w/ #BYU today. #BYUfootball #2015ChosenOnes #Sc…
-125: RT @mikmin5: Complete update &amp; recap of @BYUfootball Signing Day coming up live at 12pm ET @BYUSportsNation #BYUSN #BYU
-126: RT @Y4LYFE: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights …
-127: RT @kslsports: LIVE VIDEO @ 11AM MT: Mufi Hunt Signing Day #BYU #USU #OregonState #MichiganState #Wazzu
-
-http://t.co/YK7Ai1uS1M http://t.co…
-128: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-129: RT @byutv: Tune in to BYUtv for today's live coverage of #BYU Football Signing Day--&gt; http://t.co/26Qz5mozTc #BYUSN @byutvsports http://t.c…
-130: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-131: RT @Y4LYFE: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-132: RT @TotalBlueSports: Mika Tafua (@Meekuhh42) announced via twitter that he will indeed sign w/ #BYU today. #BYUfootball #2015ChosenOnes #Sc…
-133: Complete update &amp; recap of @BYUfootball Signing Day coming up live at 12pm ET @BYUSportsNation #BYUSN #BYU
-134: Mika Tafua (@Meekuhh42) announced via twitter that he will indeed sign w/ #BYU today. #BYUfootball #2015ChosenOnes #ScoutNSD
-135: RT @TheMontyShow: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-136: RT @kslsports: LIVE VIDEO @ 11AM MT: Mufi Hunt Signing Day #BYU #USU #OregonState #MichiganState #Wazzu
-
-http://t.co/YK7Ai1uS1M http://t.co…
-137: Does the SL media think #BYU constructed an entire draft set overnight &amp; invited alums living across the country with a nights notice?
-138: RT @kslsports: LIVE VIDEO @ 11AM MT: Mufi Hunt Signing Day #BYU #USU #OregonState #MichiganState #Wazzu
-
-http://t.co/YK7Ai1uS1M http://t.co…
-139: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-140: LIVE VIDEO @ 11AM MT: Mufi Hunt Signing Day #BYU #USU #OregonState #MichiganState #Wazzu
-
-http://t.co/YK7Ai1uS1M http://t.co/5PrX1PDfvJ
-141: RT @TheMontyShow: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-142: Utah media: #BYU doesn't give an F about alums.
-#BYU: &amp; the next alum to announce our next commit….
-See the disconnect?
-143: RT @tannachris: Just watching some of the videos other instate schools are puttin up for signing day....#BYU knows how to do it right!! #20…
-144: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-145: Alright Mufi, you have our attention.  #BYU
-146: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-147: #BYU pickz up bigges' commitmint uv signn' day: 6-7, 410 poundz: facebook twitta googlepluz… http://t.co/jDRnkxa1rZ
-148: RT @morrow31: Coached at a #Tuhulu fb clinic attended by #BYU fb recruit Motekiai Langi. Video proof of his size http://t.co/svamhFEc1R
-149: #BYU picks up biggest commitment of signin day 6-7 410 �  http://t.co/XvNPFm2Lzh #BYUCougars #LiahonaHighSchool #MotekiaiLangi #Tonga
-150: #BYU picks up biggest commitment of signin day 6-7 410 �  http://t.co/y9FjAlmKrd #BYUCougars #LiahonaHighSchool #MotekiaiLangi #Tonga
-151: Hurricane HS LB Jeremiah Ieremia (@15jeremier) has sent his NLI in to #BYU. #BYUfootball #2015ChosenOnes #ScoutNSD
-152: @TheMontyShow Good to see some life back in #BYU 's program
-153: RT @TheMontyShow: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-154: @hobocita @TomHolmoe you mean there are other things on social media now besides #byu?
-155: RT @TheMontyShow: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-156: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-157: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-158: Coached at a #Tuhulu fb clinic attended by #BYU fb recruit Motekiai Langi. Video proof of his size http://t.co/svamhFEc1R
-159: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-160: @975hans @heman_hyde Of course he's going on a mission. Typical #BYU, land a lunker, send him on a more important journey that kills muscle
-161: All the way from Liahona Tonga: Motekiai Langi. Just a little guy at 6'7 410lbs.  We hear he runs a 4.4 40!! #BYU http://t.co/zKfRYSbC5b
-162: RT @VanquishTheFoe: ATTN CFB: Y'all stay the hell outta Tonga, too. Always been #BYU country. :-)
-163: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-164: Oh hold heck this is fantastic! https://t.co/gBDByDIf3W #BYU
-165: Tune in to BYUtv for today's live coverage of #BYU Football Signing Day--&gt; http://t.co/26Qz5mozTc #BYUSN @byutvsports http://t.co/nusna8jwlj
-166: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-167: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-168: RT @Captain_Strongo: I’m pretty sure @darrenrovell genuinely thinking that #BYU just invented Mo Langi is the biggest win so far today. Gre…
-169: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-170: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-171: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-172: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-173: Stoked to have you @BigBabyDavis_99. Going to do great things! Welcome to the family. #BYU #BandOfBrothers
-174: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-175: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-176: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-177: That body is no accident #BYU @BYUfootball http://t.co/dLcnSEQA22
-178: RT @TotalBlueSports: Pleasant Grove HS OL Demetrius Davis (@BigBabyDavis_99) has signed his NLI &amp; sent it to #BYU. #BYUfootball #ScoutNSD #…
-179: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-180: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-181: I’m pretty sure @darrenrovell genuinely thinking that #BYU just invented Mo Langi is the biggest win so far today. Great job, team!
-182: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-183: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-184: RT @TotalBlueSports: Pleasant Grove HS OL Demetrius Davis (@BigBabyDavis_99) has signed his NLI &amp; sent it to #BYU. #BYUfootball #ScoutNSD #…
-185: Pleasant Grove HS OL Demetrius Davis (@BigBabyDavis_99) has signed his NLI &amp; sent it to #BYU. #BYUfootball #ScoutNSD #2015ChosenOnes
-186: RT @TheMontyShow: Talking #BYU with @TheeeGifted NOW on @1320KFAN http://t.co/Z7VVv17n1P
-187: RT @dufftittle: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.c…
-188: Video proof of the size of #BYU recruit Motekiai Langi http://t.co/svamhFEc1R
-189: Hangin out at #BYUNSD15 with a couple of former No. 20 Cougar greats @RenoMahe &amp; Daniel Coats. #BYUFootball #BYU http://t.co/HUrZqXd0La
-190: RT @Spencer_Linton: Thank u Eric! "@morrow31: Coached at a clinic w/ [Mo Langi] in Tonga. Legend of his size is true. Video proof: http://t…
-191: RT @JakeHatch77: There he is. Motekiai Langi with Bronco Mendenhall &amp; Steve Kaufusi. #BYUfootball #BYU  RT @BYUrecruiting: http://t.co/Anz8…
-192: in a weird way Sitake and GA are doing #byu a favor. Rather have recruits go there than Utah. Helps #byu even out recruiting field
-193: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-194: Dude is light on his feet.  RT @Gobberslob: #BYU Recruit Mo Langi: http://t.co/yQvGdVZfkn  via @YouTube
-195: Now that I know Langi is already in the MTC for his #Mormon mission, it makes sense why I can see garment line #byu http://t.co/Z7jHoviHYL
-196: #BYU Recruit Mo Langi: http://t.co/akwqiRZ1CI  via @YouTube
-197: RT @8_GoldenHands: Signing Day ! #BYU http://t.co/DeVEjNtWYd
-198: RT @Spencer_Linton: Thank u Eric! "@morrow31: Coached at a clinic w/ [Mo Langi] in Tonga. Legend of his size is true. Video proof: http://t…
-199: RT @TotalBlueSports: Rockwall-Heath OL J.J. Nwigwe (@JJ2js61) has sent in his NLI to #BYU. #BYUfootball #ScoutNSD #2015ChosenOnes
-200: Just watching some of the videos other instate schools are puttin up for signing day....#BYU knows how to do it right!! #2015ChosenOnes
+http://t.co/Agt3l85Ehi http://t.co/aprFas8kwR
+	Sentiment(polarity=0.0, subjectivity=0.0)
+187: After the No-go zones in Paris now this? "Frozen a threat to masculinity" I used to think Fox News was a proper News Channel. #wtf
+	Sentiment(polarity=-0.25, subjectivity=0.55)
+188: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+189: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+190: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+191: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+192: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+193: RT @MitchBenn: So Fox News showed unedited footage of a man being immolated, but I bet you if they interviewed a topless woman they'd pixel…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+194: RT @TimesGoogle: #Business Buffett says will likely buy small business in Europe: Fox Business: Billionaire investor Warren Buf... http://t…
+	Sentiment(polarity=-0.125, subjectivity=0.7)
+195: “@ochocinco: I love porn stars &amp; everybody at Fox News...”
+	Sentiment(polarity=0.5, subjectivity=0.6)
+196: RT @ochocinco: I love porn stars &amp; everybody at Fox News...
+	Sentiment(polarity=0.5, subjectivity=0.6)
+197: Cuban medical brigade fighting Ebola nominated for Nobel Peace Prize - Fox News Latino http://t.co/EFmTW1qaOG
+	Sentiment(polarity=0.0, subjectivity=0.0)
+198: Unspeakably insensitive &amp; irresponsible: @FoxNews embeds unedited Isis video showing brutal murder of Jordanian pilot http://t.co/oR6PjhHxYE
+	Sentiment(polarity=-0.875, subjectivity=1.0)
+199: RT @MattyIceAZ: Thinking you know what a liberal believes because you watch Fox News, is like finding out what a Mormon believes from talki…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+200: “@ochocinco: I love porn stars &amp; everybody at Fox News...”
+	Sentiment(polarity=0.5, subjectivity=0.6)
+201: Wooster man charged with gross sexual imposition: Adam C. Pumneo, 38, of 1878 Fox Lake Road, has been charged ... http://t.co/WVANbR66Ed
+	Sentiment(polarity=0.25, subjectivity=0.4166666666666667)

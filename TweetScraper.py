@@ -21,10 +21,13 @@ class TweetScraper:
         statuses = search_results['statuses']
 
         # iterate through 5 more batches of results by following the cursor
+        count = 0
+
         for _ in range(9):
             print "Tweets collected so far: ", len(statuses)
             try:
                 next_results = search_results['search_metadata']['next_results']
+                count += 100
             except KeyError, e:  # no more results when next results doesnt exist
                 break
 
@@ -38,15 +41,7 @@ class TweetScraper:
             # show one sample search result by slicing the list...
             # print json.dumps(statuses[0], indent=1)
 
-        # write all tweets to text file
-        txtFile = open("tweets.txt", 'w')
-        count = 0
-
-        for tweet in statuses:
-            count += 1
-            txtFile.write(str(count) + ": " + tweet['text'].encode('utf-8')+"\n")
-
-        print "Total Number of Tweets Collected: " + str(count) + "\n" + "Tweet text successfully saved to tweets.txt"
+        print "Total Number of Tweets Collected: " + str(count)
         return statuses
 
 

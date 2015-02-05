@@ -25,10 +25,16 @@ twitter_api = twitter.Twitter(auth=auth)
 obj = TweetScraper.TweetScraper()
 tweetsArray = obj.scrape_twitter(twitter_api, query)
 
+# open file to write all tweets to text file
+txtFile = open("tweets.txt", 'w')
+count = 0
+
 # read text file
 for tweet in tweetsArray:
-    text = tweet['text'] # .encode(default_encoding)
+    text = tweet['text']
     blob = TextBlob(text)
+    count += 1
+    txtFile.write(str(count) + ": " + tweet['text'].encode('utf-8')+"\n\t" + str(blob.sentiment) + "\n")
 
-    # print blob.tags
-    print blob.sentiment
+# print blob.tags
+print "Sentiment and tweets recorded in tweets.txt"
