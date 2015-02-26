@@ -38,12 +38,12 @@ for tweet in rawArray:
     count += 1
 
     # Create array of tweet objects
-    tweetArray.append(TweetObject(tweet['text'].encode('utf-8'), str(blob.sentiment.polarity)))
+    tweetArray.append(TweetObject(tweet['text'].encode('utf-8'), str(blob.sentiment.polarity), tweet['retweet_count']))
 
     # Write raw data to file
     txtFile.write(str(count) + ": " + tweet['text'].encode('utf-8') + "\n\t" + str(blob.sentiment) + "\n")
 
 # print blob.tags
 print "Sentiment and tweets recorded in tweets.txt"
-print "Positivity Sample: " + tweetArray[0].get_positivity() + " The Tweet: " + tweetArray[0].get_tweet_text()
+print "Positivity Sample: " + tweetArray[0].get_positivity() + " \n The Tweet: " + tweetArray[0].get_tweet_text() + "\n Retweet Count: " + str(tweetArray[0].get_retweets())
 

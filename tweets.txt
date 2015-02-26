@@ -1,2156 +1,426 @@
-1: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/MD1977T5lY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-2: BBC Urdu - آگ میں سے چھلانگ اور برف میں چرواہا http://t.co/jKPvyKn8Yt
-	Sentiment(polarity=0.0, subjectivity=0.0)
-3: Call to ban energy drinks for kids http://t.co/st0VTmiNrU
-	Sentiment(polarity=0.0, subjectivity=0.0)
-4: No future for TV licence, MPs say http://t.co/QexFzvF0aN
-	Sentiment(polarity=0.0, subjectivity=0.125)
-5: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/iNBShtrpVm
-	Sentiment(polarity=0.0, subjectivity=0.0)
-6: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/jXTfcss4c2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-7: BBC Hindi - मध्य प्रदेश के राज्यपाल का इस्तीफ़ा http://t.co/Pc9UrV5r1g Waiting for JLPB! #आपकीसरकार
-	Sentiment(polarity=0.0, subjectivity=0.0)
-8: Dispute over outdoor smoking ban call http://t.co/T53EXaPb4c
-	Sentiment(polarity=0.0, subjectivity=0.0)
-9: Zouma reminds me of Desailly http://t.co/KgndQpiN2A
-	Sentiment(polarity=0.0, subjectivity=0.0)
-10: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/ONFYOIeZf5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-11: RT @bbcmundo: Nuevas protestas en #Venezuela dejan al menos cinco heridos http://t.co/DR4PARn85z http://t.co/KucINw1bXY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-12: Cameron: Im fun and optimistic http://t.co/WAK9fkE5Ds
-	Sentiment(polarity=0.3, subjectivity=0.2)
-13: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/OajF79wxRe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-14: RT @swissbusiness: Ex-Guatemalan president freed in US http://t.co/VSgG8tlxPa http://t.co/W5DskzCD6l
-	Sentiment(polarity=0.0, subjectivity=0.0)
-15: Sir Cliff inquiry widens, and a Helmand hero http://t.co/D4qEiypf1V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-16: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/XaL319VUJ8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-17: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-18: @bbc_pdb 카스는나중에뜰꺼같던데!!그리고저번에카스뜬것도캐릭터산사람이지아나쏘?ㅇㅅㅇ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-19: RT @BBCHindi: रेल बजटः पांच चुनौतियां, पांच शिकायतें  http://t.co/1wVINQ2inG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-20: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/Az0jqHY0sn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-21: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/EGfDOKmbx3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-22: Kevin Spacey to get special Olivier http://t.co/j0Z1BjT5af
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-23: RT @bbcworldservice: "I gave a voice to the voiceless women of Iran" - campaigner @masih_alinejad http://t.co/ZnRAI3FUjO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-24: RT @lovely1Dupdates: Ed Sheeran talking on BBC Radio 1 this morning about how he won't win the Best Video Brit bc 1D is nominated. 😂😂 -A ht…
-	Sentiment(polarity=0.9, subjectivity=0.35)
-25: The man who invented the dinosaur http://t.co/CoS3QV1Zxk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-26: #rt Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence ... http://t.co/Pq5n78P0C2 #follow
-	Sentiment(polarity=0.0, subjectivity=0.0)
-27: At The BBC, The Beatles Shocked An Institution  http://t.co/NK71mvNmkI
-	Sentiment(polarity=-0.7, subjectivity=0.8)
-28: #rt N Korea company 'renaming ships': A North Korean shipping company has renamed and reflagged its ve... http://t.co/GFfjxI0Vfs #follow
-	Sentiment(polarity=0.0, subjectivity=0.0)
-29: Argentina votes on intelligence body http://t.co/b49y9cJhlw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-30: MPs call for reform of GM crops rules http://t.co/31RTgU9OQ6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-31: #Stories Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence age... http://t.co/gh2lJfj4jE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-32: #News Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency... http://t.co/szgI53KFaA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-33: Call to ban energy drinks for kids http://t.co/x6ZcxWRLHf
-	Sentiment(polarity=0.0, subjectivity=0.0)
-34: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelli... http://t.co/kKgYbw6HJa ff @horluwargbear
-	Sentiment(polarity=0.0, subjectivity=0.0)
-35: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-36: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/T5Lkk34Vs6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-37: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/rQHhcbjjm3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-38: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/oKpnrjkQIH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-39: Call to ban energy drinks for kids http://t.co/nZALzCyA3Z
-	Sentiment(polarity=0.0, subjectivity=0.0)
-40: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intell... http://t.co/ZNEBfbpuQ6 #news #socialmedia
-	Sentiment(polarity=0.0, subjectivity=0.0)
-41: From BBC News, Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligen... http://t.co/1aQJwCjYlw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-42: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/8cjwQC9rvc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-43: Stars check back into Marigold Hotel http://t.co/mFSnTHc0bl
-	Sentiment(polarity=0.0, subjectivity=0.0)
-44: Anger with sexist football chant http://t.co/7yOAUUvcVx
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-45: RT @Mistress_Harley: Did you know my hubby is a #bbc? The absolute superior #cock to pathetic puny #pindick white boys! #blackcock #findom …
-	Sentiment(polarity=-0.025000000000000022, subjectivity=0.7)
-46: http://t.co/5e7HZD7GvF: BLACKED Blonde Cheats with Her BBC Trainer http://t.co/CCFGSOU1Hj #blacked #blonde #cheats #interracial #trainer
-	Sentiment(polarity=0.0, subjectivity=0.0)
-47: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/gUgD4vSiyL
-	Sentiment(polarity=0.0, subjectivity=0.0)
-48: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-49: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/h9txY797d6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-50: Lisa is getting fucked by a BBC #pics #news #pussy #youtube http://t.co/JL9NFQFVn4
-	Sentiment(polarity=-0.6, subjectivity=0.7)
-51: Anger with sexist football chant http://t.co/b8EkiSRNdQ
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-52: The decline of Nato defence spending http://t.co/bm6yZUuefo
-	Sentiment(polarity=0.0, subjectivity=0.0)
-53: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/ugc0UgZGEn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-54: The girl who gets gifts from birds http://t.co/TgJvVXKLCM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-55: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/sLYIVJot2a
-	Sentiment(polarity=0.0, subjectivity=0.0)
-56: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/k6h4ZvlXiT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-57: RT @MikkiL: Margaret Thatcher wanted to take over the BBC over Falklands coverage http://t.co/6bQDGOnYxW she realised they are not patrioti…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-58: Cheap oil: Asias winners and losers http://t.co/teYTY2DUT1
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-59: RT @StageRights: ICYMI: Have you seen this adorable interview with Ed and Taylor? http://t.co/t6R0GuaFhc http://t.co/By8S77n53O
-	Sentiment(polarity=0.5, subjectivity=1.0)
-60: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-61: What is Campaignspotting? http://t.co/ClUZAadZM3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-62: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/nzNHQhLSzi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-63: Kevin Spacey to get special Olivier http://t.co/utxwkt12RK
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-64: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/VmvjQmOWV0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-65: Cameron: Im fun and optimistic http://t.co/LFUJgKU2SN
-	Sentiment(polarity=0.3, subjectivity=0.2)
-66: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/BVFEURFAh8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-67: Victoria Cross for Afghan raid hero http://t.co/8Jx4KP5nfg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-68: The man who invented the dinosaur http://t.co/EeVpy5mRAu
-	Sentiment(polarity=0.0, subjectivity=0.0)
-69: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intel... http://t.co/3xSZ3wBcGC #retweetandfollowme
-	Sentiment(polarity=0.0, subjectivity=0.0)
-70: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/k69gcSRuNF
-	Sentiment(polarity=0.0, subjectivity=0.0)
-71: Trident question comes to the surface http://t.co/nJ95fzhCxc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-72: RT @FCRealMX: Pronto regresara la BBC.
-
-@EternamenteRM @pr7_rmd @MADbien @RMCF_SV @RMadridUnido @Cr7Fran4ever @SoloGolazosFM http://t.co/xt…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-73: BBC News - Avalanche kills at least 12 people on Mount Everest …
-	Sentiment(polarity=-0.3, subjectivity=0.4)
-74: MPs call for reform of GM crops rules http://t.co/s7IQ2yso3q
-	Sentiment(polarity=0.0, subjectivity=0.0)
-75: #BBC Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intellige... http://t.co/v2u5tp7HEp (via @bbc)
-	Sentiment(polarity=0.0, subjectivity=0.0)
-76: Could there be a #screeningtest for #ParkinsonsDisease as simple as a breath test in the future? #epiwm2015 http://t.co/Tk4yISqG2Q
-	Sentiment(polarity=0.0, subjectivity=0.24107142857142858)
-77: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/bHuMpaxJTb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-78: Mary, Queen of Scots to get first statue: Mary, Queen of Scots to get first public statue http://t.co/3dWEi2O7ws
-	Sentiment(polarity=0.16666666666666666, subjectivity=0.24444444444444444)
-79: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/O0vJrLUyg0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-80: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/yV3MNf9rws
-	Sentiment(polarity=0.0, subjectivity=0.0)
-81: BBC News - #Dutch town takes up umbrellas against rogue owl attacks #netherlands  http://t.co/dPgy75N2rk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-82: BBC News - Brit Awards 2015: Madonna falls off stage http://t.co/gffQPnE8z5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-83: Cheap oil: Asias winners and losers http://t.co/NYlTjjTDyq
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-84: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/kEk2IGXo9J
-	Sentiment(polarity=0.0, subjectivity=0.0)
-85: Mary, Queen of Scots to get first statue: Mary, Queen of Scots to get first public statue http://t.co/fnoDrhSq87
-	Sentiment(polarity=0.16666666666666666, subjectivity=0.24444444444444444)
-86: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/Xo2wbfDYjb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-87: The man who returned his grandfather’s looted art http://t.co/mwScEv6PqH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-88: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/NDLb8mcRxY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-89: Mary, Queen of Scots to get first statue: Mary, Queen of Scots to get first public statue http://t.co/nVk2zhkrHy #scotland
-	Sentiment(polarity=0.16666666666666666, subjectivity=0.24444444444444444)
-90: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/6nqzge7goA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-91: ゼラ：「あ、もしもし？夜遅くにごめんね、起こしたかい？あ、良かった。いや、特に用事があるわけじゃないんだ。どうしてるかな？と思って。うん。そうか。明日のユニオンバトル来るよね？うん。楽しみにしてるよ。おやすみ」みたいな電話がフィオナから来たんだが、お前はなんだ、彼女か。
-	Sentiment(polarity=0.0, subjectivity=0.0)
-92: BBC Mundo - Bethnal Green: el ecléctico barrio de Londres del que salieron tres "yihadistas" adolescentes http://t.co/4tA4VIBUm1
-	Sentiment(polarity=-0.2, subjectivity=0.3)
-93: Yemen ex-leader amassed billions http://t.co/OqJSkswxaB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-94: BBC नेपाली :  कर तिर्नेको संख्या धेरै बढ्यो http://t.co/62SCLThXKO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-95: Argentina votes on intelligence body http://t.co/QGBTLYplN7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-96: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CsF4HHfwFm
-	Sentiment(polarity=0.0, subjectivity=0.0)
-97: RT @OKAMAI: "@bbcnewsjapan  
-ジャマイカが、個人使用目的の少量の大麻の所持を合法化しました（英語記事）　RT @BBCWorld: http://t.co/oyXHBwZqoP  http://t.co/wJ0cdsuuA5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-98: BBC नेपाली :  नेतन्याहु-अमेरिकाबीच मतभेद गहिरिँदो http://t.co/XOKjgQlFIO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-99: Mary, Queen of Scots to get first statue http://t.co/JPP5TL1tOO
-	Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
-100: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/4wKQ7RIsSG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-101: Sir Cliff inquiry widens, and a Helmand hero http://t.co/mxqmqf93KT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-102: #News TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded from a… http://t.co/hykCKesdlm #Stiri
-	Sentiment(polarity=0.1, subjectivity=0.05)
-103: MPs call for reform of GM crops rules http://t.co/wtPNARV15f
-	Sentiment(polarity=0.0, subjectivity=0.0)
-104: Great Britain's Maria Lyle and Jo Butterfield set new world records in the IPC Athletics Grand Prix event in Dubai. http://t.co/VfViYFv5NL
-	Sentiment(polarity=0.4787878787878788, subjectivity=0.7348484848484849)
-105: BBC News - Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence a... http://t.co/izwX3QNSn2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-106: No future for TV licence, MPs say http://t.co/CMLi2W67K7
-	Sentiment(polarity=0.0, subjectivity=0.125)
-107: RT @BBCNews: No future for TV licence, MPs say http://t.co/63GLfm3s3H
-	Sentiment(polarity=0.0, subjectivity=0.125)
-108: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-109: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/Vd8Ecq8rcv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-110: The return of a once-glorious train station http://t.co/FiEOxZgXrB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-111: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/j8z1sKeq1b
-	Sentiment(polarity=0.0, subjectivity=0.0)
-112: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/miqThs645N
-	Sentiment(polarity=0.0, subjectivity=0.0)
-113: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/ciXro7szQz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-114: Stars check back into Marigold Hotel http://t.co/vdQESAMYRr
-	Sentiment(polarity=0.0, subjectivity=0.0)
-115: Argentina votes on intelligence body http://t.co/x5GHohZ0cN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-116: North Korea shipping company has been renaming and reflagging vessels to evade an arms embargo, says UN - @BBCNews http://t.co/nKQgJMbs3o
-	Sentiment(polarity=0.0, subjectivity=0.0)
-117: RT @constanzahola: La niña que le pidió a la presidenta #Bachelet que le permitiera "dormir para siempre" #Chile #Eutanasia http://t.co/5mX…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-118: MPs call for reform of GM crops rules http://t.co/IEZtoiuvnt
-	Sentiment(polarity=0.0, subjectivity=0.0)
-119: RT @BBCWorld: #Drones appear again over Paris landmarks &amp; police still don't know who is operating them  http://t.co/SbZH6QgWdY http://t.co…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-120: Yemen ex-leader amassed billions http://t.co/OYRaEilc6d
-	Sentiment(polarity=0.0, subjectivity=0.0)
-121: What is Campaignspotting? http://t.co/Yt47Foc1bv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-122: Trident question comes to the surface http://t.co/MktdcK1kes
-	Sentiment(polarity=0.0, subjectivity=0.0)
-123: RT @BBCNewsUS: Argentina votes on intelligence body http://t.co/mpxqG7FqAU http://t.co/b9yE4J6s67
-	Sentiment(polarity=0.0, subjectivity=0.0)
-124: The girl who gets gifts from birds http://t.co/9ZegLkV2Uw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-125: What is Campaignspotting? http://t.co/dQ2uFRGnv3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-126: RT @oekakimaestro: 化粧品のロレアルが中国での採用選考から履歴書を廃止。スマホで公式サイトにアクセスして３つの質問に答えさせ、言葉遣いを自動判定する適性検査システムに移行 http://t.co/hXpBn4Zyym　真偽の裏も取れない当人申告による個人情報の…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-127: Kevin Spacey to get special Olivier http://t.co/I67MRQb61e
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-128: BBC Mundo - Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/0tu4FJsH2w
-	Sentiment(polarity=0.0, subjectivity=0.0)
-129: iTunes Brazil:New York City Boy (BBC Top of the Pops) Pet Shop Boys Ultimate… http://t.co/KqZMX2ssZA #brasil #brazil #相互フォロー #sougofollow
-	Sentiment(polarity=0.5, subjectivity=0.5)
-130: Victoria Cross for Afghan raid hero http://t.co/3YqAHbLon6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-131: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intel... http://t.co/7yCpy68ol5 #Follow #FOLLOWBACK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-132: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/numlhcc4r6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-133: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/I7jbHkdHnA @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-134: Kevin Spacey to get special Olivier http://t.co/IX2iof1qUL
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-135: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/FCJ7FF0PQy @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-136: Al-Jazeera arrests over Paris drone http://t.co/r0yBdyX66J
-	Sentiment(polarity=0.0, subjectivity=0.0)
-137: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/r9aauckyIZ @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-138: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/PfcogC6mRe @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-139: RT @Premiere_Line: Gillian Anderson é confirmada no elenco de “Guerra e Paz”, nova série da BBC http://t.co/rOdR7ixlWZ http://t.co/SUIiAYzM…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-140: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/vuRD5eC2Xe @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-141: The decline of Nato defence spending http://t.co/d0cp4h8uwk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-142: Stars check back into Marigold Hotel http://t.co/9XX9qkTbSJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-143: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/0KpMfqUxNV @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-144: #Unity4Malaysia Argentina votes on intelligence body: MPs in Argentina vote on a bill to rep... http://t.co/YG9kCZEo6R @tunfaisal #PrkDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-145: RT @BBCtrending: Hair revolution: @Masih_Alinejad wins human rights award for Facebook hijab campaign http://t.co/HGhUdQ9ABM http://t.co/9l…
-	Sentiment(polarity=0.15, subjectivity=0.15000000000000002)
-146: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/7o2N8L2oQx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-147: The Charlatans – Come Home Baby at BBC 6 Music Festival 2015: Guidance: Contains flashing images The Charlatan... http://t.co/3FzOkcR9FR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-148: RT @BBCNews: Cameron: I'm fun and optimistic http://t.co/gYIEpXIbFq
-	Sentiment(polarity=0.3, subjectivity=0.2)
-149: Argentina votes on intelligence body http://t.co/uHs1kCA7Xw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-150: RT @bbcnewsjapan: パリ当局によると、許可なく小型無人機を飛ばしたとして、アルジャジーラ記者3人を逮捕したそうです。パリ上空で2夜連続で起きた無人機飛行との関連は不明です（英語記事）　RT @BBCBreaking: http://t.co/gpx5R7E4s3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-151: The decline of Nato defence spending http://t.co/S47PooCTML
-	Sentiment(polarity=0.0, subjectivity=0.0)
-152: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/5bNVAUaPDS
-	Sentiment(polarity=0.0, subjectivity=0.0)
-153: RT @pitchfork: Listen to @tobiasjessojr cover Big Star, debut a new one during his BBC Radio 1 session http://t.co/x7Y2AoQPF7 http://t.co/J…
-	Sentiment(polarity=0.06818181818181818, subjectivity=0.2772727272727273)
-154: RT @BBCR2MusicBot: Now Playing The Rolling Stones - Get Off Of My Cloud @RollingStones http://t.co/ShtSWdGPw5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-155: TTIP trade deal text leaked to BBC http://t.co/sbTzmv5bN2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-156: The man who invented the dinosaur http://t.co/vQbsqzWJN8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-157: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/y2taGitDNA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-158: Dispute over outdoor smoking ban call http://t.co/liIaOE8H1z
-	Sentiment(polarity=0.0, subjectivity=0.0)
-159: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/ppzdRLRR8c
-	Sentiment(polarity=0.0, subjectivity=0.0)
-160: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/9hXnRTIlKG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-161: @BBC_9898 아니아니 그 트친들이 계옮하기전 계정ㅋㅋ! 계옮한 트친들이많아서..그 전계정은 언팔할라구
-	Sentiment(polarity=0.0, subjectivity=0.0)
-162: Nuevas protestas en #Venezuela dejan al menos cinco heridos http://t.co/X40WiCwv2h http://t.co/RjoiWcAfmm" #Maduro no madura :-[
-	Sentiment(polarity=-0.75, subjectivity=1.0)
-163: TTIP trade deal text leaked to BBC http://t.co/foOn1NzrCQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-164: Argentina votes on intelligence body http://t.co/PMZMV9gSd1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-165: Argentina votes on intelligence body http://t.co/F0bLM1ejTv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-166: Trident question comes to the surface http://t.co/52iEqrGHaC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-167: What is Campaignspotting? http://t.co/MQM1xMiV4i
-	Sentiment(polarity=0.0, subjectivity=0.0)
-168: Argentina votes on intelligence body http://t.co/q4Nf5kQLv4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-169: BBC Mundo - ¿Llegó la hora del "viagra" femenino? http://t.co/IhxInuEHNf
-	Sentiment(polarity=0.0, subjectivity=0.0)
-170: Stars check back into Marigold Hotel http://t.co/CCWILzndFT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-171: @bbc_army_ayg 
-
-いやまじムリ😂😂
-この顔でマッチョとかギャップ萌えだしでもちゃんと守ってくれそうだし無理惚れる😂😂 http://t.co/WqUbawr9hj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-172: Argentina votes on intelligence body http://t.co/lZhsQyeqTh
-	Sentiment(polarity=0.0, subjectivity=0.0)
-173: Argentina votes on intelligence body http://t.co/YgfeRRIn9o
-	Sentiment(polarity=0.0, subjectivity=0.0)
-174: Sir Cliff inquiry widens, and a Helmand hero http://t.co/FPKcItZALN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-175: Argentina votes on intelligence body http://t.co/nkpqQzy0v2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-176: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/w4Q1Kryy3L
-	Sentiment(polarity=0.0, subjectivity=0.0)
-177: Poroshenko has asked for UN peacekeepers in East Ukraine to help enforce a ceasefire. A perfect mission for Canada. http://t.co/GL6fftqmu5
-	Sentiment(polarity=1.0, subjectivity=1.0)
-178: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/HyfjJTrF2k
-	Sentiment(polarity=0.0, subjectivity=0.0)
-179: The man who invented the dinosaur http://t.co/ywhG3r4mzP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-180: BBC News - Cyprus signs deal to allow Russian navy to use ports http://t.co/bj33qCOg1y
-	Sentiment(polarity=0.0, subjectivity=0.0)
-181: TTIP trade deal text leaked to BBC http://t.co/VosSTZUtUC #bbcnews
-	Sentiment(polarity=0.0, subjectivity=0.0)
-182: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/2opHyAgxIe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-183: #USA #NEWS Argentina votes on intelligence body http://t.co/LFqC9ImqTg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-184: TTIP trade deal text leaked to BBC http://t.co/fxNhbpUzy2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-185: #USA #NEWS Argentina votes on intelligence body http://t.co/HrYCc3qD8S
-	Sentiment(polarity=0.0, subjectivity=0.0)
-186: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/ZgzKfmSuJ6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-187: TTIP trade deal text leaked to BBC http://t.co/wfvNk2bCEQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-188: TTIP trade deal text leaked to BBC http://t.co/fN7sZCtMch
-	Sentiment(polarity=0.0, subjectivity=0.0)
-189: RT @EPLworld: أخبار كثيرة في الصحف تربط الممثل الشهير راسيل كرو بشراء نادي ليدز (هو مشجع للنادي) لكن الملاك رافضين البيع. (BBC). http://t.c…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-190: TTIP trade deal text leaked to BBC http://t.co/3skHgGXOb1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-191: MPs in Argentina vote on a bill to replace the intelligence agency with a new service, following a row over th... http://t.co/dTXKA8Txq2
-	Sentiment(polarity=0.06818181818181818, subjectivity=0.2772727272727273)
-192: Netanyahu visit 'destructive' says US http://t.co/2sPB5r0fUY
-	Sentiment(polarity=-0.6, subjectivity=0.6)
-193: Argentina votes on intelligence body http://t.co/asXOkWwNh6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-194: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CAslGaEJSE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-195: The decline of Nato defence spending http://t.co/RnqV6oOlE9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-196: BBC Urdu - پاکستان کی امداد اور شکیل آفریدی کی رہائی، کانگریس میں بحث http://t.co/p10AbNE7H2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-197: N Korea company 'renaming ships' http://t.co/AHM840XcPc #bbcnews
-	Sentiment(polarity=0.0, subjectivity=0.0)
-198: Argentina votes on intelligence body http://t.co/WUAqJP4kI5 #bbcnews
-	Sentiment(polarity=0.0, subjectivity=0.0)
-199: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/9PA5gpL1Y1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-200: RT @bbcmundo: Nuevo billete dedicado a Malvinas/Falklands genera críticas y bromas en Argentina http://t.co/Gl4MsjncbV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-201: BREAKING NEWS: MPs in Argentina vote on a bill to replace the intelligence agency with a new service,... http://t.co/q4oRNBBPY4 #BBCNews
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-202: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/krrVGuglKf
-	Sentiment(polarity=0.0, subjectivity=0.0)
-203: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/QKabn74FJ8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-204: RT @bigfoot345: @Swamy39 Austria has passed a law http://t.co/4X5R115L5p
-
-India must do it soon.
-	Sentiment(polarity=0.0, subjectivity=0.0)
-205: No future for TV licence, MPs say http://t.co/m91Uw7OtzG
-	Sentiment(polarity=0.0, subjectivity=0.125)
-206: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/7lc90HWaG7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-207: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/vKol3yb87R
-	Sentiment(polarity=0.0, subjectivity=0.0)
-208: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/nBYkIlwfLQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-209: Cheap oil: Asias winners and losers http://t.co/PmDUV8LwMC
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-210: В центре Москвы 1 марта КПРФ проведет митинг - РосРегистр: BBC Russian В центре… http://t.co/zJEXha7PzM #google
-	Sentiment(polarity=0.0, subjectivity=0.0)
-211: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-212: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/SrPeYWUdtO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-213: Europe's 'Landsat' ready for launch http://t.co/867Ef6GXz5
-	Sentiment(polarity=0.2, subjectivity=0.5)
-214: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intellige... http://t.co/aOXp96adMH #Teamfollowback
-	Sentiment(polarity=0.0, subjectivity=0.0)
-215: #BBC Documentary: #Armenian #Genocide 'The Betrayed'   
-https://t.co/V2r1twO1YO 
-#ArmenianGenocide History Repeated. http://t.co/15RQmxBhU5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-216: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intellige... http://t.co/aOXp96rOEf #Teamfollowback
-	Sentiment(polarity=0.0, subjectivity=0.0)
-217: TTIP trade deal text leaked to BBC http://t.co/tGdRjUEwIe #InstantFollow #AutoFollowBack #IFollowBack #InstantFollowBack
-	Sentiment(polarity=0.0, subjectivity=0.0)
-218: @ZihoonsLuvZiho 카스?그걸로 신청하는건줄알앟ㄴ어..ㅋㅋㅋㅋ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-219: Anger with sexist football chant http://t.co/vwZkRH4ssv
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-220: Victoria Cross for Afghan raid hero http://t.co/5PxcM9InaO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-221: RT @EPLworld: أخبار كثيرة في الصحف تربط الممثل الشهير راسيل كرو بشراء نادي ليدز (هو مشجع للنادي) لكن الملاك رافضين البيع. (BBC). http://t.c…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-222: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/gTIxxZptuJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-223: The man who returned his grandfather’s looted art http://t.co/43NvHrMt8H
-	Sentiment(polarity=0.0, subjectivity=0.0)
-224: Victoria Cross: L/Cpl Josh Leakey recognised for valour - BBC News http://t.co/qquKTIwTgq | http://t.co/4SwxHI2Bhp #news
-	Sentiment(polarity=0.0, subjectivity=0.0)
-225: RT @UofTMusic: Congrats to one of our alumni @AvivaFortunata who is a finalist in the 2015 Cardiff Singer of the World Competition! http://…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-226: RT @BBCNewsUS: Argentina votes on intelligence body http://t.co/mpxqG7FqAU http://t.co/b9yE4J6s67
-	Sentiment(polarity=0.0, subjectivity=0.0)
-227: New fragrance of 2015: "Lang Lang Ylang Ylang" ! ... Great article haha :D BBC Music Magazine Lang Lang  Pianist http://t.co/0QHyRpgtOV
-	Sentiment(polarity=0.5426136363636364, subjectivity=0.6261363636363637)
-228: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/SrPeYWCC5e
-	Sentiment(polarity=0.0, subjectivity=0.0)
-229: N Korea company 'renaming ships' to dodge sanctions http://t.co/ke3pbZb54R
-	Sentiment(polarity=0.0, subjectivity=0.0)
-230: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/OaWQmMfGAD
-	Sentiment(polarity=0.0, subjectivity=0.0)
-231: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/pyIS9Qd4Ff
-	Sentiment(polarity=0.0, subjectivity=0.0)
-232: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/JjG5Q50Dl7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-233: BBC Mundo - El Papa dice que Argentina puede mexicanizarse y Peña Nieto se queja http://t.co/F4Yks2njpC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-234: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/C9do8ZcVsu
-	Sentiment(polarity=0.0, subjectivity=0.0)
-235: RT @bbcnewsjapan: 【BBCニュース日本語ビデオ】UKIP地方議員の本音　「ネグロは苦手なの」: http://t.co/5l83Iu32oY   ――多文化主義を否定する英国独立党（UKIP）を取り上げたBBC特集番組からの映像で、イギリスで話題になっています。
-	Sentiment(polarity=0.0, subjectivity=0.0)
-236: Anger with sexist football chant http://t.co/XRgYLeiPjW
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-237: TTIP trade deal text leaked to BBC http://t.co/ndC6jRkTvM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-238: sexy porn: Fucked by BBC before hubby eats my cummy pussy  #porn #followback #teen #itunes http://t.co/fqbQTPe5UZ
-	Sentiment(polarity=-0.033333333333333326, subjectivity=0.5666666666666667)
-239: TTIP trade deal text leaked to BBC http://t.co/HgoGWBZ7cr #BBCWorld
-	Sentiment(polarity=0.0, subjectivity=0.0)
-240: The return of a once-glorious train station http://t.co/8JAymU69Hq
-	Sentiment(polarity=0.0, subjectivity=0.0)
-241: http://t.co/zfroINZLXi , http://t.co/XL8jtjmln9 , http://t.co/6G7AvZXX1V , http://t.co/eVIqcjZN98 , TTIP t… http://t.co/GQSaAdezDm
-	Sentiment(polarity=0.0, subjectivity=0.0)
-242: RT @bbchealth: Call to ban energy drinks for kids http://t.co/XvkEm2BdBW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-243: What is Campaignspotting? http://t.co/Jh9etor6fG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-244: RT @BBCNewsAus: Leeds United is 'not for sale' to @russellcrowe http://t.co/vKeBy6cuGK http://t.co/IEFV3KYIUb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-245: BBC News - Cambodia's brutal Khmer Rouge regime http://t.co/qnCLljd231
-	Sentiment(polarity=-0.875, subjectivity=1.0)
-246: RT @bbcmundo: Así terminó la lucha de Camila Abuabara: contra la leucemia y el sistema de salud colombiano http://t.co/ppcmg0meh3 http://t.…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-247: Kevin Spacey to get special Olivier http://t.co/oKwierYOKr
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-248: RT @BBCNewsUS: Argentina votes on intelligence body http://t.co/mpxqG7FqAU http://t.co/b9yE4J6s67
-	Sentiment(polarity=0.0, subjectivity=0.0)
-249: Call to ban energy drinks for kids http://t.co/RaOQDTRuru
-	Sentiment(polarity=0.0, subjectivity=0.0)
-250: Fabricated news "comfort women" - is Asahi Shimbun comfort women issue was to destroy the relations between Japan and South Korea #BBC #CNN
-	Sentiment(polarity=-0.1, subjectivity=0.375)
-251: Argentina votes on intelligence body http://t.co/a7MwQ7GXx3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-252: @DemExploitz @AneiDoru I know a pick up artist when I see them. BBC got trolled.
-	Sentiment(polarity=0.0, subjectivity=0.0)
-253: RT @BitchIts_Ravyn: 😂😂😂 cookie be on good bullshit
-	Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
-254: Pro12: Director of rugby Mark Hammett leaves Cardiff Blues - BBC Sport http://t.co/86bNsgD5nv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-255: RT @_StopTTIP: TTIP: Transatlantic trade deal text leaked to BBC - BBC News http://t.co/GLYkDFukc5 #StopTTIP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-256: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/xGCXKI5wp9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-257: Trotamundos de Carabobo entrena en Mar de Plata ante semifinales en Liga de Las Américas http://t.co/2OQDmnLoSY #Deportes @Trotamundos_bbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-258: RT @kannamitsuta: 世界が報じたパスポートを強制返納させる安倍政権の異常－BBC、CNN、ロイター、NYタイムズetc(志葉玲) -Y!ニュース http://t.co/X34Z4lnPdF
-"少なくとも欧米先進国では、個人がパスポートを持つこと、つまり個人が自…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-259: Argentina votes on intelligence body - http://t.co/aFuSRdekjd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-260: RT @thus_spake: UK: How stroke survivors find their voice: Stroke survivors rediscover their voice through singing http://t.co/rcB4HF4UAu B…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-261: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-262: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/JjG5Q4J1Wx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-263: City zigzagged by zoo's zany zebras - http://t.co/c8mut7U6v9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-264: RT @FlancBoys: 【画像あり】
-ガチメイクした「鳥居みゆき」可愛すぎwww
-付き合ってほしいわ
-
-いや、彼女より可愛いww
-
-画像を見る→http://t.co/4uMYiZoXbC
-
-おっ〇いも大きいし
-何コイツw完璧すぎてワロタww http://t.co/JL…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-265: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/7xa7y6jSMY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-266: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/inb69vVNBT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-267: RT @Mistress_Harley: Did you know my hubby is a #bbc? The absolute superior #cock to pathetic puny #pindick white boys! #blackcock #findom …
-	Sentiment(polarity=-0.025000000000000022, subjectivity=0.7)
-268: 02:55 I Survived a Zombie Apocalypse: An electrical storm late at night causes a security malfunction at the base. http://t.co/mJXYVEsWHL
-	Sentiment(polarity=-0.55, subjectivity=0.8)
-269: @Loverly_Liz http://t.co/FK5Zk5JxE5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-270: Mature Wife Clare loves black cock too the sl #bigCock #BBC #porn #xxx #adult #nsfw #Amateur #Black #Ebony http://t.co/6oADLbgFn4
-	Sentiment(polarity=-0.07666666666666666, subjectivity=0.30333333333333334)
-271: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency... http://t.co/4CKWXBjc5d #news
-	Sentiment(polarity=0.0, subjectivity=0.0)
-272: TTIP trade deal text leaked to BBC http://t.co/3fP7m6qlSY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-273: Anger with sexist football chant http://t.co/iB5rtPMGuy
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-274: Argentina votes on intelligence body http://t.co/qmkla4MkOc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-275: New post: "TTIP trade deal text leaked to BBC" http://t.co/JooA1HfPBg A leaked draft of what the European Union wants excluded from a new…
-	Sentiment(polarity=0.11212121212121212, subjectivity=0.18484848484848485)
-276: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/wNqjKZqVby
-	Sentiment(polarity=0.0, subjectivity=0.0)
-277: Cheap oil: Asias winners and losers http://t.co/M4kUmFUXJF
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-278: RT @ThatNigga_Livi: Cookie that bitch
-	Sentiment(polarity=0.0, subjectivity=0.0)
-279: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/DgD23cywDR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-280: RT @DakotaJamesXXX: #SexySunday from my newest scene for @Blacked_com☺ http://t.co/Hd4etaNpyj http://t.co/X1M2awLrUV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-281: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-282: Kevin Spacey to get special Olivier http://t.co/Uj23nOJjJM
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-283: MPs call for reform of GM crops rules http://t.co/Z9zjO17gch
-	Sentiment(polarity=0.0, subjectivity=0.0)
-284: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CMyymJO9AH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-285: Sir Cliff inquiry widens, and a Helmand hero http://t.co/qkXp9t4Z2B
-	Sentiment(polarity=0.0, subjectivity=0.0)
-286: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/My8jJxthF5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-287: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/ZjJC1UG0yB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-288: TTIP trade deal text leaked to BBC http://t.co/V0M0B95IM2 #BBCNews #BBC #News
-	Sentiment(polarity=0.0, subjectivity=0.0)
-289: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CMIbDfaFD8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-290: TTIP trade deal text leaked to BBC #bbcnews http://t.co/BnjDonQUBh
-	Sentiment(polarity=0.0, subjectivity=0.0)
-291: Cameron: Im fun and optimistic http://t.co/B3wUgm0YO8
-	Sentiment(polarity=0.3, subjectivity=0.2)
-292: RT @misono_374: BBC - History - British Slaves on the Barbary Coast http://t.co/1ZKuAYlNVB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-293: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CMIbDeT4ey
-	Sentiment(polarity=0.0, subjectivity=0.0)
-294: TTIP trade deal text leaked to BBC http://t.co/q7vQTCbHqe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-295: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/tv8YqIwaP2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-296: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/w6lu6EzBuB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-297: Dispute over outdoor smoking ban call http://t.co/jeye6afACr
-	Sentiment(polarity=0.0, subjectivity=0.0)
-298: RT @bbcmundo: ¿Qué causó la peste negra en Europa? Al parecer, no es culpa de las ratas http://t.co/4vh09y6nrf http://t.co/eEMhRRcXJu
-	Sentiment(polarity=0.0, subjectivity=0.0)
-299: RT @Veribatim: Delicious momentary policy. Greek euro exit explained - with kebab http://t.co/kmlOIlOlyP
-	Sentiment(polarity=0.5, subjectivity=0.5)
-300: Anger with sexist football chant http://t.co/hXQFtlgjw0
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-301: RT @DakotaJamesXXX: Boooobies😆 http://t.co/Hd4etaNpyj http://t.co/NmN00eXxxh
-	Sentiment(polarity=0.0, subjectivity=0.0)
-302: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/CmCL6EBhph
-	Sentiment(polarity=0.0, subjectivity=0.0)
-303: @thehistorytwins @ennuizle I loved that show until our cable package no longer included BBC. End of my life!!! (1st world probs).
-	Sentiment(polarity=1.0, subjectivity=0.8)
-304: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/IpoCAm8rfM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-305: TTIP trade deal text leaked to BBC http://t.co/NyfRPoGoka [BBC]
-	Sentiment(polarity=0.0, subjectivity=0.0)
-306: 'Tehran: Chastising 2 city officials in Mokhtari Street http://t.co/yvzNUKGY2D #CNN #Irantalks #BBC'
-	Sentiment(polarity=0.0, subjectivity=0.0)
-307: TTIP trade deal text leaked to BBC http://t.co/CmaYgqhMXU : February 26, 2015 at 02:14AM via mikejulietbravo
-	Sentiment(polarity=0.0, subjectivity=0.0)
-308: RT @bowybowi: ซีรี่ส์แนวสืบสวนเรื่องใหม่ London Spy โดยช่อง BBC ค่ะ
-นำแสดงโดย Ben Whishaw ค่ะ
-วางแผนฉายปีนี้
-cr.empiremag http://t.co/XyGmL…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-309: RT @MilenaRodban: Argentina Congress vote on bill replacing intelligence agency http://t.co/064TRHFOiv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-310: #BBCNews Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the i... http://t.co/R9PLncNXuv #WorldRSSFeeds
-	Sentiment(polarity=0.0, subjectivity=0.0)
-311: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/d8O7ikqAqz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-312: Anwar Ibrahim's family seek Malaysia royal pardon - BBC News http://t.co/GwXGxIxw8K
-	Sentiment(polarity=0.0, subjectivity=0.0)
-313: @pean_m 계옮전계정뭐야??????
-	Sentiment(polarity=0.0, subjectivity=0.0)
-314: RT @davidakin: Looks like change is coming to the world's most famous broadcaster: MPs demand rigorous shakeup at top of the BBC http://t.c…
-	Sentiment(polarity=0.5, subjectivity=0.6666666666666666)
-315: RT @BBCNewsUS: Argentina votes on intelligence body http://t.co/mpxqG7FqAU http://t.co/b9yE4J6s67
-	Sentiment(polarity=0.0, subjectivity=0.0)
-316: Anger with sexist football chant http://t.co/dtvU5xvL4t
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-317: http://t.co/J9tiiE7XKE: Blonde Babe Huge BBC Interracial http://t.co/Agr8jMwASn #babe #blonde #interracial
-	Sentiment(polarity=0.13333333333333336, subjectivity=0.3)
-318: Argentina votes on intelligence body http://t.co/Ail1BkAszY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-319: TTIP trade deal text leaked to BBC http://t.co/5RmtLRtSt4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-320: The return of a once-glorious train station http://t.co/LbNnqCbJ3h
-	Sentiment(polarity=0.0, subjectivity=0.0)
-321: #News Argentina votes on intelligence body http://t.co/uTSeNYRsKg Vía @BBCNews
-	Sentiment(polarity=0.0, subjectivity=0.0)
-322: Cameron: I'm fun and optimistic http://t.co/dUC06qE9F5
-	Sentiment(polarity=0.3, subjectivity=0.2)
-323: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/0qNF8pATgB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-324: @choco44momo 
-あっこちゃん、私もその中ならユグ、ジコ推しだよ❤BBC入ったん？？
-	Sentiment(polarity=0.0, subjectivity=0.0)
-325: @bbc_pdb 뭐얔ㅋㅋㅋㅋㅋ바봌ㅋㅋㄱ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-326: Ex-Guatemalan president freed in US http://t.co/alJiScGHrw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-327: US terror trial sees Bin Laden files http://t.co/9m3rkeLyxY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-328: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/Cs74y4iFe2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-329: Pair admit stabbing takeaway owner http://t.co/9KtcPnCeq3
-	Sentiment(polarity=-0.6, subjectivity=0.8)
-330: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/uY7tWEj6Ih
-	Sentiment(polarity=0.0, subjectivity=0.0)
-331: Nuclear bunker drugs charges denied http://t.co/fRjOv5BWzn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-332: Dispute over outdoor smoking ban call http://t.co/4tZh3Dt8zW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-333: MPs call for reform of GM crops rules http://t.co/A2fz5mSKgq
-	Sentiment(polarity=0.0, subjectivity=0.0)
-334: Interesting- TTIP trade deal text leaked to BBC http://t.co/s0dxdgMMLv Via BBC
-	Sentiment(polarity=0.5, subjectivity=0.5)
-335: RT @KYUNGPARKBOT: @ BBC
-/
-
-  「 君の美しいその手に口付けを。」
-
-           ✍   블락비  |  박경  |  봇 
-
-     #RTしたbotとぺンを迎えにいく 
-     #RTしたbotとペンを迎えにいく 
-
-. http:/…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-336: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/xQ3R05VQu3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-337: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/YzwA1gK40B
-	Sentiment(polarity=0.0, subjectivity=0.0)
-338: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/vNsfvzlEhg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-339: TTIP trade deal text leaked to BBC http://t.co/YZHDLARDh1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-340: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/vNsfvz42SG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-341: RT @Fleur_Cambodge: @BendahanL @BBC_Travel " Beautiful Two White Roses "-:). http://t.co/wmnf39Qfdy
-	Sentiment(polarity=0.45, subjectivity=0.6666666666666666)
-342: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/9n2jabHwS1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-343: Call to ban energy drinks for kids http://t.co/XpU5aeixmH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-344: Cameron: Im fun and optimistic http://t.co/l9n6xHetKv
-	Sentiment(polarity=0.3, subjectivity=0.2)
-345: @VivianaBrunatto @bbc_ciencia es hermosa la foto la vida cuando kiere habrirse paso lo hace de la manera mas extraña
-	Sentiment(polarity=0.0, subjectivity=0.0)
-346: The decline of Nato defence spending http://t.co/n4Fw5gdm1P
-	Sentiment(polarity=0.0, subjectivity=0.0)
-347: Cameron: Im fun and optimistic http://t.co/CVL9Vvuxtq
-	Sentiment(polarity=0.3, subjectivity=0.2)
-348: Argentina votes on intelligence body http://t.co/IwyBmC6gpJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-349: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/qISHFEFSkZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-350: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/TovuxRpMOK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-351: N Korea company 'renaming ships' http://t.co/4VeJKexiGy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-352: MPs call for reform of GM crops rules: Europe's approval system for GM crops is "fundamentally flawed" and sho... http://t.co/zcx4B6DAXz
-	Sentiment(polarity=-0.5, subjectivity=0.5)
-353: RT @EPLworld: أخبار كثيرة في الصحف تربط الممثل الشهير راسيل كرو بشراء نادي ليدز (هو مشجع للنادي) لكن الملاك رافضين البيع. (BBC). http://t.c…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-354: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the in... http://t.co/Mr3CQFyuJQ http://t.co/pm97olizVH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-355: Argentina votes on intelligence body http://t.co/oevcFi9C8V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-356: Congrats to @NusratJamil and her team. Great effort
-BBC News - Lahore Literary Festival: Book lovers defy the bombers http://t.co/HzbToIVTpi
-	Sentiment(polarity=0.45, subjectivity=0.425)
-357: RT @bbcnewsjapan: 25日夜の英音楽賞ブリット・アワードで、パフォーマンス中のマドンナが階段で転んでしまいました（英語記事）　RT @BBCBreaking: http://t.co/7GbetIiq1K http://t.co/TkYHALAPyj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-358: Sir Richard Owen: The man who invented the dinosaur - BBC News http://t.co/8loc4wPNhp
-	Sentiment(polarity=0.0, subjectivity=0.0)
-359: Kevin Spacey to get special Olivier http://t.co/cYzqEkO4Zs
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-360: RT @BBCWorld: Argentina votes on intelligence body http://t.co/gSUt4v4ZI0 #labdavanac
-	Sentiment(polarity=0.0, subjectivity=0.0)
-361: Call to ban energy drinks for kids http://t.co/CqufErwKWa
-	Sentiment(polarity=0.0, subjectivity=0.0)
-362: Anwar Ibrahim's family seek Malaysia royal pardon - BBC News http://t.co/VvUXngsjvX
-	Sentiment(polarity=0.0, subjectivity=0.0)
-363: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/kJ4M5QkPtb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-364: Did you know my hubby is a #bbc? The absolute superior #cock to pathetic puny #pindick white boys! #blackcock #findom #femdom #snowbunny
-	Sentiment(polarity=-0.025000000000000022, subjectivity=0.7)
-365: Dispute over outdoor smoking ban call http://t.co/BWR6lGdVVZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-366: Sir Cliff inquiry widens, and a Helmand hero http://t.co/4725wOuBGw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-367: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agency with ... http://t.co/0LXGqo0E9U
-	Sentiment(polarity=0.0, subjectivity=0.0)
-368: Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence agen... http://t.co/6Mk1Joh3M9 #TSCEnt
-	Sentiment(polarity=0.0, subjectivity=0.0)
-369: Argentina votes on intelligence body http://t.co/mpxqG7FqAU http://t.co/b9yE4J6s67
-	Sentiment(polarity=0.0, subjectivity=0.0)
-370: @sid_bbc_ あー！大人びびし！すごいよく思いつくなぁ〜しどちゃんアイコンもかわええし色々できる人なのね^ ^
-	Sentiment(polarity=0.0, subjectivity=0.0)
-371: Cheap oil: Asias winners and losers http://t.co/yGVrrgQS1D
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-372: The return of a once-glorious train station http://t.co/WZVLiDrn0P
-	Sentiment(polarity=0.0, subjectivity=0.0)
-373: The return of a once-glorious train station http://t.co/FJChFac5lB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-374: (͡๏̯͡๏) Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence ... http://t.co/7ZXXPQoWPK #UK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-375: TTIP trade deal text leaked to BBC: A leaked draft of what the European… http://t.co/9UNxRFpszj TheBikiniCalendar
-	Sentiment(polarity=0.0, subjectivity=0.0)
-376: Cameron: I'm fun and optimistic: David Cameron has described himself as… http://t.co/yqXHhJf4ZP TheBikiniCalendar
-	Sentiment(polarity=0.3, subjectivity=0.2)
-377: Ex-Guatemalan president freed in US: Former Guatemalan President Alfonso… http://t.co/Cvjz3hZqe3 TheBikiniCalendar
-	Sentiment(polarity=0.0, subjectivity=0.0)
-378: RT @OpDeathEatersUK: Historical sex offence inquiry#CliffRichard has 'significantly expanded' say Yorkshire police http://t.co/Et4eyKdIge #…
-	Sentiment(polarity=0.1875, subjectivity=0.4375)
-379: MPs call for reform of GM crops rules: Europe's approval system for GM… http://t.co/SnPeeizBvO TheBikiniCalendar
-	Sentiment(polarity=0.0, subjectivity=0.0)
-380: #newsupdate Argentina votes on intelligence body: MPs in Argentina vote on a bill to repl... http://t.co/HOSAhaKGpS #bbc #news #bbcupdat
-	Sentiment(polarity=0.0, subjectivity=0.0)
-381: Call to ban energy drinks for kids: Energy drinks should be banned for… http://t.co/2t5oIVGh4o TheBikiniCalendar
-	Sentiment(polarity=0.0, subjectivity=0.0)
-382: Dispute over outdoor smoking ban call: Health experts argue the ban on… http://t.co/vf95XxFTSa TheBikiniCalendar
-	Sentiment(polarity=0.0, subjectivity=0.0)
-383: #247newsnaija Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace... http://t.co/p4lDFsJafe #nigeria #naija
-	Sentiment(polarity=0.0, subjectivity=0.0)
-384: RT @BBCNews: The man who returned his grandfather’s looted art http://t.co/v3bCIhiMOk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-385: Cheap oil: Asias winners and losers http://t.co/LcWCqaHVue
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-386: #247newsnaija Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace... http://t.co/p4lDFt0LDO #nigeria #naija
-	Sentiment(polarity=0.0, subjectivity=0.0)
-387: @ABLA_Chicago Argentina votes on intelligence body: MPs in Argentina vote on a bill to ... http://t.co/2tPOEJhcTp http://t.co/1HanbJKld7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-388: TTIP trade deal text leaked to BBC http://t.co/iK3XnllG38
-	Sentiment(polarity=0.0, subjectivity=0.0)
-389: @ABLA_Chicago Argentina votes on intelligence body: MPs in Argentina vote on a bill to ... http://t.co/1WnHDwT85L http://t.co/V9HKeD2ZmT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-390: Call to ban energy drinks for kids http://t.co/vYkiunqSxP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-391: BBC News UK Argentina votes on intelligence body: MPs in Argentina vote on a bill to replace the intelligence ... http://t.co/1a302y7Wbo
-	Sentiment(polarity=0.0, subjectivity=0.0)
-392: ... http://t.co/6dqUWTjR2O #filipino #free #indian #japanese #oriental #petite #thai #video #videos #vietnamese #whoriental #xxx
-	Sentiment(polarity=0.2, subjectivity=0.4)
-393: Call to ban energy drinks for kids http://t.co/fn1m9D901J
-	Sentiment(polarity=0.0, subjectivity=0.0)
-394: "Raising money though traffic fines. But who pays?" BBC talks to a 26 y/o woman with 3 children. 8,5, and a baby. I can't.
-	Sentiment(polarity=0.0, subjectivity=0.0)
-395: iTunes France:Being Boring (BBC Top of the Pops) Pet Shop Boys Ultimate… http://t.co/Afoy7XSZh9 #french #france #相互フォロー #sougofollow
-	Sentiment(polarity=-0.16666666666666666, subjectivity=0.5)
-396: Victoria Cross for Afghan raid hero http://t.co/uOY9ULnEdG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-397: RT @rycydekoler: 【大事故死体画像】
-車がペシャンコに・・・
-
-この事故の遺体がヤバイ
-
-ものすごい力で人の体を反対方向に曲げた感じ・・・
-グロ注意→http://t.co/kLTssWkojt http://t.co/Pi90UlM5sE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-398: BBC News - Brit Awards 2015: Madonna falls off stage http://t.co/3C8SudyeNB Madge gets the boot
-	Sentiment(polarity=0.0, subjectivity=0.0)
-399: .@rkguruparan This is the link for the interview (video). Hope you understand Sinhala? http://t.co/cottfvvl3c #lka #Tamil @ananthysasi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-400: Meet any cool people on Twitter? - SM — Yes, people like Michael, Dak, Bomber, Josepe, Josh, the BBC crew a lot ... http://t.co/olLMdxpHw3
-	Sentiment(polarity=0.35, subjectivity=0.65)
-401: #BBCNews TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded from a n... http://t.co/W6SasrjyvH
-	Sentiment(polarity=0.1, subjectivity=0.05)
-402: TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded from a new trade ...  http://t.co/czRtyiJYat
-	Sentiment(polarity=0.11212121212121212, subjectivity=0.18484848484848485)
-403: MPs call for reform of GM crops rules http://t.co/2ude6qpNlO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-404: MPs call for reform of GM crops rules http://t.co/sOfpkWLSQq
-	Sentiment(polarity=0.0, subjectivity=0.0)
-405: Anger with sexist football chant http://t.co/yQGBctnA5h
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-406: Anwar Ibrahim's family seek Malaysia royal pardon - BBC News http://t.co/EbKAQ8KmGD
-	Sentiment(polarity=0.0, subjectivity=0.0)
-407: #News Argentina votes on intelligence body http://t.co/y6c8jIK3HS #Noticias
-	Sentiment(polarity=0.0, subjectivity=0.0)
-408: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-409: #News TTIP trade deal text leaked to BBC http://t.co/Prled8Gufh #Noticias
-	Sentiment(polarity=0.0, subjectivity=0.0)
-410: BBC Mundo: Así se crean los bebés con ADN de tres personas que Reino Unido busca legalizar http://t.co/QQtp3CHrgW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-411: The decline of Nato defence spending http://t.co/coCmxqJ1Ln
-	Sentiment(polarity=0.0, subjectivity=0.0)
-412: #TorySleaze
-#MPs defeat call for second jobs ban
-
-@KailashChandOBE
-@DrAseemMalhotra http://t.co/T4BU63Yfuc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-413: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-414: Trident question comes to the surface http://t.co/W5x1mqKNvO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-415: MPs call for reform of GM crops rules http://t.co/JqCkaL2ySi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-416: The girl who gets gifts from birds http://t.co/fl9rptHzU1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-417: Call to ban energy drinks for kids http://t.co/UQgyytOIFG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-418: The girl who gets gifts from birds http://t.co/zjxJdTopLW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-419: #Netanyahu row with #Obama administration deepens - http://t.co/U2wWcGBH9Q via http://t.co/ZcHKmSmJsl Netanyahu's #GOP role: Point-man!
-	Sentiment(polarity=0.0, subjectivity=0.0)
-420: Stars check back into Marigold Hotel http://t.co/9E0zasO5YX
-	Sentiment(polarity=0.0, subjectivity=0.0)
-421: The man who returned his grandfather’s looted art http://t.co/6XotPhgxp7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-422: Sir Cliff inquiry widens, and a Helmand hero http://t.co/6QXSrLMe7B
-	Sentiment(polarity=0.0, subjectivity=0.0)
-423: @0628Bangtan 
-
-   ライビュ行きたかった  😭😭
-	Sentiment(polarity=0.0, subjectivity=0.0)
-424: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-425: Cameron: Im fun and optimistic http://t.co/8odPcxkfbv
-	Sentiment(polarity=0.3, subjectivity=0.2)
-426: Kevin Spacey to get special Olivier http://t.co/4ynT2Uh6yp
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-427: RT @LucioQuincioC: BBC Mundo - Nuevas protestas en Venezuela dejan al menos cinco heridos http://t.co/xkYemRsnhS
-	Sentiment(polarity=0.0, subjectivity=0.0)
-428: Trident question comes to the surface http://t.co/1FUoGIcohb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-429: RT @Calle13Oficial: Lamentable el asesinato del adolescente, Kluivert Roa, a manos de un policía en Venezuela. http://t.co/GHSuvN67Z0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-430: The return of a once-glorious train station http://t.co/mrZxoiJ9dY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-431: Dispute over outdoor smoking ban call http://t.co/lW5zKbGH6b
-	Sentiment(polarity=0.0, subjectivity=0.0)
-432: The return of a once-glorious train station http://t.co/7tNo9tqCRG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-433: Victoria Cross for Afghan raid hero http://t.co/bMbBt3GLFD
-	Sentiment(polarity=0.0, subjectivity=0.0)
-434: Call to ban energy drinks for kids http://t.co/Eg3SultNwb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-435: RT @GregorCostanza: good bye lose rs http://t.co/WOaUbqFs71
-	Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
-436: My great uncle Cleveland Walter a true Cowboy &amp; faithful fan of @MelanieLawson13 #90 #nationalgeographic #BBC #AmesTX http://t.co/0VuoAKic7E
-	Sentiment(polarity=0.575, subjectivity=0.7)
-437: Yemen ex-leader amassed billions http://t.co/cwSAgT1Qx2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-438: RT @BBCtrending: Why thousands have joined #IStandWithMariam campaign in support of activist @MariamVeiszadeh  http://t.co/JFW7kWOTdO http:…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-439: @kohyu1952 この写真は、初めてみました。
-#nhk #tbs #tvasahi #朝日 #読売 #産経 #毎日 #時事 #共同 #自民党 #民主党 #公明党 #社民党 #維新 #共産党 #bbc #cnn #aljazeera #cnbc #abc #nbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-440: Anger with sexist football chant http://t.co/j8Td7eQ8SD
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-441: No future for TV licence, MPs say http://t.co/qW3jeger0K
-	Sentiment(polarity=0.0, subjectivity=0.125)
-442: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-443: Dispute over outdoor smoking ban call http://t.co/mZt6iusKk4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-444: RT @InaraAthayde: Cleyton e muito bbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-445: What is Campaignspotting? http://t.co/9Xg8533H6h
-	Sentiment(polarity=0.0, subjectivity=0.0)
-446: No future for TV licence, MPs say http://t.co/srRTfMqj1J
-	Sentiment(polarity=0.0, subjectivity=0.125)
-447: The man who invented the dinosaur http://t.co/xeaU4PlGw0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-448: #Argentina votes on intelligence body http://t.co/38MZJyQX8X #news
-	Sentiment(polarity=0.0, subjectivity=0.0)
-449: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-450: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-451: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-452: @Masicka_Barbie BBC kuh di General ratty!!!
-	Sentiment(polarity=0.09765625000000003, subjectivity=0.5)
-453: @BBC_9898 헐 제발 7일전에 끝나랍
-	Sentiment(polarity=0.0, subjectivity=0.0)
-454: Victoria Cross for Afghan raid hero http://t.co/4f65JiG4ZG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-455: The decline of Nato defence spending http://t.co/sGP0L171c6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-456: Anger with sexist football chant http://t.co/ZZZUhXGF6O
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-457: Stars check back into Marigold Hotel http://t.co/5rrVLAc8qw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-458: Number inspirational number excited I can't waitBest Exotic Marigold Hotel stars check in for seconds http://t.co/MtIxsNW7yR
-	Sentiment(polarity=0.4583333333333333, subjectivity=0.9166666666666666)
-459: The return of a once-glorious train station http://t.co/Gy6KCuA38J
-	Sentiment(polarity=0.0, subjectivity=0.0)
-460: Anger with sexist football chant http://t.co/uUX1D3XX7m
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-461: Kevin Spacey to get special Olivier http://t.co/Z8sPVYG2tn
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-462: RT @BBCWorld: Feed babies peanut products to stop them developing allergies - study (via @JamesTGallagher) http://t.co/0SdnWM6Kzj http://t.…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-463: http://t.co/Kyngpea05o
-	Sentiment(polarity=0.0, subjectivity=0.0)
-464: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-465: Tobacco 'kills two in three smokers' http://t.co/xTpTodZQ6u
-	Sentiment(polarity=0.0, subjectivity=0.0)
-466: Call to ban energy drinks for kids http://t.co/qHh3tAIdRi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-467: RT @LucioQuincioC: BBC Mundo - Argentina: Congreso votará para disolver agencia de inteligencia http://t.co/tYXyVtTnH0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-468: The return of a once-glorious train station http://t.co/g6KeAjZEul
-	Sentiment(polarity=0.0, subjectivity=0.0)
-469: RT @BBCNewsAus: Australia's @Qantas posts best half-year profit in four years http://t.co/a9FDScDUwY http://t.co/pzxzMH9kpV
-	Sentiment(polarity=1.0, subjectivity=0.3)
-470: More bastards in this world than you can count on an abacus - #DPRK reflagging ships to evade sanctions - #UN http://t.co/NeV1DtLmpM
-	Sentiment(polarity=0.5, subjectivity=0.5)
-471: Yemen ex-leader amassed billions http://t.co/dGmKqCICz0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-472: No future for TV licence, MPs say http://t.co/M0bEv74jVk
-	Sentiment(polarity=0.0, subjectivity=0.125)
-473: Anger with sexist football chant http://t.co/OYpr6Kbmxn
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-474: Trident question comes to the surface http://t.co/dlGXamrJRZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-475: RT @BBCSport: The government of Greece suspends all professional football in the country. Read more: http://t.co/uqPGWBc6xU http://t.co/Arv…
-	Sentiment(polarity=0.3, subjectivity=0.3)
-476: RT @_StopTTIP: TTIP: Transatlantic trade deal text leaked to BBC - BBC News http://t.co/GLYkDFukc5 #StopTTIP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-477: BBC Mundo - Universidad de Texas paga US$2,2 millones por archivo de García Márquez http://t.co/1ABQRoOoUK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-478: RT @BBCSport: In honour of Afghanistan's Hamid Hassan send your cricket Hollywood stunt doubles #bbccricket http://t.co/dEIalikZwW http://t…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-479: Kevin Spacey to get special Olivier http://t.co/8K35gY1Bet
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-480: Cheap oil: Asias winners and losers http://t.co/dKAVGFvQqJ
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-481: Kevin Spacey to get special Olivier http://t.co/ARWrKV9tDb
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-482: Call to ban energy drinks for kids http://t.co/tINPl3V6ft
-	Sentiment(polarity=0.0, subjectivity=0.0)
-483: Sir Cliff inquiry widens, and a Helmand hero http://t.co/TGN32WLaNJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-484: The man who invented the dinosaur http://t.co/ZbWDkxvldv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-485: RT @Amanda86384: @thaysvitoria8 kk bbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-486: @BTS_0310hn 
-
-   あ  、  死んでたん  wwwwwwwww
-   いいな  ~   😭😭
-   私もぼみに会いたかっ
-   た   。・°°・(＞_＜)・°°・。
-	Sentiment(polarity=0.0, subjectivity=0.0)
-487: Victoria Cross for Afghan raid hero http://t.co/PpTDHOgNQA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-488: Stars check back into Marigold Hotel http://t.co/j00M1aoBa4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-489: Dispute over outdoor smoking ban call http://t.co/pNm97WAjzJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-490: Selfless man. So much love came into the world through him. http://t.co/E0t08VMe4H
-	Sentiment(polarity=0.5, subjectivity=0.6)
-491: RT @saladeprensa: Exhiben a otro famoso periodista mentiroso en EU; el tema ahora, las Malvinas http://t.co/zNiERtKnJL #ética http://t.co/5…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-492: La niña que le pidió a la presidenta #Bachelet que le permitiera "dormir para siempre" #Chile #Eutanasia http://t.co/5mXs6QvdRs
-	Sentiment(polarity=0.0, subjectivity=0.0)
-493: The decline of Nato defence spending http://t.co/v8ZMbZn0OE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-494: Indian media assess 'controversial' land acquisition law - BBC News http://t.co/VOf76807HL #medialaw
-	Sentiment(polarity=0.55, subjectivity=0.95)
-495: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-496: MPs call for reform of GM crops rules http://t.co/FRSDFej1Wj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-497: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-498: RT @phase_3_dream: Gee - looks like the @Daily_Record are losing sales again...
-
-http://t.co/TWAdq8q0rr http://t.co/yZZB7wKcsD
-	Sentiment(polarity=0.0, subjectivity=0.0)
-499: The girl who gets gifts from birds http://t.co/29iwRAaL44
-	Sentiment(polarity=0.0, subjectivity=0.0)
-500: MPs call for reform of GM crops rules http://t.co/pXxrndR6RK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-501: Cheap oil: Asias winners and losers http://t.co/uTFap7PWQa
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-502: RT @DISSENTOFMAN: Brazil dolphin is first new river species since 1918 http://t.co/Tr4OV65U4t
-	Sentiment(polarity=0.19318181818181818, subjectivity=0.3939393939393939)
-503: The girl who gets gifts from birds http://t.co/LSRwMpeDzy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-504: BBC News - Netanyahu row with Obama administration deepens http://t.co/ISlih3rTJe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-505: RT @gloriaetpatter: Dutch town terrorised by rogue owl #nature_science http://t.co/XBshDsGL3q http://t.co/n8VaJ2dtgh
-	Sentiment(polarity=0.0, subjectivity=0.0)
-506: Stars check back into Marigold Hotel http://t.co/jzcT0Vfzv1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-507: Yemen ex-leader amassed billions http://t.co/yzoBP8Bt3X
-	Sentiment(polarity=0.0, subjectivity=0.0)
-508: Trident question comes to the surface http://t.co/SdqRTthzrs
-	Sentiment(polarity=0.0, subjectivity=0.0)
-509: The girl who gets gifts from birds http://t.co/AmQD0owv6b
-	Sentiment(polarity=0.0, subjectivity=0.0)
-510: “@BBCNews: Crowe told Leeds 'not for sale' http://t.co/SWLi4jHWNu” @setantacovers does he support them?!
-	Sentiment(polarity=0.0, subjectivity=0.0)
-511: BBC News - Nigeria schoolgirl kidnappings: US 'outrage' at abductions … why the muslim world is silence?whwer is fatwa?
-	Sentiment(polarity=0.0, subjectivity=0.0)
-512: The girl who gets gifts from birds http://t.co/V7zM50BneW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-513: King Arthur (2004) is on BBC America right now! The #HansZimmer soundtrack for this movie is so outstanding that I bought 2 copies of it!
-	Sentiment(polarity=0.49107142857142855, subjectivity=0.7053571428571428)
-514: RT @BBCWorld: VIDEO: Gaza: 'Everyone has forgotten us' http://t.co/IkSIaIL0kg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-515: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-516: BBC News - The girl who gets gifts from birds http://t.co/ovJSehroRn A story of love. better than BIRDMAN
-	Sentiment(polarity=0.5, subjectivity=0.55)
-517: Madonna falls off stage at Brits http://t.co/NtqZ3TEcEK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-518: The man who invented the dinosaur http://t.co/0v8mV2kI1O
-	Sentiment(polarity=0.0, subjectivity=0.0)
-519: The return of a once-glorious train station http://t.co/m8bzhdTO0r
-	Sentiment(polarity=0.0, subjectivity=0.0)
-520: The return of a once-glorious train station http://t.co/8ZJbhDDXXQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-521: Trident question comes to the surface http://t.co/oMQsACTyq3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-522: Cleyton e muito bbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-523: What is Campaignspotting? http://t.co/2lxVa3tV2T
-	Sentiment(polarity=0.0, subjectivity=0.0)
-524: Machine learns to play video games http://t.co/k8JBmxJHrk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-525: Anger with sexist football chant: Why did football chant supporting domestic violence go unn... http://t.co/gp8sExK7b8 from #BBCMagazine
-	Sentiment(polarity=-0.15, subjectivity=0.18333333333333335)
-526: The decline of Nato defence spending http://t.co/N9kO32SzSL
-	Sentiment(polarity=0.0, subjectivity=0.0)
-527: Dispute over outdoor smoking ban call http://t.co/uyLkPTJMkB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-528: Trident question comes to the surface http://t.co/eF0XmkuucF
-	Sentiment(polarity=0.0, subjectivity=0.0)
-529: Cameron: Im fun and optimistic http://t.co/DR0IupZLjX
-	Sentiment(polarity=0.3, subjectivity=0.2)
-530: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/TOpxwXBquP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-531: Trident question comes to the surface http://t.co/zTb26bAJbR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-532: The man who invented the dinosaur http://t.co/iaZx9YeoCe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-533: RT @BBCNewsAus: Leeds United is 'not for sale' to @russellcrowe http://t.co/vKeBy6cuGK http://t.co/IEFV3KYIUb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-534: Dispute over outdoor smoking ban call http://t.co/83HjPHlKzT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-535: Kevin Spacey to get special Olivier http://t.co/CofD6KlAQ6
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-536: The return of a once-glorious train station http://t.co/8SSao99ncx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-537: MPs call for reform of GM crops rules http://t.co/MccJaIGedJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-538: @alannagyy suck his bbc
-	Sentiment(polarity=0.0, subjectivity=0.0)
-539: Anger with sexist football chant http://t.co/WqrIAkRyD0
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-540: " @Guaiqueries_BBC vía @basketvinotinto: #LPB | Richard Lugo llegó hoy a 800 partidos jugados en la @LPBaldia."
-	Sentiment(polarity=0.0, subjectivity=0.0)
-541: @bbc_pdb 캐릭터사면자동응모~.~
-	Sentiment(polarity=0.0, subjectivity=0.0)
-542: The man who returned his grandfather’s looted art http://t.co/utL0YImKiC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-543: http://t.co/BP9RxRXVPG Slut Teen Sophie Dee Rides The BBC #porn #teen #freeporn #nba #BBC #anal #sophiedee
-	Sentiment(polarity=0.0, subjectivity=0.0)
-544: Years of hard work from #geologists to widen public views on our job variety! #BBC #Planetoil class us as either 'exploiters' or 'stewards'!
-	Sentiment(polarity=-0.14583333333333334, subjectivity=0.30416666666666664)
-545: MPs demand rigorous shakeup at top of the BBC - The Guardian http://t.co/fYswwcLjyN
-	Sentiment(polarity=0.5, subjectivity=0.5)
-546: Пересып и недосып: два пути к ранней могиле: Считается, что каждый из нас должен спать по восемь часов в… http://t.co/4dLSVqXCw4 #новости
-	Sentiment(polarity=0.0, subjectivity=0.0)
-547: The girl who gets gifts from birds http://t.co/QUUXUlKSr5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-548: Мадонна упала с лестницы, выступая на Brit Awards: Американская поп-певица Мадонна упала с лестницы во… http://t.co/I8i8M8CtKq #новости
-	Sentiment(polarity=0.0, subjectivity=0.0)
-549: BBC News - Cyprus signs deal to allow Russian navy to use ports http://t.co/8hzTML7ojB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-550: Big tits babe throated and fucked by BBC http://t.co/0PBAbm2Cvs
-	Sentiment(polarity=-0.3, subjectivity=0.39999999999999997)
-551: Anger with sexist football chant http://t.co/yf9aSFVWss
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-552: RT @notjessewalker: "A machine has taught itself how to play and win video games": http://t.co/4aLuNjGYh3 Humanity is finally superfluous.
+1: RT @CNNOrigSeries: Volcano at dawn, sleep under the stars. Just another day for @BillWeirCNN on #TheWonderList http://t.co/nxT8yLTSsb http:…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+2: RT @OutFrontCNN: Mystery drone sightings spark security concerns @willripleyCNN
+has the report: http://t.co/GZM44q08qc @CNN 
+http://t.co/yZ…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+3: Anti-government protests erupted over the death of a 14-year-old shot by police in #Venezuela. http://t.co/5mW2JLwdgT http://t.co/fE0QFh2rhd
+	Sentiment(polarity=0.0, subjectivity=0.0)
+4: A fisherman caught a 280-pound catfish? He offers proof it's not just another fish story: http://t.co/AtQbEYgwFi http://t.co/BaaANR2pjU
+	Sentiment(polarity=0.1, subjectivity=0.0)
+5: RT @cnnbrk: Border Patrol drone program cost millions -- but results in less than 2% of total Border Patrol arrests. http://t.co/zp6MCCZLM9
+	Sentiment(polarity=-0.08333333333333333, subjectivity=0.4083333333333333)
+6: RT @CNNImpact: You could be the light someone needs to get by. Don't just act. #IMPACT...http://t.co/8xUgFHrGx5 http://t.co/go8s3yMdw1
 	Sentiment(polarity=0.4, subjectivity=0.7)
-553: The girl who gets gifts from birds http://t.co/iFE8eMFwxQ
+7: RT @CNNMoney: What would you buy if you turned $1M into $120M? That's what this guy did (too bad it's fake) http://t.co/XKVr8aWiYX http://t…
+	Sentiment(polarity=-0.5999999999999999, subjectivity=0.8333333333333333)
+8: RT @cnnasiapr: Vintage @NASA photos up for auction http://t.co/Kx5PW21oUJ #space http://t.co/f1eqn7z3IZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-554: Cameron: Im fun and optimistic http://t.co/o0w2yS21wI
-	Sentiment(polarity=0.3, subjectivity=0.2)
-555: #bbc #slut http://t.co/c09isQvnbz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-556: Victoria Cross for Afghan raid hero http://t.co/PMigclYR1V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-557: RT @bbchealth: Call to ban energy drinks for kids http://t.co/XvkEm2BdBW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-558: Kevin Spacey to get special Olivier http://t.co/NssSbHAyTo
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-559: Yemen ex-leader amassed billions http://t.co/lWyblWVaWr
-	Sentiment(polarity=0.0, subjectivity=0.0)
-560: Kevin Spacey to get special Olivier http://t.co/3oZIC7HpDw
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-561: Ex-Guatemala president freed from jail in the U.S  returns home
-http://t.co/MvEoccPM4A
-	Sentiment(polarity=-0.1, subjectivity=0.0)
-562: RT @BBC_Travel: Extraordinary #rainbows of the natural world: http://t.co/GJqtBwnvN8 #photos #MotherNature #scenery http://t.co/HA6jBmxl6L
-	Sentiment(polarity=0.21666666666666667, subjectivity=0.7)
-563: Anger with sexist football chant http://t.co/VbbtLAozzq
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-564: RT @BBCWorld: Crowe told Leeds 'not for sale' http://t.co/nglyZNqWKv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-565: The decline of Nato defence spending http://t.co/Y8bcEGDJhW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-566: Call to ban energy drinks for kids http://t.co/InkOINVdrM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-567: Cameron: I'm fun and optimistic: David Cameron has described himself as fun and… http://t.co/0QmzZwduRI Top Story
-	Sentiment(polarity=0.3666666666666667, subjectivity=0.3)
-568: RT @BBCWorld: The girl who gets gifts from birds http://t.co/oeCpHGL5lj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-569: RT @Animal_Watch: 'Big player' in UK dog fighting jailed after RSPCA probe http://t.co/3kqKZQ4wQ2 @BBCNews MT @RSPCA_official cc http://t.c…
-	Sentiment(polarity=0.0, subjectivity=0.1)
-570: Yemen ex-leader amassed billions http://t.co/GL3JThsUMs
-	Sentiment(polarity=0.0, subjectivity=0.0)
-571: Kevin Spacey to get special Olivier http://t.co/SKxOLK4knt
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-572: RT @RssFreeShipping: #shipping  #Free TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded ... http…
-	Sentiment(polarity=0.20000000000000004, subjectivity=0.3)
-573: Victoria Cross for Afghan raid hero http://t.co/7pUx4M1w1u
-	Sentiment(polarity=0.0, subjectivity=0.0)
-574: RT @RssFreeShipping: #shipping  #Free Lull raises hopes for Ukraine truce: The Ukrainian army says it suffered no casualties in 24 ... http…
-	Sentiment(polarity=0.4, subjectivity=0.8)
-575: RT @lovely1Dupdates: Ed Sheeran talking on BBC Radio 1 this morning about how he won't win the Best Video Brit bc 1D is nominated. 😂😂 -A ht…
-	Sentiment(polarity=0.9, subjectivity=0.35)
-576: RT @RssFreeShipping: #shipping  #Free Cameron: I'm fun and optimistic: David Cameron has described himself as fun and optimistic as... http…
-	Sentiment(polarity=0.3333333333333333, subjectivity=0.39999999999999997)
-577: The girl who gets gifts from birds http://t.co/GEl99wDhWN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-578: Cameron: Im fun and optimistic http://t.co/26OuuiCRMO
-	Sentiment(polarity=0.3, subjectivity=0.2)
-579: RT @RssFreeShipping: #shipping  #Free Call to ban energy drinks for kids: Energy drinks should be banned for children under 16, acc... http…
-	Sentiment(polarity=0.4, subjectivity=0.8)
-580: Cheap oil: Asias winners and losers http://t.co/yZW30AkvWf
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-581: Cameron: Im fun and optimistic http://t.co/LfBjIxg9cg
-	Sentiment(polarity=0.3, subjectivity=0.2)
-582: The UN Security Council is to discuss the report on Thursday. #securitycouncil http://t.co/CxyOXpDgIG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-583: The UN Security Council is to discuss the report on Thursday. #securitycouncil http://t.co/9qVvLFCjI9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-584: ひょっとして‥
-
-うちの住まいは 海外ドラマ(BBC)のドクター･フーのターディス（TARDIS)と同じように 外からは小さく見えるが中はとてつもなく広い？ 
-
-とか考えてるうちに また帰っちゃいました。
-
- TARDIS http://t.co/bRdOyUfM28
-	Sentiment(polarity=0.0, subjectivity=0.0)
-585: L'EI enlève des centaines de chrétiens http://t.co/pGoekck1Vd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-586: RT @CarlosADeArmas: “@bbcmundo: Colombia: decomisan 3 toneladas de cocaína con destino a México http://t.co/Aya9pNmWCf” ¿De FARC? ¡Lo de La…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-587: Call to ban energy drinks for kids http://t.co/IgH08INiQi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-588: RT @BBCWorld: The girl who gets gifts from birds http://t.co/oeCpHGL5lj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-589: The man who returned his grandfather’s looted art http://t.co/Z8Ea60p85t
-	Sentiment(polarity=0.0, subjectivity=0.0)
-590: Dispute over outdoor smoking ban call: Health experts argue the ban on smoking in… http://t.co/BWhw4ioq4G Top Story
-	Sentiment(polarity=0.5, subjectivity=0.5)
-591: Nuclear bunker drugs charges denied: Two men deny turning a former nuclear bunker… http://t.co/5rwIFwVwZE Top Story
-	Sentiment(polarity=0.25, subjectivity=0.25)
-592: ¿Debe internet ser considerado un servicio público como el agua o la luz? http://t.co/5JtWSnXBTA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-593: @CGPMedios http://t.co/gE0PALgOcd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-594: The girl who gets gifts from birds http://t.co/Bd5ZKcvFNB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-595: The man who returned his grandfather’s looted art http://t.co/9Uuh0Af0K7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-596: "A North Korea shipping company has been renaming and reflagging its vessels so it can evade an arms embargo, a... http://t.co/5QCYX4jWPy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-597: Kevin Spacey to get special Olivier http://t.co/G1U2PJnKAI
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-598: Call to ban energy drinks for kids http://t.co/hnicgiHTZr
-	Sentiment(polarity=0.0, subjectivity=0.0)
-599: @HYUN_OH7I 옙 공사함......나 팬미팅갔을때도 공사.......
-	Sentiment(polarity=0.0, subjectivity=0.0)
-600: US terror trial sees Bin Laden files: Documents seized from Osama Bin Laden's… http://t.co/j6DcAu1c8C Top Story
-	Sentiment(polarity=0.5, subjectivity=0.5)
-601: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-602: How stroke survivors find their voice http://t.co/sCzsmJSgVZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-603: Yemen ex-leader amassed billions http://t.co/NmfRf6FMp7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-604: Nuclear bunker drugs charges denied http://t.co/e5jqCKOcY3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-605: No future for TV licence, MPs say http://t.co/x8WXKJhugH
-	Sentiment(polarity=0.0, subjectivity=0.125)
-606: RT @BBCEarth: 14 of the world's most incredible bird beaks: http://t.co/qTopOxXNkv http://t.co/yK8hzdGMU7 http://t.co/Hs2rBmiT2v http://t.c…
-	Sentiment(polarity=0.7, subjectivity=0.7)
-607: RT @Aerycrow: 선물을 가져다주는 까마귀 http://t.co/OSY1AeJEdz 시애틀에 사는 8살 소녀 개비에게는 어찌보면 쓰레기더미로 보이는 수집품이 있는데, 동네 까마귀가 가져다준거라고.4년전 우연히 음식을 주게된 이후 계속 준 결과…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-608: BBC News - Brit Awards 2015: Madonna falls off stage http://t.co/b8IpBUjaNo
-	Sentiment(polarity=0.0, subjectivity=0.0)
-609: Kevin Spacey to get special Olivier http://t.co/Ey5uqId4TM
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-610: No future for TV licence, MPs say http://t.co/4sYvJpVQGB
-	Sentiment(polarity=0.0, subjectivity=0.125)
-611: The man who invented the dinosaur http://t.co/CU8L8IIyqv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-612: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-613: RT @BBCArabic: عشرات النساء الأستراليات "يدعمن الأرهاب" http://t.co/0QfrQ5PUBf
-	Sentiment(polarity=0.0, subjectivity=0.0)
-614: What is Campaignspotting? http://t.co/Vb43gxBjK9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-615: Cheap oil: Asias winners and losers http://t.co/Pbm6GyRQ8j
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-616: Yemen ex-leader amassed billions http://t.co/PuddNt3W90
-	Sentiment(polarity=0.0, subjectivity=0.0)
-617: BBC in Japan says: it will not be until first light that the true scale of disaster will become clear. LIVE UPDATES:
-	Sentiment(polarity=0.24727272727272726, subjectivity=0.5133333333333333)
-618: BBC Afrique - La CPI enquête sur les crimes en RCA http://t.co/9xVXOM5AKR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-619: RT @BBCNewsAsia: Can technology identify China's top graduates? http://t.co/T1lJMcmLQS via @TheJohnSudworth http://t.co/EX1vkf7Nvv
-	Sentiment(polarity=0.5, subjectivity=0.5)
-620: The member of the Diet who opposed calling a companion for public money all lost election. @BBC @CNN @nytimes #Japan #NARA
-	Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
-621: El maldito sistema. @Calle13Oficial: Lamentable el asesinato del adolescente, a manos de un policía en Venezuela. http://t.co/mGXIsfbfC0"
-	Sentiment(polarity=0.0, subjectivity=0.0)
-622: The girl who gets gifts from birds http://t.co/5ssmpiXrkV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-623: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-624: RT @KayyValoria: My heart hurt for Cookie. Like damn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-625: BBCWorld: RT BBCNewsAus: Leeds United is 'not for sale' to russellcrowe http://t.co/ZTmey1kIkS http://t.co/skaXaSv2MI
-	Sentiment(polarity=0.0, subjectivity=0.0)
-626: BBCWorld: RT BBCNewsAsia: Can technology identify China's top graduates? http://t.co/JiDDvrwmer via TheJohnSudworth http://t.co/2nFhzlmcJQ
-	Sentiment(polarity=0.5, subjectivity=0.5)
-627: Victoria Cross for Afghan raid hero http://t.co/ZfbvcOXUO1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-628: Brazil dolphin is first new river species since 1918 http://t.co/Tr4OV65U4t
-	Sentiment(polarity=0.19318181818181818, subjectivity=0.3939393939393939)
-629: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/BvQ99q9zdM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-630: The man who returned his grandfather’s looted art http://t.co/Z9K4ob26Aj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-631: Sunlight harms skin for hours later http://t.co/DPX2nxNiPk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-632: Now Playing The Rolling Stones - Get Off Of My Cloud @RollingStones http://t.co/ShtSWdGPw5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-633: Cameron: Im fun and optimistic http://t.co/tFOVi7BpPf
-	Sentiment(polarity=0.3, subjectivity=0.2)
-634: Así es el nuevo #Pri en México @teleSURtv @CaracolTV @JornalOGlobo @reuters @HRC @hrw @BBC @elpais_espana @AP @AFP http://t.co/65H2mFahQv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-635: Yemen ex-leader amassed billions http://t.co/LHSZAS05cp
-	Sentiment(polarity=0.0, subjectivity=0.0)
-636: BBC world
-	Sentiment(polarity=0.0, subjectivity=0.0)
-637: RT @BBCEarth: Incredible images of Antarctic skies from @BAS_News: http://t.co/EDHM8nLcAk http://t.co/fEQfiNUUDu
-	Sentiment(polarity=0.9, subjectivity=0.9)
-638: The Guardian view on Bashar al-Assad’s BBC interview: the lies of a tyrant | Editorial http://t.co/dEkY82Pibi
-#PrayForPeace
-	Sentiment(polarity=0.0, subjectivity=0.0)
-639: Stars check back into Marigold Hotel http://t.co/3DXX7IZGLy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-640: Stars check back into Marigold Hotel http://t.co/tsZGF7rE1f
-	Sentiment(polarity=0.0, subjectivity=0.0)
-641: What is Campaignspotting? http://t.co/2qLD1zjzfj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-642: Dispute over outdoor smoking ban call http://t.co/lbnUC3JnyB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-643: Anger with sexist football chant http://t.co/9rdaYvYJve
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-644: MPs call for reform of GM crops rules http://t.co/hrbs6hXxHu
-	Sentiment(polarity=0.0, subjectivity=0.0)
-645: New post: "Anti-Boko Haram force takes shape" http://t.co/VecJEc2GdK Efforts to create an 8,700-strong regional force to fight Nigeria's …
+9: RT @AC360: It’s amazing to think in a few months people will be water skiing here - @GaryTuchmanCNN on Great Lakes ice cutter http://t.co/I…
+	Sentiment(polarity=0.4000000000000001, subjectivity=0.5833333333333334)
+10: The @FBI foiled an alleged plot by two men to join #ISIS; a third allegedly helped finance the journey. http://t.co/xIMgkJ1maz
+	Sentiment(polarity=-0.06666666666666667, subjectivity=0.06666666666666667)
+11: RT @AC360: We did not take our decision lightly. There were a lot of tears in that deliberation room - #Routh jurors on #AC360 http://t.co/…
+	Sentiment(polarity=0.4, subjectivity=0.7)
+12: RT @TheLeadCNN: TheRace: Is @ScottWalker the new leader of the GOP pack? Your 2016 news in 80 seconds @jaketapper reports #TheLead http://t…
 	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-646: Call to ban energy drinks for kids http://t.co/wleOKddRQR
+13: RT @CNNent: . @ladygaga to star in FX's newest 'American Horror Story' http://t.co/E7pLDEbqVa http://t.co/gRoJFCDfeM
 	Sentiment(polarity=0.0, subjectivity=0.0)
-647: @BTS_0310hn 
-   
-   ほんまに  wwwwww
-
-   辛い  wwwwwwww
-	Sentiment(polarity=0.0, subjectivity=0.0)
-648: The man who returned his grandfather’s looted art http://t.co/7Bv6MgcE4L
-	Sentiment(polarity=0.0, subjectivity=0.0)
-649: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-650: Kevin Spacey to get special Olivier http://t.co/gAjrtk6rQP
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-651: BBC News - Austria passes controversial reforms to 1912 Islam law http://t.co/qvdwvVdnl0
-	Sentiment(polarity=0.55, subjectivity=0.95)
-652: What is Campaignspotting? http://t.co/rqw7noC5s6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-653: The man who returned his grandfather’s looted art http://t.co/gmGkue8v3j
-	Sentiment(polarity=0.0, subjectivity=0.0)
-654: .@bbclysedoucet reports - Caught in a wasteland: Gaza six months after the ceasefire - BBC News http://t.co/NhJDC4NMmw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-655: The man who returned his grandfather’s looted art http://t.co/BYl00yuVBM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-656: Trident question comes to the surface http://t.co/p2mbIsUmV2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-657: Sandler returns with The Cobbler http://t.co/1wVXCkK17o
-	Sentiment(polarity=0.0, subjectivity=0.0)
-658: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-659: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/mSIZCpptPP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-660: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-661: VIDEO: Sandler returns with The Cobbler: Adam Sandler is starring in a new comedy - The Cobbler - in which he ... http://t.co/sc1O4FyCCa
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-662: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/Yi5crGAEEF
-	Sentiment(polarity=0.0, subjectivity=0.0)
-663: Kevin Spacey to get special Olivier http://t.co/PH6PaSMFB0
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-664: RT @interacial_gifs: #interracial #blacksonblondes #porngifs #anal #bbc #blondes http://t.co/uFtQbAkyJS
-	Sentiment(polarity=0.0, subjectivity=0.0)
-665: RT @Vtechp: Russian navy to use Cyprus ports http://t.co/umuwRNF0pV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-666: TTIP trade deal text leaked to BBC http://t.co/Yg9ubCmuQt
-	Sentiment(polarity=0.0, subjectivity=0.0)
-667: TTIP trade deal text leaked to BBC http://t.co/lLkZi0rGKm
-	Sentiment(polarity=0.0, subjectivity=0.0)
-668: No future for TV licence, MPs say http://t.co/1b250hLzGb
-	Sentiment(polarity=0.0, subjectivity=0.125)
-669: Victoria Cross for Afghan raid hero http://t.co/Iv1DesJ7Qk
-	Sentiment(polarity=0.0, subjectivity=0.0)
-670: City zigzagged by zoo's zany zebras http://t.co/WhujIEzUD4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-671: City zigzagged by zoo's zany zebras http://t.co/goGslLxssV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-672: How stroke survivors find their voice http://t.co/A7oES9BA6R
-	Sentiment(polarity=0.0, subjectivity=0.0)
-673: How stroke survivors find their voice http://t.co/EviBiW1vjA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-674: Victoria Cross for Afghan raid hero http://t.co/dnnWjAK2j2
-	Sentiment(polarity=0.0, subjectivity=0.0)
-675: Cheap oil: Asias winners and losers http://t.co/7wXUw29lKt
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-676: BBC Mundo - Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/Pr2CirD7PI
-	Sentiment(polarity=0.0, subjectivity=0.0)
-677: Nuclear bunker drugs charges denied http://t.co/fXymC3uKuy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-678: Nuclear bunker drugs charges denied http://t.co/99tUgwmeoQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-679: The girl who gets gifts from birds http://t.co/afkT5TZShh
-	Sentiment(polarity=0.0, subjectivity=0.0)
-680: The man who invented the dinosaur http://t.co/btiptWXp44
-	Sentiment(polarity=0.0, subjectivity=0.0)
-681: The girl who gets gifts from birds http://t.co/UzCFiVtqQx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-682: The man who invented the dinosaur http://t.co/sU4Sqjx0ua
-	Sentiment(polarity=0.0, subjectivity=0.0)
-683: MPs call for reform of GM crops rules http://t.co/2AAfIsTgEH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-684: Cameron: Im fun and optimistic http://t.co/YQYAczqQsM
-	Sentiment(polarity=0.3, subjectivity=0.2)
-685: The decline of Nato defence spending http://t.co/h3ECCEOYt8
-	Sentiment(polarity=0.0, subjectivity=0.0)
-686: Yemen ex-leader amassed billions http://t.co/qGy1uSHwmA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-687: BBC World News: N Korea company 'renaming ships': A North Korean shipping company has rename... http://t.co/8AMfFgWDJC #BBC #World #News
-	Sentiment(polarity=0.0, subjectivity=0.0)
-688: The decline of Nato defence spending http://t.co/lCpOv7AeXP
-	Sentiment(polarity=0.0, subjectivity=0.0)
-689: No future for TV licence, MPs say http://t.co/fiAzvhSz58
-	Sentiment(polarity=0.0, subjectivity=0.125)
-690: Choral Evensong http://t.co/njbJsv30HH Long-running programme presenting live broadcasts of Evensong from around the co...
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.5)
-691: [news] N Korea company 'renaming ships' http://t.co/grUBHK45yu #unesa
-	Sentiment(polarity=0.0, subjectivity=0.0)
-692: Cheap oil: Asias winners and losers http://t.co/90HWrjEXP7
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-693: Dispute over outdoor smoking ban call http://t.co/Ue8jaV4FFR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-694: N Korea company 'renaming ships': A North Korean shipping company has renamed and reflagged its vessels in an ... http://t.co/RfHB0AlEre
-	Sentiment(polarity=0.0, subjectivity=0.0)
-695: RT @FlyingShadowz: RT @BlackHLife: "@manatrue: Police Probe Paedosadist Ring at BBC's #EastEnders #OpDeathEaters
-http://t.co/19r99jjS7f… ht…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-696: N Korea company 'renaming ships' http://t.co/WNLSxPkRRV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-697: RT @DaveLeeBBC: A Portuguese firm has demonstrated a drone that can be piloted using just a person's brainwaves. My report: http://t.co/IyI…
-	Sentiment(polarity=-0.2, subjectivity=0.4)
-698: RT @BBCBreaking: Singer @Madonna falls down stairs during #BRITs2015 performance http://t.co/zBrf027EfA http://t.co/MVFwuI5dqV
-	Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
-699: Dispute over outdoor smoking ban call http://t.co/S7iveRFmMt
-	Sentiment(polarity=0.0, subjectivity=0.0)
-700: Call to ban energy drinks for kids http://t.co/Gh1wXqZmEy
-	Sentiment(polarity=0.0, subjectivity=0.0)
-701: Starting gun fired in BBC charter battle http://t.co/ggx9RFHQ60
-	Sentiment(polarity=0.0, subjectivity=0.1)
-702: Best of BBC #Asia features: 'Colourful propaganda' from China's Xinjiang region http://t.co/LZS0M7tby9  http://t.co/NXioisXLIs
-	Sentiment(polarity=0.45, subjectivity=0.2)
-703: Message of Leader of the Islamic Republic of Iran
-#Letter4U
-#letter4youth
-#BBC
-#CNN
-#News
-#ISIS
-#Israel
-#foxnews http://t.co/QgoG7lWXJi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-704: RT @bbcmundo: Nuevas protestas en #Venezuela dejan al menos cinco heridos http://t.co/DR4PARn85z http://t.co/KucINw1bXY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-705: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-706: RT @bbcrussian: Пересып и недосып: два пути к ранней могиле http://t.co/U99EF5RQU5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-707: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-708: Yemen ex-leader amassed billions http://t.co/rLfNkunPMN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-709: #BHRAMABULL Zane Lowe Will Interview Kanye West Again:   In September of 2013, Zane Lowe of BBC Radio 1 held a... http://t.co/lXAATelk32
-	Sentiment(polarity=0.0, subjectivity=0.0)
-710: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-711: Cameron: Im fun and optimistic http://t.co/I7OYpHC0DP
-	Sentiment(polarity=0.3, subjectivity=0.2)
-712: No future for TV licence, MPs say http://t.co/OrEBs4Q7Gr
-	Sentiment(polarity=0.0, subjectivity=0.125)
-713: Call to ban energy drinks for kids http://t.co/X0vWhFa4NV
-	Sentiment(polarity=0.0, subjectivity=0.0)
-714: The return of a once-glorious train station http://t.co/d4yJSCBrCS
-	Sentiment(polarity=0.0, subjectivity=0.0)
-715: RT @bbcmundo: Nuevas protestas en #Venezuela dejan al menos cinco heridos http://t.co/DR4PARn85z http://t.co/KucINw1bXY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-716: The real reason why the BBC shelved 'dynamite' tapes of Diana interviews http://t.co/6zzlHg73FY
-	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
-717: @BTS_0310hn 
-
-   なむじゃやあああん
-
-   #え
-	Sentiment(polarity=0.0, subjectivity=0.0)
-718: RT @laithmoualla: BBC ONE http://t.co/QIArPNwRXT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-719: What is Campaignspotting? http://t.co/3We4hQJpPn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-720: Trident question comes to the surface http://t.co/BjoYALHnc5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-721: The decline of Nato defence spending http://t.co/lMZjIlgFgA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-722: sexy porn: Fucked by BBC before hubby eats my cummy pussy  #porn #followback #teen #itunes http://t.co/3e7BvjnTsA
-	Sentiment(polarity=-0.033333333333333326, subjectivity=0.5666666666666667)
-723: N Korea company 'renaming ships' http://t.co/3RlD7jpfBG
-	Sentiment(polarity=0.0, subjectivity=0.0)
-724: RT @bbcrussian: Украина: появилась надежда на реальное перемирие http://t.co/A9t8a8YLRR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-725: Sir Cliff inquiry widens, and a Helmand hero http://t.co/qyF8DBNlib
-	Sentiment(polarity=0.0, subjectivity=0.0)
-726: Argentina's love affair with polo http://t.co/EL24Y29snA
-	Sentiment(polarity=0.5, subjectivity=0.6)
-727: RT @FlancBoys: 成金⭐速報❗❗❗
-
-このスレ見てそのままやったら
-
-3⃣0⃣分で②万円稼げたったｗｗｗｗｗ
-
-➡➡ http://t.co/2aTBXva2rA
-
-ガチやで〜???????? http://t.co/0HboI5zN3J
-	Sentiment(polarity=0.0, subjectivity=0.0)
-728: RT @BBCSport: Australian double Olympic silver medallist pleads guilty to meth charge. Full story: http://t.co/ju9ttMn8oI http://t.co/YOMNZ…
-	Sentiment(polarity=-0.037500000000000006, subjectivity=0.3875)
-729: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-730: Anger with sexist football chant http://t.co/XBG2kdAntg
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-731: RT @BBCNews: City zigzagged by zoo's zany zebras http://t.co/gaidBPPYQ0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-732: RT @BBCtrending: Hair revolution: @Masih_Alinejad wins human rights award for Facebook hijab campaign http://t.co/HGhUdQ9ABM http://t.co/9l…
-	Sentiment(polarity=0.15, subjectivity=0.15000000000000002)
-733: Cameron: Im fun and optimistic http://t.co/Xinndhl7Xr
-	Sentiment(polarity=0.3, subjectivity=0.2)
-734: N Korea company 'renaming ships' http://t.co/WCosCHJO0s
-	Sentiment(polarity=0.0, subjectivity=0.0)
-735: xxx movie: Fucked by BBC before hubby eats my cummy pussy  #xxx #anal #milf #iPad #usa http://t.co/0GQkLvv1Uo
-	Sentiment(polarity=-0.6, subjectivity=0.7)
-736: RT @bbcmundo: ¿Conoces el raro caso del bebé que nació dentro del saco amniótico? http://t.co/v8VYbB8wJv vía @bbc_ciencia http://t.co/XxLLM…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-737: The return of a once-glorious train station http://t.co/gfZomseW01
-	Sentiment(polarity=0.0, subjectivity=0.0)
-738: [ #Full_De_Love ] Rusia y Chipre firman acuerdo de acceso a puertos chipriotas: Bajo el acuerdo l... http://t.co/7QpLB09n7c #Ivansytto_c
-	Sentiment(polarity=0.0, subjectivity=0.0)
-739: RT @bbchealth: Call to ban energy drinks for kids http://t.co/XvkEm2BdBW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-740: N Korea company 'renaming ships': A North Korean shipping company has renamed and… http://t.co/a0EvCsRMh6 #BBC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-741: Kevin Spacey to get special Olivier: Actor and theatre director Kevin Spacey will be… http://t.co/tlZjGK88pM #BBC
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-742: No future for TV licence, MPs say: The TV licence does not have a long-term future and… http://t.co/waDs0ybNp2 #BBC
-	Sentiment(polarity=0.0, subjectivity=0.125)
-743: [ #Full_De_Love ] Jordania: EE.UU. alerta sobre amenazas contra centros comerciales en Amán: La e... http://t.co/0ntV7JNLEK #Ivansytto_c
-	Sentiment(polarity=0.0, subjectivity=0.0)
-744: Stars check back into Marigold Hotel http://t.co/DGsHH4RE4r
-	Sentiment(polarity=0.0, subjectivity=0.0)
-745: I liked a @YouTube video http://t.co/5LmLuY7dxK Ninth Doctor regenerates - Christopher Eccleston to David Tennant - Doctor Who - BBC
-	Sentiment(polarity=0.6, subjectivity=0.8)
-746: #Internacionales Rusia y Chipre firman acuerdo de acceso a puertos chipriotas: Bajo el acuerdo los barcos de l... http://t.co/ET1JUQNwPA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-747: What is Campaignspotting? http://t.co/YWusEb7ONi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-748: RT @THRGlobal: BBC Trust Should Be Abolished, License Fee Replaced, U.K. Parliament Report Says http://t.co/rcq6mZEbhw http://t.co/r7QOIqxv…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-749: RT @Aerycrow: 선물을 가져다주는 까마귀 http://t.co/OSY1AeJEdz 시애틀에 사는 8살 소녀 개비에게는 어찌보면 쓰레기더미로 보이는 수집품이 있는데, 동네 까마귀가 가져다준거라고.4년전 우연히 음식을 주게된 이후 계속 준 결과…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-750: Stars check back into Marigold Hotel http://t.co/Xk5FR2VRPU
-	Sentiment(polarity=0.0, subjectivity=0.0)
-751: Cold to BBC
-	Sentiment(polarity=-0.6, subjectivity=1.0)
-752: [BBC Mundo. RU] Rusia y Chipre firman acuerdo de acceso a puertos chipriotas: Bajo el acuerdo los... http://t.co/k3V586LnZW vía J.A.M.V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-753: Rusia y Chipre firman acuerdo de acceso a puertos chipriotas: Bajo el acuerdo los barcos de la armada rusa ten... http://t.co/ozDHi6BEJd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-754: Call to ban energy drinks for kids http://t.co/sfORMUCiQ4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-755: [BBC Mundo. RU] Jordania: EE.UU. alerta sobre amenazas contra centros comerciales en Amán: La emb... http://t.co/w7yNUCktGl vía J.A.M.V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-756: The girl who gets gifts from birds http://t.co/n08ca1nYge
-	Sentiment(polarity=0.0, subjectivity=0.0)
-757: Yemen ex-leader amassed billions http://t.co/FrrTowfYRK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-758: The man who invented the dinosaur http://t.co/zov5RNBGob
-	Sentiment(polarity=0.0, subjectivity=0.0)
-759: BBC broadcasters and journalists continue to show their predomintally True Blue Tory Colours. No change there then!! Regardless #VoteLabour
-	Sentiment(polarity=0.175, subjectivity=0.375)
-760: Yemen ex-leader amassed billions http://t.co/nz9AwGdlbg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-761: The man who returned his grandfather’s looted art http://t.co/IHLDbTqLH5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-762: The decline of Nato defence spending http://t.co/JJIGHEfkXB
-	Sentiment(polarity=0.0, subjectivity=0.0)
-763: RT @JamilaHanan: #Yemen ex-leader Saleh 'amassed up to $60bn' 
-http://t.co/h9JIvWtWL4
-Wonder how he'll explain that in the next life? http:…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-764: City zigzagged by zoo's zany zebras http://t.co/XRBzrrLIl7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-765: Empire Cut too much bbc
+14: RT @OutFrontCNN: Recreational marijuana becomes legal in Washington D.C. at midnight. @CNN's @miguelmarquez has what you need to know: http…
 	Sentiment(polarity=0.2, subjectivity=0.2)
-766: Eight #RenewableEnergy projects approved http://t.co/uRnQK65M5O http://t.co/gte5EdPrZD
-	Sentiment(polarity=0.0, subjectivity=0.0)
-767: RT @BBCEarth: Incredible images of Antarctic skies from @BAS_News: http://t.co/EDHM8nLcAk http://t.co/fEQfiNUUDu
-	Sentiment(polarity=0.9, subjectivity=0.9)
-768: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-769: RT @LoveWhiteSluts: Big Booty Nerd Carmen Valentina @ClubCarmenXXX BBC @joshstonexxx Free Preview http://t.co/QiiAoZwhqN #bbcslut http://t.…
-	Sentiment(polarity=0.2, subjectivity=0.45)
-770: The girl who gets gifts from birds http://t.co/EZQTc34E5f
-	Sentiment(polarity=0.0, subjectivity=0.0)
-771: DUNEDIN: Cricket World Cup, Scotland Ka Afghanistan Ko Jeet Kay Liye 211 Runs Ka Hadaf.
-Rpt&gt;A.K.R.@.Q.Z.R
-	Sentiment(polarity=0.0, subjectivity=0.0)
-772: Ex-Guatemalan president freed in US: Former Guatemalan President Alfonso Portillo is… http://t.co/2svkuQedfq #BBC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-773: BBC News - Dien Bien Phu: Did the US offer France an A-bomb? http://t.co/ZQXP14ql1G
-	Sentiment(polarity=0.0, subjectivity=0.0)
-774: BBC♥
-	Sentiment(polarity=0.0, subjectivity=0.0)
-775: RT @BBCEarth: Incredible images of Antarctic skies from @BAS_News: http://t.co/EDHM8nLcAk http://t.co/fEQfiNUUDu
-	Sentiment(polarity=0.9, subjectivity=0.9)
-776: Call to ban energy drinks for kids http://t.co/iTbtVecKSA
-	Sentiment(polarity=0.0, subjectivity=0.0)
-777: MPs call for reform of GM crops rules http://t.co/Dlxp1dtX2q
-	Sentiment(polarity=0.0, subjectivity=0.0)
-778: MPs call for reform of GM crops rules http://t.co/N0omoSgH7G
-	Sentiment(polarity=0.0, subjectivity=0.0)
-779: The girl who gets gifts from birds http://t.co/tnQ5emilcp
-	Sentiment(polarity=0.0, subjectivity=0.0)
-780: The decline of Nato defence spending http://t.co/SDj6yU1hEN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-781: @DeltaGoodrem @evagolinger Demand for rigorous shakeup at top of BBC. Report recommends replacing BBC Trust with a single board,
-	Sentiment(polarity=0.2142857142857143, subjectivity=0.35714285714285715)
-782: SO Cool! ~ The girl who gets gifts from #birds http://t.co/j8H5Lwo73a via @DawnFine
-	Sentiment(polarity=0.4375, subjectivity=0.65)
-783: https://t.co/CZYXB0Rs8F other than Dirty South Joe's,  this has to be the hardest bbc mix
-	Sentiment(polarity=-0.3625, subjectivity=0.5875)
-784: The man who returned his grandfather’s looted art http://t.co/x53fAUPQSQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-785: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-786: MPs call for reform of GM crops rules http://t.co/WfJ1lgZM3M
-	Sentiment(polarity=0.0, subjectivity=0.0)
-787: The man who invented the dinosaur http://t.co/w9f7zvPNyd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-788: Stars check back into Marigold Hotel http://t.co/0lUk6yqBXR
-	Sentiment(polarity=0.0, subjectivity=0.0)
-789: RT @BBCNewsAus: Leeds United is 'not for sale' to @russellcrowe http://t.co/vKeBy6cuGK http://t.co/IEFV3KYIUb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-790: No future for TV licence, MPs say http://t.co/HpRSUjlO52
-	Sentiment(polarity=0.0, subjectivity=0.125)
-791: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-792: Ban China from UN! http://t.co/Ns0JfIH7Xd #BBC #CNN #Reuters #AP #ABC #NBC #CBS #NYT #WSJ #FIFA #Deutschland #France #US #Italy #Spain #UK
-	Sentiment(polarity=0.0, subjectivity=0.0)
-793: foto top essa na .. Chapada dos veadeiros *_* http://t.co/efRDclSnzM
-	Sentiment(polarity=0.5, subjectivity=0.5)
-794: What is Campaignspotting? http://t.co/6cI8TAFF9x
-	Sentiment(polarity=0.0, subjectivity=0.0)
-795: Trident question comes to the surface http://t.co/rc6kDNBBC5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-796: RT @fitafojytyw: どう見ても下着が透けてる女の子ってバカなの？鏡くらい見ろよｗｗｗｗｗｗｗｗｗｗ
-
-夏場ってキケン♡
-チラッ→http://t.co/hPTTqHqG6N http://t.co/8j2u68pLgg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-797: The girl who gets gifts from birds http://t.co/prwmmRgYJ1
-	Sentiment(polarity=0.0, subjectivity=0.0)
-798: Kevin Spacey to get special Olivier http://t.co/dX89BuA4Wo
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-799: Sir Cliff inquiry widens, and a Helmand hero http://t.co/JIm4bD48Wl
-	Sentiment(polarity=0.0, subjectivity=0.0)
-800: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-801: Kevin Spacey to get special Olivier http://t.co/k0nyuFRPw1
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-802: Cameron: Im fun and optimistic http://t.co/vkwDLKOkhZ
-	Sentiment(polarity=0.3, subjectivity=0.2)
-803: Victoria Cross for Afghan raid hero http://t.co/0cBfe585my
-	Sentiment(polarity=0.0, subjectivity=0.0)
-804: @ZihoonsLuvZiho 헐캐릭터사야 추첨그거신청할수있어??
-	Sentiment(polarity=0.0, subjectivity=0.0)
-805: RT @jfastory: ギリシャ政府、国内プロリーグ停止を決定　ダービーの暴動を受けて: 　ギリシャ政府が、同国のプロサッカー開催を停止することを決めた。イギリス『ＢＢＣ』など、複数のメディアが伝えている。 #JFASTORY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-806: RT @BBCNewsAus: Leeds United is 'not for sale' to @russellcrowe http://t.co/vKeBy6cuGK http://t.co/IEFV3KYIUb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-807: Anger with sexist football chant http://t.co/X56O7tHuys
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-808: The mystery of the Paris night drones deepens: http://t.co/j873psBTtJ via @BBC http://t.co/24MMq09TgF
-	Sentiment(polarity=0.0, subjectivity=0.0)
-809: Threatened Scott's Selkirk Christmas festival is saved - BBC News http://t.co/NQbNT1B7nK http://t.co/481qPyAxDC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-810: City zigzagged by zoo's zany zebras http://t.co/8jQTMBUHK7
-	Sentiment(polarity=0.0, subjectivity=0.0)
-811: The man who invented the dinosaur http://t.co/RNh1IRu39D
-	Sentiment(polarity=0.0, subjectivity=0.0)
-812: The return of a once-glorious train station http://t.co/8NsznTESOl
-	Sentiment(polarity=0.0, subjectivity=0.0)
-813: Trident question comes to the surface http://t.co/6i6lG0nIxL
-	Sentiment(polarity=0.0, subjectivity=0.0)
-814: The man who invented the dinosaur http://t.co/1FcgtY5ipf
-	Sentiment(polarity=0.0, subjectivity=0.0)
-815: Dispute over outdoor smoking ban call http://t.co/nTiEjXAOZa
-	Sentiment(polarity=0.0, subjectivity=0.0)
-816: RT @BBCEarth: Incredible images of Antarctic skies from @BAS_News: http://t.co/EDHM8nLcAk http://t.co/fEQfiNUUDu
-	Sentiment(polarity=0.9, subjectivity=0.9)
-817: Photoset: hollowcrownfans:BBC Radio 3’s ‘Words and Music’ - theme: Memories The Hollow Crown’s Tom... http://t.co/uZXfiZMgYC
-	Sentiment(polarity=-0.1, subjectivity=0.05)
-818: Lisa is getting fucked by a BBC #porn #followback #teen #itunes http://t.co/YQvSYdluKl
-	Sentiment(polarity=-0.3, subjectivity=0.35)
-819: Anger with sexist football chant http://t.co/6DRuVzYRB6
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-820: RT @bbcmundo: Universidad de Texas paga US$2,2 millones por archivo de #GarcíaMárquez http://t.co/i4icZ7sCbk http://t.co/z0BwAs0z9j
-	Sentiment(polarity=0.0, subjectivity=0.0)
-821: The girl who gets gifts from birds http://t.co/PgalwDYfaJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-822: Call to ban energy drinks for kids http://t.co/FDgE6yRM3F
-	Sentiment(polarity=0.0, subjectivity=0.0)
-823: Victoria Cross for Afghan raid hero http://t.co/JVm3ioiGrb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-824: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-825: “@AzumaNelson: Greek government suspends football http://t.co/OXUpgblP2q” / less education and money lead to this
-	Sentiment(polarity=-0.08333333333333333, subjectivity=0.03333333333333333)
-826: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-827: RT @ceramicreview: Great interview with @JohnnyVegasReal on @BBCFrontRow #bbcgetcreative about young people and creativity; listen here htt…
-	Sentiment(polarity=0.45, subjectivity=0.575)
-828: Yemen ex-leader amassed billions http://t.co/3cQXip0oFe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-829: Cheap oil: Asias winners and losers http://t.co/rKNcvBGBCQ
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-830: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-831: The girl who gets gifts from birds http://t.co/J64OIi5VJW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-832: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-833: City zigzagged by zoo's zany zebras http://t.co/gaidBPPYQ0
-	Sentiment(polarity=0.0, subjectivity=0.0)
-834: RT @Aerycrow: 선물을 가져다주는 까마귀 http://t.co/OSY1AeJEdz 시애틀에 사는 8살 소녀 개비에게는 어찌보면 쓰레기더미로 보이는 수집품이 있는데, 동네 까마귀가 가져다준거라고.4년전 우연히 음식을 주게된 이후 계속 준 결과…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-835: Sir Cliff inquiry widens, and a Helmand hero http://t.co/JC1ZWRA6Og
-	Sentiment(polarity=0.0, subjectivity=0.0)
-836: Victoria Cross for Afghan raid hero http://t.co/SsVGEo6zMd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-837: A cat once predicted the death of 25 people, By showing them affection right before they died.
-	Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
-838: Stars check back into Marigold Hotel http://t.co/Zafp3N2xOd
-	Sentiment(polarity=0.0, subjectivity=0.0)
-839: Cheap oil: Asias winners and losers http://t.co/wslUBBvW0A
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-840: Cameron: Im fun and optimistic http://t.co/FJ5QuL800d
-	Sentiment(polarity=0.3, subjectivity=0.2)
-841: RT @9774u: #Recent #News : Netanyahu row with Obama administration deepens - BBC News: BBC NewsNetanyahu row with... http://t.co/znhl8NWiVl…
-	Sentiment(polarity=0.0, subjectivity=0.25)
-842: The man who returned his grandfather’s looted art http://t.co/x1tv8EpQiZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-843: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-844: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-845: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-846: North Korea shipping company has been renaming and reflagging vessels to evade an arms embargo, UN report says - B… http://t.co/EZgO9dhP6D
-	Sentiment(polarity=0.0, subjectivity=0.0)
-847: What is Campaignspotting? http://t.co/wQNtumOdWQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-848: Victoria Cross for Afghan raid hero http://t.co/crS6uoQVIg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-849: RT @BBCNews: How stroke survivors find their voice http://t.co/PNwiCmZQzE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-850: ICYMI: Have you seen this adorable interview with Ed and Taylor? http://t.co/t6R0GuaFhc http://t.co/By8S77n53O
-	Sentiment(polarity=0.5, subjectivity=1.0)
-851: Al-Jazeera arrests over Paris drone http://t.co/f53esjHDjq
-	Sentiment(polarity=0.0, subjectivity=0.0)
-852: RT @bbcmundo: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-853: New: N Korea company 'renaming ships' http://t.co/iz1flCXRMk
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-854: Dispute over outdoor smoking ban call http://t.co/3mfloIqLIC
-	Sentiment(polarity=0.0, subjectivity=0.0)
-855: No future for TV licence, MPs say http://t.co/qKOXe6xcCt
-	Sentiment(polarity=0.0, subjectivity=0.125)
-856: TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded... http://t.co/lcMpVvj4Yr via BBCI Politics
-	Sentiment(polarity=0.1, subjectivity=0.05)
-857: TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded fr... http://t.co/UoZJk0lo5F via@bbcpolitic
-	Sentiment(polarity=0.1, subjectivity=0.05)
-858: Dispute over outdoor smoking ban call http://t.co/EVzmnN1zdg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-859: TTIP trade deal text leaked to BBC http://t.co/57n1Nx8jlM
-	Sentiment(polarity=0.0, subjectivity=0.0)
-860: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-861: US terror trial sees Bin Laden files http://t.co/IjIFrsaqqv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-862: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/iAdGysjYbr
-	Sentiment(polarity=0.0, subjectivity=0.0)
-863: TTIP trade deal text leaked to BBC http://t.co/ptgtzxVqPa
-	Sentiment(polarity=0.0, subjectivity=0.0)
-864: US terror trial sees Bin Laden files http://t.co/mhurZ6wGXb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-865: Yemen ex-leader amassed billions http://t.co/6cMSwnWQHW
-	Sentiment(polarity=0.0, subjectivity=0.0)
-866: TTIP trade deal text leaked to BBC http://t.co/Uzvw6PY3BZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-867: US terror trial sees Bin Laden files http://t.co/XgUvWDhUbg
-	Sentiment(polarity=0.0, subjectivity=0.0)
-868: Trident question comes to the surface http://t.co/i87a2r1qyE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-869: RT @notjessewalker: "A machine has taught itself how to play and win video games": http://t.co/4aLuNjGYh3 Humanity is finally superfluous.
-	Sentiment(polarity=0.4, subjectivity=0.7)
-870: Los hinchas de millos en el bbc de mi casa están un fastidio :))))
-	Sentiment(polarity=0.5, subjectivity=1.0)
-871: RT @frontiermail: @iYashwant  Austria has passed a law http://t.co/OOoaPVqaJfIndia must do it soon. @ensine @re_ve_ng_er @bhardwajneet @m…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-872: Cheap oil: Asias winners and losers http://t.co/RPAvZp0aH2
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-873: RT @GenevaSummit: BBC interviews Masih Alinejad after she won our 2015 Geneva Summit Women’s Rights Award: https://t.co/9jJKPOSt8p #gs15 @G…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-874: Full CMS Committee report on the future of the BBC and the BBC Trust in the run up to charter review: http://t.co/veEqRdkTms
-	Sentiment(polarity=0.175, subjectivity=0.3375)
-875: RT @BBCEarth: Incredible images of Antarctic skies from @BAS_News: http://t.co/EDHM8nLcAk http://t.co/fEQfiNUUDu
-	Sentiment(polarity=0.9, subjectivity=0.9)
-876: BBC Mundo - Nuevo billete dedicado a Malvinas/Falklands genera críticas y bromas en Argentina http://t.co/4J8qc4nrin
-	Sentiment(polarity=0.0, subjectivity=0.0)
-877: Anger with sexist football chant http://t.co/FenIBDe8wK
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-878: Chile: la niña que le pidió a Bachelet "dormirla para siempre" http://t.co/nRMMR7I2Qe
-	Sentiment(polarity=0.0, subjectivity=0.0)
-879: New post: "N Korea company 'renaming ships'" http://t.co/iz1flCXRMk
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-880: #North Korea reflagging ships to evade sanctions - #UN http://t.co/3lT13JkvAI http://t.co/A1e2uR0KtY
-	Sentiment(polarity=0.0, subjectivity=0.0)
-881: Yemen ex-leader amassed billions http://t.co/qKMYSh7rn4
-	Sentiment(polarity=0.0, subjectivity=0.0)
-882: sexy porn: Fucked by BBC before hubby eats my cummy pussy  #porn #followback #teen #itunes http://t.co/pVjRZLgJyK
-	Sentiment(polarity=-0.033333333333333326, subjectivity=0.5666666666666667)
-883: BBCWorld: RT BBCNewsAus: Leeds United is 'not for sale' to russellcrowe http://t.co/Bl7Wp7PmP4 http://t.co/xZ2sJxnf3X
-	Sentiment(polarity=0.0, subjectivity=0.0)
-884: BBCWorld: RT BBCNewsAsia: Can technology identify China's top graduates? http://t.co/GlCHMgPlBh via TheJohnSudworth http://t.co/gtoVm9am3B
-	Sentiment(polarity=0.5, subjectivity=0.5)
-885: No future for TV licence, MPs say http://t.co/tAHqa6WGGE
-	Sentiment(polarity=0.0, subjectivity=0.125)
-886: Trident question comes to the surface http://t.co/Lk1zA0edvi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-887: BBC licence fee should be replaced, say MPs http://t.co/CxbcoVKJ22
-	Sentiment(polarity=0.0, subjectivity=0.0)
-888: What is Campaignspotting? http://t.co/FStlW3dNHH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-889: The girl who gets gifts from birds http://t.co/t4Hayn9QFH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-890: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-891: BBC Mundo - Cómo la industria soviética del algodón se bebió un mar entero http://t.co/e4NkTnD9C9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-892: A black cock craving teacher(for muffdive) (BBC) #amateur #sex #porn #xxx #nsfw #hardcore #mature #pantyhose http://t.co/wMeQAQhMBW
-	Sentiment(polarity=-0.10555555555555556, subjectivity=0.2611111111111111)
-893: Victoria Cross for Afghan raid hero http://t.co/gl6B8zkxYH
-	Sentiment(polarity=0.0, subjectivity=0.0)
-894: Cameron: Im fun and optimistic http://t.co/y9bgMMyTx6
-	Sentiment(polarity=0.3, subjectivity=0.2)
-895: Sir Cliff inquiry widens, and a Helmand hero http://t.co/Nx1P9eNLaX
-	Sentiment(polarity=0.0, subjectivity=0.0)
-896: Dispute over outdoor smoking ban call http://t.co/JSeS4JH98X
-	Sentiment(polarity=0.0, subjectivity=0.0)
-897: RT @TraveltheWrld: [BBC UK] Dispute over outdoor smoking ban call http://t.co/f9lhqC0g1C
-	Sentiment(polarity=-0.75, subjectivity=1.0)
-898: RT @BBCSport: Fernando Alonso out of hospital but will miss next test. Read more: http://t.co/ryRhLncRKh #F1 http://t.co/CcEaelBcSI
+15: Washington D.C. is set to legalize pot at 12:01 a.m. tomorrow. Some aren't happy http://t.co/JvGNvcu7Vb @CNNPolitics http://t.co/oe3SM4kIed
+	Sentiment(polarity=0.8, subjectivity=1.0)
+16: RT @OutFrontCNN: In a few hours marijuana will be legal in Washington D.C. So why is Congress saying "don’t hold your breath?' @miguelmarqu…
+	Sentiment(polarity=0.0, subjectivity=0.15000000000000002)
+17: RT @OutFrontCNN: #EddieRayRouth guilty of killing #AmericanSniper, but the question remains: Why did he do it? @edlavaCNN has more. http://…
+	Sentiment(polarity=0.0, subjectivity=0.75)
+18: RT @CNNVideo: While performing at the #BRITAwards in London, @Madonna had a cape malfunction and took a tumble off the stage: http://t.co/z…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+19: RT @EliseMiller: On a Coast Guard icebreaker on Lake Huron with @GaryTuchmanCNN. Tune in to @AC360 tonight at 8p for our report! #CNN http:…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+20: Georgia postponed its first execution of a woman in 70 years due to a threat of bad weather. http://t.co/kZDNYPLbTx http://t.co/RVjFERDFKA
+	Sentiment(polarity=-0.19166666666666662, subjectivity=0.4583333333333333)
+21: RT @CNNPolitics: Justices let fisherman off hook: http://t.co/UgYIoGHbAF
+	Sentiment(polarity=0.0, subjectivity=0.0)
+22: RT @OutFrontCNN: White House condemns abduction of 150 Christians by #ISIS. @CNN's @jimsciutto has more: http://t.co/OeNACkDx80 http://t.co…
 	Sentiment(polarity=0.25, subjectivity=0.25)
-899: BBC America: Good Show! http://t.co/VEvTCGuGac
-	Sentiment(polarity=0.875, subjectivity=0.6000000000000001)
-900: An interesting article
-
-DE
-
-http://t.co/vYjR1ZO9CF http://t.co/aN8AXHJq2P
+23: RT @OutFrontCNN: Drones spotted in Paris. @willripleyCNN has more on why these devices are a growing concern for federal officials. http://…
 	Sentiment(polarity=0.5, subjectivity=0.5)
-901: RT @rycydekoler: 【カーセックス】激写されたカップルの反応いろいろ（画像20枚）
+24: RT @OutFrontCNN: "Nothing seemed out of the ordinary" with the suspects charged with supporting #ISIS. @jasoncarrollcnn has more @CNN http:…
+	Sentiment(polarity=0.16666666666666666, subjectivity=0.4166666666666667)
+25: RT @OutFrontCNN: As FBI chief warns extremists exist in every U.S. state, 3 men are arrested for backing ISIS. @CNN's @ErinBurnett has all …
+	Sentiment(polarity=0.0, subjectivity=0.0)
+26: RT @CNNSitRoom: Attorney for NY ISIS plot suspect: There is a rush to prosecute Muslim men in America http://t.co/XFb2483rgq
+https://t.co/B…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+27: RT @AnneClaireCNN: Officially going nowhere http://t.co/NsRrjTTz58
+	Sentiment(polarity=0.0, subjectivity=0.0)
+28: RT @OutFrontCNN: #BokoHaram + #ISIS = Marriage from Hell http://t.co/AXB3CTUPlI @CNN http://t.co/FLRchZSB7N
+	Sentiment(polarity=0.0, subjectivity=0.0)
+29: Get ready to return to Duckburg. #DuckTales is coming back to TV: http://t.co/xSQzbvqo61 via @CNNMoney http://t.co/OdBRlOCpt7
+	Sentiment(polarity=0.1, subjectivity=0.25)
+30: RT @AC360: "He inflicted this on himself” Jurors speak with @andersoncooper about the conviction of #EddieRayRouth. 8p ET @CNN http://t.co/…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+31: RT @CNNSitRoom: Army Chief @GENRayOdierno to @WolfBlitzer: Anti-ISIS fight will take months. More this hour http://t.co/2PLaxp7eRa http://t…
+	Sentiment(polarity=0.5, subjectivity=0.5)
+32: Scope #superbug: How long did the #FDA know about this problem? http://t.co/93Vm2DHKqS via @CNNHealth http://t.co/h1KwIarjn2
+	Sentiment(polarity=-0.05, subjectivity=0.4)
+33: RT @CNNVideo: Sam Smith says he wants @edsheeran to win all the #BRITAwards. @IsaCNN reports: http://t.co/6Za1hLqf09 http://t.co/sXLTgHhoaU
+	Sentiment(polarity=0.5, subjectivity=0.25)
+34: RT @camanpour: “Lots of water has passed under the bridges” since Russia and America were close partners, Peskov tells me: http://t.co/DPBK…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+35: Sick of winter? Time to seek warmer climes. Learn about great beach escapes in CNN's latest edition on @Snapchat. https://t.co/3QaZQOVcb3
+	Sentiment(polarity=0.19523809523809524, subjectivity=0.8357142857142857)
+36: Is American exceptionalism making us dumb? A @CNNOpinion writer looks at recent controversy: http://t.co/IbkIZqqX5G http://t.co/LzMOaIF1AS
+	Sentiment(polarity=-0.125, subjectivity=0.25)
+37: RT @cnnireport: That moment when you scrape the snow off your car ... to find it's not yours. http://t.co/zsy317WEmk @CruzNControl http://t…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+38: RT @TheLeadCNN: #TheLead is live. Leading the show: A terrorist cell in NYC http://t.co/5M873L5vSZ #ISIS http://t.co/y3ZmZdAHC3
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.5)
+39: What is #ISIS' appeal for young people? Experts say the group is especially targeting women: http://t.co/lVPqnDfCJF http://t.co/1rSCnjWe4N
+	Sentiment(polarity=0.05, subjectivity=0.7)
+40: Want to retire rich? This is the proven way to do it:  http://t.co/cutJ3GIROn via @CNNMoney http://t.co/XFwAJXfz1M
+	Sentiment(polarity=0.375, subjectivity=0.75)
+41: RT @OutFrontCNN: HAPPENING NOW: NYPD update on #ISIS-related arrests http://t.co/OeNACkDx80 @CNNgo @CNN http://t.co/Eciei54DLP
+	Sentiment(polarity=0.0, subjectivity=0.0)
+42: On @CNNgo: Police briefing on the arrest of three men in New York and Florida for allegedly attempting to join #ISIS. http://t.co/UYpqI3w42L
+	Sentiment(polarity=-0.004545454545454551, subjectivity=0.18484848484848485)
+43: RT @CNNent: . @parksandrecnbc finale a treat for fans 
+http://t.co/7hPZzl4b7t #ParksFarewell #WafflesAcrossAmerica http://t.co/52eeqIldwN
+	Sentiment(polarity=0.0, subjectivity=0.0)
+44: RT @CNNMoney: Have you ever faced a tax #audit? 8 relatively easy ways to steer clear of a repeat http://t.co/kCtW34pyTP @IRSnews http://t.…
+	Sentiment(polarity=0.26666666666666666, subjectivity=0.6083333333333334)
+45: RT @CNNSitRoom: #Breaking: FBI says NYC terror suspect offered to assassinate the President on behalf of ISIS. http://t.co/9ZiofbbWh7
+	Sentiment(polarity=0.0, subjectivity=0.0)
+46: RT @cnnbrk: Georgia postpones execution of Kelly Renee Gissendaner until Monday. http://t.co/cPAvgYQH77 http://t.co/MLC8xKgiCi
+	Sentiment(polarity=0.0, subjectivity=0.0)
+47: What ever happened to personal space? http://t.co/geFzIhMkvz http://t.co/3eIY0jpl6O
+	Sentiment(polarity=0.0, subjectivity=0.3)
+48: RT @CNNSitRoom: #Breaking: FBI has arrested 3 men in New York who were allegedly trying to join #ISIS militants http://t.co/MSg8iFsU4F
+	Sentiment(polarity=0.018181818181818174, subjectivity=0.2772727272727273)
+49: A new @BillCosby accuser has come forward with graphic details of alleged sexual assault:
+http://t.co/VPfbrL8SX3 http://t.co/xsskC2Qksq
+	Sentiment(polarity=0.1340909090909091, subjectivity=0.44696969696969696)
+50: North Carolina might be going rogue and could give the GOP big headaches in 2016: http://t.co/dVJTllEMA2 http://t.co/19gT9unuCD
+	Sentiment(polarity=0.0, subjectivity=0.1)
+51: RT @NewDay: Cool video from @NASA of a spacewalk happening right now! @ChrisCuomo, @AlisynCamerota &amp; @MichaelaCNN are amazed. http://t.co/E…
+	Sentiment(polarity=0.35357142857142854, subjectivity=0.5928571428571429)
+52: .@SouthwestAir had to ground 128 planes after discovering it had missed some inspections:  http://t.co/pKnRbQY7jv http://t.co/EUsUj64L5G
+	Sentiment(polarity=0.0, subjectivity=0.0)
+53: Another winter storm will race across parts of the South today: http://t.co/Weh26N7qRF http://t.co/M1SHiIfDtD
+	Sentiment(polarity=0.0, subjectivity=0.0)
+54: A baby in California was born completely encased in his amniotic sac: http://t.co/UpdTMuh1dp http://t.co/xYGyFerUjH
+	Sentiment(polarity=0.1, subjectivity=0.4)
+55: RT @NewDay: #ISIS abducts 150 Christians in Syria in what appears to be an ongoing operation: http://t.co/M7ZL3c7QbT http://t.co/hLgmPpvAUs
+	Sentiment(polarity=0.0, subjectivity=0.0)
+56: RT @CNNPolitics: North Carolina might be going rogue in 2016, @PeterHambyCNN reports http://t.co/lpSKNZ3A67 http://t.co/K8AZ8hZPWu
+	Sentiment(polarity=0.0, subjectivity=0.0)
+57: RT @ThisHour: States of emergency declared in Alabama, Tennessee and Georgia. #cnnsnow More details: http://t.co/VdgpEOrsF1 http://t.co/0v9…
+	Sentiment(polarity=0.5, subjectivity=0.5)
+58: A lawsuit claims Purina food harms dogs, but the company denies the allegations: http://t.co/xsbv1f9IZk
+	Sentiment(polarity=0.0, subjectivity=0.0)
+59: RT @NewDay: Almost time for the show! Don't forget to show us how you kick off your morning with #MyNewDay. See you on TV! http://t.co/kqGA…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+60: RT @CNNweather: A messy start in #Dallas this AM - The snow will move east in time for the #Atlanta commute home. #cnnsnow totals http://t.…
+	Sentiment(polarity=-0.2, subjectivity=0.4)
+61: RT @NewDay: Coming up at 6amET: Guilty verdict in #AmericanSniper murder trial, Christians abducted in #Syria, Obama vetoes #KeystoneXL &amp; h…
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+62: RT @EarlyStart: Fifteen people injured in massive home explosion: http://t.co/xZlc8Tab4U http://t.co/D0gYoyytI3
+	Sentiment(polarity=0.0, subjectivity=1.0)
+63: RT @cnnbrk: ISIS holding 150 Assyrian Christians hostage, expected to release message today threatening to kill them, official tells CNN.
+	Sentiment(polarity=-0.1, subjectivity=0.4)
+64: RT @CNNMoney: Why cheap oil is killing North Sea industry
+http://t.co/jN9pzq07NB via @IvanaKottasova http://t.co/s9UXOohoEI
+	Sentiment(polarity=0.4, subjectivity=0.7)
+65: RT @cnnbrk: Rare birth: Baby born in Los Angeles completely encased in amniotic sac. Doctor called it “a moment of awe.” http://t.co/Wd4gQ1…
+	Sentiment(polarity=0.2, subjectivity=0.65)
+66: RT @CNNTonight: "The ones in the sky are the ones that fly, you know what I mean, the pigs." #EddieRayRouth in newly released audio http://…
+	Sentiment(polarity=0.20795454545454548, subjectivity=0.6806818181818182)
+67: RT @cnnbrk: . @ statedept official arrested on suspicion of soliciting sex from a minor, police said. http://t.co/BSJAlj7BYa
+	Sentiment(polarity=-0.05, subjectivity=0.2)
+68: RT @CNNTonight: We are live for a second hour of @CNNTonight. Stay with us through midnight for latest on #AmericanSniper verdict.
+	Sentiment(polarity=0.21212121212121213, subjectivity=0.4666666666666666)
+69: A man was able to see his wife for the first time in 10 years with the help of a bionic eye implant. http://t.co/SAZrK1eipQ
+	Sentiment(polarity=0.375, subjectivity=0.47916666666666663)
+70: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.co/Km4rFpUQfR
+	Sentiment(polarity=0.0, subjectivity=0.0)
+71: An octopus jumped out of the water and grabbed a crab. Who wins this epic battle between creatures? http://t.co/kIl5UaIVcK
+	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
+72: RT @jonathanwald: #Breaking: Guilty. Life in prison no chance of parole for Eddie Routh in 'American Sniper' trial. @donlemon live @CNNToni…
+	Sentiment(polarity=-0.12121212121212122, subjectivity=0.5)
+73: RT @CNNTonight: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+74: RT @CNNTonight: #EddieRayRouth found guilty in #AmericanSniper trial. #breaking http://t.co/Sm05y0uuZp
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+75: RT @edlavaCNN: BREAKING: #EddieRayRouth found guilty in #AmericanSniperTrial. #ChrisKyle
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+76: RT @CNNTonight: Jury finds #EddieRayRouth guilty of capital murder.  #AmericanSniper #breaking http://t.co/V9Zf7PTxRM
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+77: "Bowtie is the new black." @peeweeherman has a new project coming to @Netflix: http://t.co/vnRPHrnAlF http://t.co/aPumhLT3xa
+	Sentiment(polarity=0.03535353535353535, subjectivity=0.4474747474747475)
+78: RT @CNNPhotos: Many have thought this famous photo at Iwo Jima was staged. Find out what really happened: http://t.co/9oKCkpGzbW http://t.c…
+	Sentiment(polarity=0.39999999999999997, subjectivity=0.5666666666666667)
+79: A mystery tunnel near a 2015 Pan American Games venue in Toronto has stumped authorities. http://t.co/SuOsZ8xi72 http://t.co/EOq330EzvY
+	Sentiment(polarity=0.05, subjectivity=0.2)
+80: RT @AC360: .@GaryTuchmanCNN tried to get answers from #VAHospital that released #EddieRayRouth http://t.co/EApwkaEGvk
+	Sentiment(polarity=0.0, subjectivity=0.0)
+81: RT @CNNOrigSeries: "God works in mysterious ways?" Maybe, but THAT'S not in the Bible. http://t.co/xOKBxT8dOb  #FindingJesus Sun 9p @CNN ht…
+	Sentiment(polarity=0.0, subjectivity=1.0)
+82: RT @cnnbrk: "American Sniper" killing trial goes to jury. http://t.co/dn0owrkVFZ.
+	Sentiment(polarity=0.0, subjectivity=0.0)
+83: Kids sure know how to hit the "undo" button on housework. Many parents could relate to this mom's video: http://t.co/uLWDMZLlja @CNNLiving
+	Sentiment(polarity=0.5, subjectivity=0.6944444444444444)
+84: RT @AC360: There are about 62-million people in the path of the storm cutting across the southern U.S. http://t.co/vrhdM7CUJv
+	Sentiment(polarity=-0.3, subjectivity=0.45)
+85: RT @danmericaCNN: Embracing 2016 expectations, Clinton courts Silicon Valley women - My story from from CA: http://t.co/dALV2vfFHM http://t…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+86: RT @CNNSitRoom: Are U.S. allies secretly funding #ISIS? @MKosinskiCNN investigates: http://t.co/ofpS2bIDh2 http://t.co/2grVg7bGCN
+	Sentiment(polarity=-0.4, subjectivity=0.7)
+87: RT @AC360: I saw the car blow up right outside the window. Then we started rocking and rolling - #Oxnard survivor Joel Bingham http://t.co/…
+	Sentiment(polarity=0.14285714285714285, subjectivity=0.29285714285714287)
+88: Police: Driver of truck in commuter train collision arrested on suspicion of felony hit &amp; run: http://t.co/8xZie44fbs http://t.co/HSuQMqbgme
+	Sentiment(polarity=0.0, subjectivity=0.0)
+89: RT @cnnbrk: Ice. Snow. Sleet. How the nation is coping with winter's wrath. http://t.co/MZw67UZhbg.
+	Sentiment(polarity=0.0, subjectivity=0.0)
+90: RT @InsideManCNN: This family lives a trash-free life. You can too with the "5 Rs." @MorganSpurlock #InsideMan http://t.co/t8GYW7IZvA http:…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+91: RT @CNNPolitics: Clinton embraces the 2016 speculation in Silicon valley http://t.co/7d9XSBYKhC http://t.co/rfB2icvpOR
+	Sentiment(polarity=0.0, subjectivity=0.0)
+92: RT @CNNMoney: .@KeithOlbermann suspended for a week over #PennState tweets
+http://t.co/GM9E1a51Pl via @frankpallotta http://t.co/eUpToVHYUT
+	Sentiment(polarity=0.0, subjectivity=0.0)
+93: What will #BillCosby’s legacy be? http://t.co/jAie0pIAf2
 
-だからこんな所ですんなって．．．ｗ
-必死で隠してる姿がウケるｗｗ
-こうなりたくない人は見とけｗ
+Watch #CNN &amp; @CNNgo tonight. http://t.co/UYpqI3w42L http://t.co/yGdeonyYeN
+	Sentiment(polarity=0.0, subjectivity=0.0)
+94: RT @CNNMoney: "Run, Forrest, run!" @Nike bringing back vintage kicks, including Classic Cortez worn by Gump http://t.co/9ZWoyVronK http://t…
+	Sentiment(polarity=0.08333333333333333, subjectivity=0.08333333333333333)
+95: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+96: .@OutFrontCNN tonight: Exclusive video of the “black hat bandits,” the pair wanted for 7 robberies in MD &amp; VA. @CNNgo http://t.co/UYpqI3esEb
+	Sentiment(polarity=-0.16666666666666666, subjectivity=0.43333333333333335)
+97: RT @AC360: The #AmericanSniper murder trial is headed to the jury. Did #EddieRayRouth’s lawyers prove insanity? #AC360 8p @CNN http://t.co/…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+98: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+99: RT @CNNPolitics: Congressman's lavish Instagram feed under scrutiny: http://t.co/UJQQAs6iRL http://t.co/Ev4nge5RTq
+	Sentiment(polarity=0.0, subjectivity=0.0)
+100: RT @CNNSitRoom: U.S. military is preparing to send weapons to Iraqi forces for a major battle against #ISIS: http://t.co/wJSgobFywz http://…
+	Sentiment(polarity=-0.018750000000000003, subjectivity=0.3)
+101: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+102: Space invaders -- from Biden to Travolta http://t.co/o1FzIXraGa
+	Sentiment(polarity=0.0, subjectivity=0.0)
+103: Opinion: Keep U.S. military option for Ukraine: A U.S. commitment of force in Ukraine, more than t... http://t.co/K3o5GOMIcl .. from CNN
+	Sentiment(polarity=0.2, subjectivity=0.3)
+104: #NashsNewVideo #CNN April-lee Gillen woke from coma to find she was pregnant - Illawarra Mercury  http://t.co/YensXpmOfp
+	Sentiment(polarity=0.11666666666666665, subjectivity=0.25)
+105: Breaking News from CNN: Dangers lurk at railroad-highway crossings http://t.co/Os9Mb91d73
+	Sentiment(polarity=0.0, subjectivity=0.0)
+106: Rebels continue to take #Russian #Ukraine from #Kiev Control http://t.co/bk8aPi1quc #msnbc #foxnews #nyt #wsj #cnn #npr #nbc #eu #nato #wapo
+	Sentiment(polarity=0.0, subjectivity=0.0)
+107: more from our shameful Veterans administration!
+http://t.co/yBsHUft6EA
+	Sentiment(polarity=0.625, subjectivity=0.5)
+108: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/DEBnK3kRGZ via @BizPacReview 
 
-画像20枚⇒http://t.co/hx91OlfMsr http://t.co…
+#tcot #YCOT #DHS
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+109: RT @USSOCOM: Special forces units from a number of countries are in Chad to train their African counterparts to fight Boko Haram http://t.c…
+	Sentiment(polarity=0.17857142857142858, subjectivity=0.2857142857142857)
+110: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+	Sentiment(polarity=0.0, subjectivity=0.1)
+111: ICE CUBE blames Korean's discrimination http://t.co/PdaNvALzA2 #BBC #CNN #Reuters #AP #ABC #NBC #CBS #NYT #FIFA #Deutschland #France #Italy
 	Sentiment(polarity=0.0, subjectivity=0.0)
-902: Yemen ex-leader amassed billions http://t.co/4ugG7gxWDN
+112: RT @cnnireport: Don't stop this pup from playing in the snow. http://t.co/0aXnV7Kmrm #CNNsnow http://t.co/Eqq8zb9v0R
 	Sentiment(polarity=0.0, subjectivity=0.0)
-903: RT @Foxewise: 🌏❤🐬1 hour @CNN @BBC @CoveGuardians SPECIAL EVENT! Guided tour #tweet4taiji Meet Us Livestream http://t.co/5td8nTH8Gl http://t…
-	Sentiment(polarity=0.44642857142857145, subjectivity=0.5714285714285714)
-904: Not in the UK anymore but I feel like this is rather late coming... http://t.co/K76QUKCizi
-	Sentiment(polarity=-0.3, subjectivity=0.6)
-905: Anger with sexist football chant http://t.co/6ZGsnzw2N0
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-906: The man who returned his grandfather’s looted art http://t.co/Paefb2IKm4
+113: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/UAzAefN7Jz
 	Sentiment(polarity=0.0, subjectivity=0.0)
-907: Sir Cliff inquiry widens, and a Helmand hero http://t.co/McGVZh3L5b
+114: Video warning from Al-Shabaab... http://t.co/DXjYWqsIZZ #politics
 	Sentiment(polarity=0.0, subjectivity=0.0)
-908: RT @BBCWorld: Ex-Guatemalan president freed in US http://t.co/Am7NnRGti3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-909: N Korea company 'renaming ships' http://t.co/2UUTV3AEAN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-910: BBC didz articles on mi: http://t.co/uajVwsrKRz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-911: RT @bbcmundo: Así terminó la lucha de Camila Abuabara: contra la leucemia y el sistema de salud colombiano http://t.co/ppcmg0meh3 http://t.…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-912: #News N Korea company 'renaming ships' http://t.co/u5DwQrAK0g #World #usa
-	Sentiment(polarity=0.0, subjectivity=0.0)
-913: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
-	Sentiment(polarity=0.0, subjectivity=0.0)
-914: Sir Cliff inquiry widens, and a Helmand hero http://t.co/vPnwUfqQY9
-	Sentiment(polarity=0.0, subjectivity=0.0)
-915: Cameron: Im fun and optimistic http://t.co/rnKoKE2YnK
-	Sentiment(polarity=0.3, subjectivity=0.2)
-916: Stars check back into Marigold Hotel http://t.co/iqConKOqx5
-	Sentiment(polarity=0.0, subjectivity=0.0)
-917: Trident question comes to the surface http://t.co/d7eBS1x2hw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-918: The return of a once-glorious train station http://t.co/PXRVtz0Hla
-	Sentiment(polarity=0.0, subjectivity=0.0)
-919: @bangtan927 
+115: RT @KhaledBeydoun: The #ChapelHillShooting took place 9+ hours ago.  
 
-   私も   、、、
+Still no coverage from @CNN, @FoxNews, @MSNBC and major outlets. htt…
+	Sentiment(polarity=0.0625, subjectivity=0.5)
+116: Space invaders -- from Biden to Travolta http://t.co/bGMWhdSxcY #SEBEE
 	Sentiment(polarity=0.0, subjectivity=0.0)
-920: The return of a once-glorious train station http://t.co/CeKagM2rjt
+117: Upgrading from Windows 7 or 8? You'll love Windows 10 http://t.co/GNCekZYvza
+	Sentiment(polarity=0.5, subjectivity=0.6)
+118: @CNN_News_Daily absolutly first from d bottom #indonesia
+	Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+119: RT @mar__bru: "ISIS got started through funding from our friends and allies… to fight to the death against Hezbollah" gen. Wesley Clark, CN…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-921: #iphone #I #me Ex-Guatemalan president freed in US http://t.co/NGPVbuO8tr #app http://t.co/GIwiZCD47m
+120: RT @CNNMoney: .@bevel founder @tristanwalker's best advice came from @tylerperry http://t.co/1FrfPubDir http://t.co/ipmjguI912
+	Sentiment(polarity=1.0, subjectivity=0.3)
+121: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
+	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
+122: @HouseJudiciary @GOPsoundboard 
+
+Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint
+http://t.co/FCBUfcKSSR
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+123: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-922: What is Campaignspotting? http://t.co/iioteMAxxj
+124: RT @Russ1913: CNN is on the scene as designers showcase their fall 2015 collections at New York Fashion Week from February 12-19.
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+125: Decline in smoking rates could increase deaths from lung cancer http://t.co/OmvbPy5DSO
 	Sentiment(polarity=0.0, subjectivity=0.0)
-923: The man who invented the dinosaur http://t.co/etwE76sNPS
+126: Blog update Decline in smoking rates could increase deaths from lung cancer http://t.co/Kqnrad4Q4o
 	Sentiment(polarity=0.0, subjectivity=0.0)
-924: The man who returned his grandfather’s looted art http://t.co/hEbzi5wBHQ
+127: Decline in smoking rates could increase deaths from lung cancer http://t.co/P4NyWmdl07
 	Sentiment(polarity=0.0, subjectivity=0.0)
-925: Stars check back into Marigold Hotel http://t.co/mj2ByY4mEW
+128: Space invaders -- from Biden to Travolta http://t.co/4BIuKxayGJ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-926: The return of a once-glorious train station http://t.co/0ZIHFKPyT4
+129: @aaronschock I live in #Illinois and just found out you're under investigation. You should resign from #Congress. #UniteBlue #CNN #GOP
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.5)
+130: #Health Decline in smoking rates could increase deaths from lung cancer http://t.co/aDEA8jknt6
 	Sentiment(polarity=0.0, subjectivity=0.0)
-927: #ios #I #me TTIP trade deal text leaked to BBC http://t.co/OKpqCORmi7 #app http://t.co/GIwiZCD47m
+131: Well lookie there. http://t.co/qI4td4k5mQ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-928: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/WFUssHGuRO
+132: Stock markets all around the world broke records: From Germany to Britain to America, stocks… http://t.co/q53qFUyL7V
 	Sentiment(polarity=0.0, subjectivity=0.0)
-929: Message of Leader of the Islamic Republic of Iran.
-#letter4u
-#Letter4All
-@Khamenei_ir
-#BBC
-#BBCNews
-#CNN http://t.co/gu3evj2inQ
+133: RT @Mojahedineng: Money earned from drug-trafficking influences all arenas in #Iran politics  #Reuters #AP #CNN http://t.co/Kf7pdsqsKy http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-930: Sir Cliff inquiry widens, and a Helmand hero http://t.co/2c9QOrTFUZ
+134: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-931: Yemen ex-leader amassed billions http://t.co/GJzssAKjde
+135: RT @Mojahedineng: Money earned from drug-trafficking influences all arenas in #Iran politics  #Reuters #AP #CNN http://t.co/Kf7pdsqsKy http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-932: #ios #I #me Ex-Guatemalan president freed in US http://t.co/LJOclYuOs1 #app http://t.co/GIwiZCD47m
+136: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-933: Dispute over outdoor smoking ban call http://t.co/v1lCLkZAD4
+137: RT @Tea_Alliance: @SenGaryPeters  @SenateDems 
+
+Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint 
+http://t.co/F…
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+138: Space invaders -- from Biden to Travolta http://t.co/hPRW5b1mjj
 	Sentiment(polarity=0.0, subjectivity=0.0)
-934: TTIP trade deal text leaked to BBC http://t.co/65bb4BgkXE
+139: Space invaders -- from Biden to Travolta http://t.co/lmYIZc2gur
 	Sentiment(polarity=0.0, subjectivity=0.0)
-935: RT @BBCUrdu: پاکستان کی امداد اور شکیل آفریدی کی رہائی، کانگریس میں بحث http://t.co/HIcRJf1lBK
+140: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
 	Sentiment(polarity=0.0, subjectivity=0.0)
-936: MPs call for reform of GM crops rules: Europe's approval system for GM crops is "fundamentally flawed" and sho... http://t.co/xOBsh91Kfr
-	Sentiment(polarity=-0.5, subjectivity=0.5)
-937: Sir Cliff inquiry widens, and a Helmand hero http://t.co/ou6Hho5Mim
+141: Pyongyang bans foreign runners from marathon  http://t.co/fNothhmyw2
+	Sentiment(polarity=-0.125, subjectivity=0.125)
+142: #Google   Pyongyang bans foreign runners from marathon http://t.co/lAuO0nh1Po
+	Sentiment(polarity=-0.125, subjectivity=0.125)
+143: #Google   From Scottish teen to ISIS bride and recruiter http://t.co/zbGgaJa5UX
 	Sentiment(polarity=0.0, subjectivity=0.0)
-938: The man who returned his grandfather’s looted art http://t.co/7K9qlQDimE
+144: RT @CNNMoney: Thank Janet Yellen: New records for the Dow and S&amp;P 500, and the Nasdaq is less than 1% away from 5,000.  http://t.co/A9OlUXC…
+	Sentiment(polarity=-0.015151515151515152, subjectivity=0.2606060606060606)
+145: @JenniferGrayCNN From Miami to CNN and doing a great job Jen. Congrats!
+	Sentiment(polarity=1.0, subjectivity=0.75)
+146: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
+	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
+147: #Top #Stories Space invaders -- from Biden to Travolta http://t.co/MzGT2In5Q1
+	Sentiment(polarity=0.5, subjectivity=0.5)
+148: 『猫が猛犬に体当たり、飼い主の子ども救う CNN -CAT SAVES CHILD FROM DOG-』 http://t.co/vlnH25F2o6
+
+-YouTube (猫) -動画まとめ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-939: Victoria Cross for Afghan raid hero http://t.co/zaOtKT8s2v
+149: @MikeStaresinic @xahidcreator @benedictrogers @Police_Mv @BBCWorld @CNN @Reuters @sunbrk its not real pics. Just taken from internet.
+	Sentiment(polarity=-0.1, subjectivity=0.30000000000000004)
+150: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+151: Ban China from UN http://t.co/RyF9jh9teO #Afganistan #Pakistan #PLO #Palestine #Libia #Images #Picture #BBC #CNN #Reuters #AP #CBS #NYT #WSJ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-940: MPs call for reform of GM crops rules: Europe's approval system for GM crops is "fundamentally flawed" and sho... http://t.co/6iNhdAfy8q
-	Sentiment(polarity=-0.5, subjectivity=0.5)
-941: BBC MPs call for reform of GM crops rules http://t.co/xbndJ74lqN
+152: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+	Sentiment(polarity=0.0, subjectivity=0.1)
+153: RT @usairforce: MT @CNN: 'Ghost Rider': B-52 resurrected from desert Boneyard. http://t.co/I70tlpugYa #AirForce http://t.co/rHnZLNEpET
 	Sentiment(polarity=0.0, subjectivity=0.0)
-942: RT @BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/b4L6NXd0gr http://t.co/K6Vo3HCAtx
+154: Space invaders -- from Biden to Travolta http://t.co/3VfDY5qq4d
 	Sentiment(polarity=0.0, subjectivity=0.0)
-943: MPs call for reform of GM crops rules: Europe's approval system for GM crops is "fundamentally flawed" and sho... http://t.co/CIsqAYd0SN
-	Sentiment(polarity=-0.5, subjectivity=0.5)
-944: Britney Stevens And Lana Croft Mouthjob The BBC. http://t.co/wANMmzrhA1
+155: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+156: #JamelHunter receives a #SpiderMan present from #StanLee #autism http://t.co/7WBJ3dZ0RL #CNN read more #news http://t.co/JNa46XwNn7
+	Sentiment(polarity=0.25, subjectivity=0.25)
+157: India couple, estranged from family, leaving all to pet http://t.co/y1K0N8auPb
 	Sentiment(polarity=0.0, subjectivity=0.0)
-945: Kevin Spacey to get special Olivier http://t.co/pdtUuUVYkC
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-946: 02:50 Picasso: Love, Sex and Art: The story of the women who inspired Picasso, giving a new insight into him and his… http://t.co/E9XKejfl0P
-	Sentiment(polarity=0.3181818181818182, subjectivity=0.5272727272727272)
-947: MPs call for reform of GM crops rules http://t.co/R2m9tNZxSw
+158: Decline in smoking rates could increase deaths from lung cancer http://t.co/C02GKvSkkE
 	Sentiment(polarity=0.0, subjectivity=0.0)
-948: "@BBCNewsAsia: North Korea renaming and reflagging ships to evade sanctions, UN report finds http://t.co/RUV1TFO8c5 http://t.co/CUMmfgxKF4"
+159: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+160: Space invaders -- from Biden to Travolta http://t.co/du2tqvCJpU
 	Sentiment(polarity=0.0, subjectivity=0.0)
-949: Yemen ex-leader amassed billions http://t.co/1NxSsdaj4R
+161: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/XzkBAmDeET
 	Sentiment(polarity=0.0, subjectivity=0.0)
-950: RT @bbcchinese: 精彩节目重温：BBC中文网35集系列节目《百年沧桑话中国》首播于20世纪末，是为迎接千禧年而做。今天中国再一次走到十字路口，面临巨大挑战。这个大型节目也许给人们一些启发和感想。
-http://t.co/i8YkHZAlG9 http://t.co…
+162: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+163: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+164: RT @cnnbrk: U.S. aid worker kidnapped from her workplace in Nigeria; kidnappers demanding ransom, police say. http://t.co/ZSGTyBdwGB
 	Sentiment(polarity=0.0, subjectivity=0.0)
-951: RT @bbcmundo: La caída de @Madonna, momento de la noche en los #BRITAwards http://t.co/XdLRuH8cZh http://t.co/XH6gYt8MSn
+165: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/5KmMz8W1Dw
 	Sentiment(polarity=0.0, subjectivity=0.0)
-952: BBC Scotland: TTIP trade deal text leaked to BBC http://t.co/ew0SNSwKej
+166: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/uInPWL2P9R via @BizPacReview
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+167: RT @nbenitez1977: #TNTweeters 
+
+&gt; @HouseGOP 
+#wethepeople will NOT forget in 2016!
+Shameful Anti-#immigrant ATTACKS from @GOP ! http://t.co…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-953: RT @_SilvaYasmim: @Dos_passinhos tudo bem bbc 😍
+168: http://t.co/KStLKTqRce Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/E0EffQfCrz
 	Sentiment(polarity=0.0, subjectivity=0.0)
-954: RT @lovely1Dupdates: Ed Sheeran talking on BBC Radio 1 this morning about how he won't win the Best Video Brit bc 1D is nominated. 😂😂 -A ht…
-	Sentiment(polarity=0.9, subjectivity=0.35)
-955: Anger with sexist football chant http://t.co/E8hUU1nGOy
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-956: The man who invented the dinosaur http://t.co/z421soWtJl
+169: Space invaders -- from Biden to Travolta http://t.co/puSJVGL2S8
 	Sentiment(polarity=0.0, subjectivity=0.0)
-957: Victoria Cross for Afghan raid hero http://t.co/zCpr9zQPvv
+170: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+171: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
 	Sentiment(polarity=0.0, subjectivity=0.0)
-958: FC2動画:BBC版・野望の階段【字幕】Ⅲ-01： http://t.co/iliuJEz7hk #ギリシャ #greece #相互フォロー #sougofollow
+172: 1 in 7 suffer from sleep 'drunkenness' http://t.co/UzF3xHOPVf
 	Sentiment(polarity=0.0, subjectivity=0.0)
-959: The decline of Nato defence spending http://t.co/RU0YlumX1S
+173: RT @cnnireport: Don't stop this pup from playing in the snow. http://t.co/0aXnV7Kmrm #CNNsnow http://t.co/Eqq8zb9v0R
 	Sentiment(polarity=0.0, subjectivity=0.0)
-960: Victoria Cross for Afghan raid hero http://t.co/hqk0eZ9t75
+174: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
 	Sentiment(polarity=0.0, subjectivity=0.0)
-961: What is Campaignspotting? http://t.co/WTSBO4WLML
+175: #Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/Q9Kk6aIXht
 	Sentiment(polarity=0.0, subjectivity=0.0)
-962: Anger with sexist football chant http://t.co/umDR8G1iuC
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-963: Anger with sexist football chant http://t.co/fdESoKu5CY
-	Sentiment(polarity=-0.7, subjectivity=0.2)
-964: @Guaiqueries_BBC http://t.co/bGeXaisI8Z
+176: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
 	Sentiment(polarity=0.0, subjectivity=0.0)
-965: Sir Cliff inquiry widens, and a Helmand hero http://t.co/i5o2s3oS6y
+177: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/2WnQBgcxXW  #tcot http://t.co/ldkNQ0grnl
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+178: Adrian Grenier finds entourage for whale http://t.co/uiG4RwYqx5 via @CNNMoney Adrian Grenier from entourage explain why he love whale
+	Sentiment(polarity=0.5, subjectivity=0.6)
+179: RT @erikagrey: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/ef2lj0P5fn
 	Sentiment(polarity=0.0, subjectivity=0.0)
-966: Cameron: Im fun and optimistic http://t.co/DBRV90cfLz
-	Sentiment(polarity=0.3, subjectivity=0.2)
-967: Australia's Qantas returns to profit http://t.co/3ShhhVkjDR nvt
+180: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
+	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
+181: RT @AmandaJ_TX: "@cnnireport: Don't stop this pup from playing in the snow. http://t.co/Qiflap1X0a #CNNsnow http://t.co/NjShv1S7Y7" #dogsli…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-968: RT @bbcmundo: Lo que se sabe sobre la muerte de 6 estudiantes en Venezuela. Por @pardodaniel http://t.co/plO7QARw2D http://t.co/o0iAPqPjD5
+182: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/G22i57QEaK http://t.co/2do8CgbWlM
 	Sentiment(polarity=0.0, subjectivity=0.0)
-969: RT @HolyroodNews: TTIP trade deal text leaked to BBC http://t.co/ecbX76Pfk8 @BBCScotlandNews #scotland
+183: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/6MSjttALYb http://t.co/zNv74u8swV
 	Sentiment(polarity=0.0, subjectivity=0.0)
-970: Love this kid tom wilson. He's going to have a very long career in this league.
-	Sentiment(polarity=0.2175, subjectivity=0.56)
-971: Cameron: Im fun and optimistic http://t.co/6UXFSAxdaI
-	Sentiment(polarity=0.3, subjectivity=0.2)
-972: Accessibility Originates With UX: A BBC iPlayer Case Study http://t.co/ZEoQcWoioz
+184: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/UVkBUAfYqw http://t.co/Z8WaTGPpv2
 	Sentiment(polarity=0.0, subjectivity=0.0)
-973: TTIP trade deal text leaked to BBC http://t.co/LJejKZUj67 @BBCPolitics
+185: @CNN  Tweet reply sent from Vantage 1424816711
 	Sentiment(polarity=0.0, subjectivity=0.0)
-974: RT @noteharu3: 一般的に大型の猛禽をワシ、小型のものをタカという。
- http://t.co/DJUHtVuGCY  #bbc2014
+186: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/ziJuFUdDeP http://t.co/uh06n0bAZT
 	Sentiment(polarity=0.0, subjectivity=0.0)
-975: No future for TV licence, MPs say http://t.co/vNM4aLLgUC
-	Sentiment(polarity=0.0, subjectivity=0.125)
-976: What is Campaignspotting? http://t.co/CC3FnAULry
+187: RT @chicksonright: Real journalism from CNN? Did hell freeze over?http://t.co/240Tg1yOP4
+	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
+188: "@cnnireport: Don't stop this pup from playing in the snow. http://t.co/Qiflap1X0a #CNNsnow http://t.co/NjShv1S7Y7" #dogslife 🐾🐶🐕
 	Sentiment(polarity=0.0, subjectivity=0.0)
-977: Cyprus allows Russian Navy to use its ports. http://t.co/19zi84LqG0 #worldnews #news #breakingnews
+189: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
+	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
+190: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
+	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
+191: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/zdwcg1yiUP
 	Sentiment(polarity=0.0, subjectivity=0.0)
-978: The girl who gets gifts from birds http://t.co/v81d76WEyl
+192: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/p88qGNINBv
 	Sentiment(polarity=0.0, subjectivity=0.0)
-979: Kidderminster Harriers - BBC News #Gateshead http://t.co/ULZ6sNawk2
+193: RT @biolau: Are we misquoting the Bible? @CNN talks with prof. @CraigHazen about quoting things from Scripture that aren't there: http://t.…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-980: RT @_NatureScience: Dutch town terrorised by rogue owl #nature_science http://t.co/gzKaqIO6hx http://t.co/nvd9JSR0ul
+194: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/HejLRwrZJs
 	Sentiment(polarity=0.0, subjectivity=0.0)
-981: Dispute over outdoor smoking ban call http://t.co/oDawNzNM26
+195: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/HqFy71PxAv
 	Sentiment(polarity=0.0, subjectivity=0.0)
-982: These are pictures of whites gals that love to suck and fuck #bbc until they both have a out of this world orgasms 😜😋 http://t.co/dbQKgj6PEi
-	Sentiment(polarity=0.04999999999999999, subjectivity=0.6)
-983: Yemen ex-leader amassed billions http://t.co/0xcZIQBBii
+196: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/824lovsAW3
 	Sentiment(polarity=0.0, subjectivity=0.0)
-984: Cheap oil: Asias winners and losers http://t.co/CmVtWUebpH
-	Sentiment(polarity=0.1, subjectivity=0.44999999999999996)
-985: The return of a once-glorious train station http://t.co/LCana46jud
+197: Google bans porn from Blogger http://t.co/Pf9LjyCdcB via @CNNMoney
 	Sentiment(polarity=0.0, subjectivity=0.0)
-986: Kevin Spacey to get special Olivier http://t.co/ykPxmCpau1
-	Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)
-987: Yemen ex-leader amassed billions http://t.co/pDkw5pPKjV
+198: #FF #IFB #RT #follow Space invaders -- from Biden to Travolta:  http://t.co/6uKZ22Yugw #followback #ifb
 	Sentiment(polarity=0.0, subjectivity=0.0)
-988: The return of a once-glorious train station http://t.co/vRPZ20XPSm
+199: Space invaders -- from Biden to Travolta:  http://t.co/WeboKXugZi
 	Sentiment(polarity=0.0, subjectivity=0.0)
-989: RT @duranduran: Listen for @SimonJCLeBON on the BBC’s @MarkForrestShow today at about 7:45 GMT! http://t.co/8PPZ672lKY http://t.co/AN3mLbe2…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-990: good bye lose rs http://t.co/WOaUbqFs71
-	Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
-991: TTIP trade deal text leaked to BBC http://t.co/wnOsHBgzsl
-	Sentiment(polarity=0.0, subjectivity=0.0)
-992: Trident question comes to the surface http://t.co/iFQAKtiUuQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-993: RT @TheJayCalledLee: Row between US and Netanyahu worsens - Note how he and Erdogan care little about Al-Qaeda and ISIS  http://t.co/X7uBen…
-	Sentiment(polarity=-0.1875, subjectivity=0.5)
-994: Call to ban energy drinks for kids http://t.co/7ZhsakrIkp
-	Sentiment(polarity=0.0, subjectivity=0.0)
-995: TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded from a new trade ... http://t.co/XMKAa3Mcny
-	Sentiment(polarity=0.11212121212121212, subjectivity=0.18484848484848485)
-996: Stars check back into Marigold Hotel http://t.co/RN0GB8krNn
-	Sentiment(polarity=0.0, subjectivity=0.0)
-997: TTIP trade deal text leaked to BBC http://t.co/6VV19KbF72
-	Sentiment(polarity=0.0, subjectivity=0.0)
-998: TTIP trade deal text leaked to BBC: A leaked draft of what the European Union wants excluded from a new trade ... http://t.co/MVsamei12c
-	Sentiment(polarity=0.11212121212121212, subjectivity=0.18484848484848485)
-999: Boost UK productivity, says OECD http://t.co/w0sZS2Xfjd [Sale http://t.co/NEiwkXgvpB ] #news
-	Sentiment(polarity=0.0, subjectivity=0.0)
-1000: The girl who gets gifts from birds http://t.co/rSChX3K02F
+200: Space invaders -- from Biden to Travolta:  http://t.co/o2kD9SFtra
 	Sentiment(polarity=0.0, subjectivity=0.0)

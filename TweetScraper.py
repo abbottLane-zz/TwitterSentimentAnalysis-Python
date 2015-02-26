@@ -13,9 +13,11 @@ class TweetScraper:
     @staticmethod
     def scrape_twitter(t_api, q):
 
-        query = q
+        query = 'from:' + q
 
-        count = 100
+        print "Query: " + query
+
+        count = 100  # * 10 = the number of tweets to collect
 
         search_results = t_api.search.tweets(q=query, count=count, user='WAbbott')
         statuses = search_results['statuses']
