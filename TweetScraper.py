@@ -17,7 +17,7 @@ class TweetScraper:
 
         count = 100
 
-        search_results = t_api.search.tweets(q=query, count=count)
+        search_results = t_api.search.tweets(q=query, count=count, user='WAbbott')
         statuses = search_results['statuses']
 
         # iterate through 5 more batches of results by following the cursor
@@ -41,7 +41,7 @@ class TweetScraper:
             # show one sample search result by slicing the list...
             # print json.dumps(statuses[0], indent=1)
 
-        print "Total Number of Tweets Collected: " + str(count)
+        print "Total Number of Tweets Collected: " + str(len(statuses))
         return statuses
 
 
