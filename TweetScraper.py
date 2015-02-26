@@ -17,15 +17,14 @@ class TweetScraper:
 
         print "Query: " + query
 
-        count = 100  # * 10 = the number of tweets to collect
+        count = 300  # * 10 = the number of tweets to collect
 
         search_results = t_api.search.tweets(q=query, count=count, user='WAbbott')
         statuses = search_results['statuses']
 
         # iterate through 5 more batches of results by following the cursor
         count = 0
-
-        for _ in range(9):
+        for _ in range(5):
             print "Tweets collected so far: ", len(statuses)
             try:
                 next_results = search_results['search_metadata']['next_results']

@@ -1,426 +1,411 @@
-1: RT @CNNOrigSeries: Volcano at dawn, sleep under the stars. Just another day for @BillWeirCNN on #TheWonderList http://t.co/nxT8yLTSsb http:…
+1: Yoga guru Bikram Choudhury accused of sex assault, rape. http://t.co/mCI0VBz9JT http://t.co/aoNgViU3ks
 	Sentiment(polarity=0.0, subjectivity=0.0)
-2: RT @OutFrontCNN: Mystery drone sightings spark security concerns @willripleyCNN
+2: RT @AC360: "He admitted he knew it was wrong” #Routh juror speaks to @andersoncooper about conviction http://t.co/feaqh7iUhu http://t.co/K6…
+	Sentiment(polarity=-0.5, subjectivity=0.9)
+3: Border Patrol uses drones to help find illegal immigrants. The cost? $28,000 for one arrest. http://t.co/OR35dGLMav http://t.co/jgPAovrFXI
+	Sentiment(polarity=-0.275, subjectivity=0.25)
+4: RT @cnni: The death of a 14-year-old shot by police has sparked new turmoil in Venezuela: http://t.co/jzF1Mb4Zdk http://t.co/qFz4xKmoKd
+	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+5: RT @rosemaryCNN: 3 #Aljazeera journalists arrested 4 flying drones over #Paris. But prosecutor says they're not connected 2 recent drone si…
+	Sentiment(polarity=0.25, subjectivity=0.625)
+6: .@Madonna says she's fine after she took a tumble while performing during the @BRITAwards. http://t.co/jCeuoGyxBy http://t.co/9pwJSMvVJ1
+	Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+7: RT @InsideManCNN: When you throw trash away...where exactly is "away?" @MorganSpurlock finds out. #InsideMan http://t.co/Ab3GPodmgY
+https:/…
+	Sentiment(polarity=0.25, subjectivity=0.25)
+8: RT @cnni: #WorldCup winner Fabio #Cannavaro faces a jail sentence for swimming in his own pool: http://t.co/ImNVMX5ZEn http://t.co/ULEMh5oC…
+	Sentiment(polarity=0.25, subjectivity=0.5)
+9: Singer @ladygaga will make her series acting debut in @AHSFX: http://t.co/SPWc91dFWy #AmericanHorrorStory @CNNent http://t.co/st724al3B8
+	Sentiment(polarity=0.0, subjectivity=0.0)
+10: RT @CNNTonight: "This isn't really about religion...it's also about other driving factors." @ASE on why young men seek radicalization http:…
+	Sentiment(polarity=0.05833333333333334, subjectivity=0.325)
+11: RT @rosemaryCNN: The streets of eastern #Ukraine remain relatively calm Wednesday. Is it a sign the ceasefire could hold? More @cnn
+	Sentiment(polarity=0.4, subjectivity=0.625)
+12: RT @CNNOrigSeries: Volcano at dawn, sleep under the stars. Just another day for @BillWeirCNN on #TheWonderList http://t.co/nxT8yLTSsb http:…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+13: RT @OutFrontCNN: Mystery drone sightings spark security concerns @willripleyCNN
 has the report: http://t.co/GZM44q08qc @CNN 
 http://t.co/yZ…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-3: Anti-government protests erupted over the death of a 14-year-old shot by police in #Venezuela. http://t.co/5mW2JLwdgT http://t.co/fE0QFh2rhd
+14: Anti-government protests erupted over the death of a 14-year-old shot by police in #Venezuela. http://t.co/5mW2JLwdgT http://t.co/fE0QFh2rhd
 	Sentiment(polarity=0.0, subjectivity=0.0)
-4: A fisherman caught a 280-pound catfish? He offers proof it's not just another fish story: http://t.co/AtQbEYgwFi http://t.co/BaaANR2pjU
+15: A fisherman caught a 280-pound catfish? He offers proof it's not just another fish story: http://t.co/AtQbEYgwFi http://t.co/BaaANR2pjU
 	Sentiment(polarity=0.1, subjectivity=0.0)
-5: RT @cnnbrk: Border Patrol drone program cost millions -- but results in less than 2% of total Border Patrol arrests. http://t.co/zp6MCCZLM9
+16: RT @cnnbrk: Border Patrol drone program cost millions -- but results in less than 2% of total Border Patrol arrests. http://t.co/zp6MCCZLM9
 	Sentiment(polarity=-0.08333333333333333, subjectivity=0.4083333333333333)
-6: RT @CNNImpact: You could be the light someone needs to get by. Don't just act. #IMPACT...http://t.co/8xUgFHrGx5 http://t.co/go8s3yMdw1
+17: RT @CNNImpact: You could be the light someone needs to get by. Don't just act. #IMPACT...http://t.co/8xUgFHrGx5 http://t.co/go8s3yMdw1
 	Sentiment(polarity=0.4, subjectivity=0.7)
-7: RT @CNNMoney: What would you buy if you turned $1M into $120M? That's what this guy did (too bad it's fake) http://t.co/XKVr8aWiYX http://t…
+18: RT @CNNMoney: What would you buy if you turned $1M into $120M? That's what this guy did (too bad it's fake) http://t.co/XKVr8aWiYX http://t…
 	Sentiment(polarity=-0.5999999999999999, subjectivity=0.8333333333333333)
-8: RT @cnnasiapr: Vintage @NASA photos up for auction http://t.co/Kx5PW21oUJ #space http://t.co/f1eqn7z3IZ
+19: RT @cnnasiapr: Vintage @NASA photos up for auction http://t.co/Kx5PW21oUJ #space http://t.co/f1eqn7z3IZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-9: RT @AC360: It’s amazing to think in a few months people will be water skiing here - @GaryTuchmanCNN on Great Lakes ice cutter http://t.co/I…
+20: RT @AC360: It’s amazing to think in a few months people will be water skiing here - @GaryTuchmanCNN on Great Lakes ice cutter http://t.co/I…
 	Sentiment(polarity=0.4000000000000001, subjectivity=0.5833333333333334)
-10: The @FBI foiled an alleged plot by two men to join #ISIS; a third allegedly helped finance the journey. http://t.co/xIMgkJ1maz
+21: The @FBI foiled an alleged plot by two men to join #ISIS; a third allegedly helped finance the journey. http://t.co/xIMgkJ1maz
 	Sentiment(polarity=-0.06666666666666667, subjectivity=0.06666666666666667)
-11: RT @AC360: We did not take our decision lightly. There were a lot of tears in that deliberation room - #Routh jurors on #AC360 http://t.co/…
+22: RT @AC360: We did not take our decision lightly. There were a lot of tears in that deliberation room - #Routh jurors on #AC360 http://t.co/…
 	Sentiment(polarity=0.4, subjectivity=0.7)
-12: RT @TheLeadCNN: TheRace: Is @ScottWalker the new leader of the GOP pack? Your 2016 news in 80 seconds @jaketapper reports #TheLead http://t…
+23: RT @TheLeadCNN: TheRace: Is @ScottWalker the new leader of the GOP pack? Your 2016 news in 80 seconds @jaketapper reports #TheLead http://t…
 	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-13: RT @CNNent: . @ladygaga to star in FX's newest 'American Horror Story' http://t.co/E7pLDEbqVa http://t.co/gRoJFCDfeM
+24: RT @CNNent: . @ladygaga to star in FX's newest 'American Horror Story' http://t.co/E7pLDEbqVa http://t.co/gRoJFCDfeM
 	Sentiment(polarity=0.0, subjectivity=0.0)
-14: RT @OutFrontCNN: Recreational marijuana becomes legal in Washington D.C. at midnight. @CNN's @miguelmarquez has what you need to know: http…
+25: RT @OutFrontCNN: Recreational marijuana becomes legal in Washington D.C. at midnight. @CNN's @miguelmarquez has what you need to know: http…
 	Sentiment(polarity=0.2, subjectivity=0.2)
-15: Washington D.C. is set to legalize pot at 12:01 a.m. tomorrow. Some aren't happy http://t.co/JvGNvcu7Vb @CNNPolitics http://t.co/oe3SM4kIed
+26: Washington D.C. is set to legalize pot at 12:01 a.m. tomorrow. Some aren't happy http://t.co/JvGNvcu7Vb @CNNPolitics http://t.co/oe3SM4kIed
 	Sentiment(polarity=0.8, subjectivity=1.0)
-16: RT @OutFrontCNN: In a few hours marijuana will be legal in Washington D.C. So why is Congress saying "don’t hold your breath?' @miguelmarqu…
+27: RT @OutFrontCNN: In a few hours marijuana will be legal in Washington D.C. So why is Congress saying "don’t hold your breath?' @miguelmarqu…
 	Sentiment(polarity=0.0, subjectivity=0.15000000000000002)
-17: RT @OutFrontCNN: #EddieRayRouth guilty of killing #AmericanSniper, but the question remains: Why did he do it? @edlavaCNN has more. http://…
+28: RT @OutFrontCNN: #EddieRayRouth guilty of killing #AmericanSniper, but the question remains: Why did he do it? @edlavaCNN has more. http://…
 	Sentiment(polarity=0.0, subjectivity=0.75)
-18: RT @CNNVideo: While performing at the #BRITAwards in London, @Madonna had a cape malfunction and took a tumble off the stage: http://t.co/z…
+29: RT @CNNVideo: While performing at the #BRITAwards in London, @Madonna had a cape malfunction and took a tumble off the stage: http://t.co/z…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-19: RT @EliseMiller: On a Coast Guard icebreaker on Lake Huron with @GaryTuchmanCNN. Tune in to @AC360 tonight at 8p for our report! #CNN http:…
+30: RT @EliseMiller: On a Coast Guard icebreaker on Lake Huron with @GaryTuchmanCNN. Tune in to @AC360 tonight at 8p for our report! #CNN http:…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-20: Georgia postponed its first execution of a woman in 70 years due to a threat of bad weather. http://t.co/kZDNYPLbTx http://t.co/RVjFERDFKA
+31: Georgia postponed its first execution of a woman in 70 years due to a threat of bad weather. http://t.co/kZDNYPLbTx http://t.co/RVjFERDFKA
 	Sentiment(polarity=-0.19166666666666662, subjectivity=0.4583333333333333)
-21: RT @CNNPolitics: Justices let fisherman off hook: http://t.co/UgYIoGHbAF
+32: RT @CNNPolitics: Justices let fisherman off hook: http://t.co/UgYIoGHbAF
 	Sentiment(polarity=0.0, subjectivity=0.0)
-22: RT @OutFrontCNN: White House condemns abduction of 150 Christians by #ISIS. @CNN's @jimsciutto has more: http://t.co/OeNACkDx80 http://t.co…
+33: RT @OutFrontCNN: White House condemns abduction of 150 Christians by #ISIS. @CNN's @jimsciutto has more: http://t.co/OeNACkDx80 http://t.co…
 	Sentiment(polarity=0.25, subjectivity=0.25)
-23: RT @OutFrontCNN: Drones spotted in Paris. @willripleyCNN has more on why these devices are a growing concern for federal officials. http://…
+34: RT @OutFrontCNN: Drones spotted in Paris. @willripleyCNN has more on why these devices are a growing concern for federal officials. http://…
 	Sentiment(polarity=0.5, subjectivity=0.5)
-24: RT @OutFrontCNN: "Nothing seemed out of the ordinary" with the suspects charged with supporting #ISIS. @jasoncarrollcnn has more @CNN http:…
+35: RT @OutFrontCNN: "Nothing seemed out of the ordinary" with the suspects charged with supporting #ISIS. @jasoncarrollcnn has more @CNN http:…
 	Sentiment(polarity=0.16666666666666666, subjectivity=0.4166666666666667)
-25: RT @OutFrontCNN: As FBI chief warns extremists exist in every U.S. state, 3 men are arrested for backing ISIS. @CNN's @ErinBurnett has all …
+36: RT @OutFrontCNN: As FBI chief warns extremists exist in every U.S. state, 3 men are arrested for backing ISIS. @CNN's @ErinBurnett has all …
 	Sentiment(polarity=0.0, subjectivity=0.0)
-26: RT @CNNSitRoom: Attorney for NY ISIS plot suspect: There is a rush to prosecute Muslim men in America http://t.co/XFb2483rgq
+37: RT @CNNSitRoom: Attorney for NY ISIS plot suspect: There is a rush to prosecute Muslim men in America http://t.co/XFb2483rgq
 https://t.co/B…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-27: RT @AnneClaireCNN: Officially going nowhere http://t.co/NsRrjTTz58
+38: RT @AnneClaireCNN: Officially going nowhere http://t.co/NsRrjTTz58
 	Sentiment(polarity=0.0, subjectivity=0.0)
-28: RT @OutFrontCNN: #BokoHaram + #ISIS = Marriage from Hell http://t.co/AXB3CTUPlI @CNN http://t.co/FLRchZSB7N
+39: RT @OutFrontCNN: #BokoHaram + #ISIS = Marriage from Hell http://t.co/AXB3CTUPlI @CNN http://t.co/FLRchZSB7N
 	Sentiment(polarity=0.0, subjectivity=0.0)
-29: Get ready to return to Duckburg. #DuckTales is coming back to TV: http://t.co/xSQzbvqo61 via @CNNMoney http://t.co/OdBRlOCpt7
+40: Get ready to return to Duckburg. #DuckTales is coming back to TV: http://t.co/xSQzbvqo61 via @CNNMoney http://t.co/OdBRlOCpt7
 	Sentiment(polarity=0.1, subjectivity=0.25)
-30: RT @AC360: "He inflicted this on himself” Jurors speak with @andersoncooper about the conviction of #EddieRayRouth. 8p ET @CNN http://t.co/…
+41: RT @AC360: "He inflicted this on himself” Jurors speak with @andersoncooper about the conviction of #EddieRayRouth. 8p ET @CNN http://t.co/…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-31: RT @CNNSitRoom: Army Chief @GENRayOdierno to @WolfBlitzer: Anti-ISIS fight will take months. More this hour http://t.co/2PLaxp7eRa http://t…
+42: RT @CNNSitRoom: Army Chief @GENRayOdierno to @WolfBlitzer: Anti-ISIS fight will take months. More this hour http://t.co/2PLaxp7eRa http://t…
 	Sentiment(polarity=0.5, subjectivity=0.5)
-32: Scope #superbug: How long did the #FDA know about this problem? http://t.co/93Vm2DHKqS via @CNNHealth http://t.co/h1KwIarjn2
+43: Scope #superbug: How long did the #FDA know about this problem? http://t.co/93Vm2DHKqS via @CNNHealth http://t.co/h1KwIarjn2
 	Sentiment(polarity=-0.05, subjectivity=0.4)
-33: RT @CNNVideo: Sam Smith says he wants @edsheeran to win all the #BRITAwards. @IsaCNN reports: http://t.co/6Za1hLqf09 http://t.co/sXLTgHhoaU
+44: RT @CNNVideo: Sam Smith says he wants @edsheeran to win all the #BRITAwards. @IsaCNN reports: http://t.co/6Za1hLqf09 http://t.co/sXLTgHhoaU
 	Sentiment(polarity=0.5, subjectivity=0.25)
-34: RT @camanpour: “Lots of water has passed under the bridges” since Russia and America were close partners, Peskov tells me: http://t.co/DPBK…
+45: RT @camanpour: “Lots of water has passed under the bridges” since Russia and America were close partners, Peskov tells me: http://t.co/DPBK…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-35: Sick of winter? Time to seek warmer climes. Learn about great beach escapes in CNN's latest edition on @Snapchat. https://t.co/3QaZQOVcb3
+46: Sick of winter? Time to seek warmer climes. Learn about great beach escapes in CNN's latest edition on @Snapchat. https://t.co/3QaZQOVcb3
 	Sentiment(polarity=0.19523809523809524, subjectivity=0.8357142857142857)
-36: Is American exceptionalism making us dumb? A @CNNOpinion writer looks at recent controversy: http://t.co/IbkIZqqX5G http://t.co/LzMOaIF1AS
+47: Is American exceptionalism making us dumb? A @CNNOpinion writer looks at recent controversy: http://t.co/IbkIZqqX5G http://t.co/LzMOaIF1AS
 	Sentiment(polarity=-0.125, subjectivity=0.25)
-37: RT @cnnireport: That moment when you scrape the snow off your car ... to find it's not yours. http://t.co/zsy317WEmk @CruzNControl http://t…
+48: RT @cnnireport: That moment when you scrape the snow off your car ... to find it's not yours. http://t.co/zsy317WEmk @CruzNControl http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-38: RT @TheLeadCNN: #TheLead is live. Leading the show: A terrorist cell in NYC http://t.co/5M873L5vSZ #ISIS http://t.co/y3ZmZdAHC3
+49: RT @TheLeadCNN: #TheLead is live. Leading the show: A terrorist cell in NYC http://t.co/5M873L5vSZ #ISIS http://t.co/y3ZmZdAHC3
 	Sentiment(polarity=0.13636363636363635, subjectivity=0.5)
-39: What is #ISIS' appeal for young people? Experts say the group is especially targeting women: http://t.co/lVPqnDfCJF http://t.co/1rSCnjWe4N
+50: What is #ISIS' appeal for young people? Experts say the group is especially targeting women: http://t.co/lVPqnDfCJF http://t.co/1rSCnjWe4N
 	Sentiment(polarity=0.05, subjectivity=0.7)
-40: Want to retire rich? This is the proven way to do it:  http://t.co/cutJ3GIROn via @CNNMoney http://t.co/XFwAJXfz1M
+51: Want to retire rich? This is the proven way to do it:  http://t.co/cutJ3GIROn via @CNNMoney http://t.co/XFwAJXfz1M
 	Sentiment(polarity=0.375, subjectivity=0.75)
-41: RT @OutFrontCNN: HAPPENING NOW: NYPD update on #ISIS-related arrests http://t.co/OeNACkDx80 @CNNgo @CNN http://t.co/Eciei54DLP
+52: RT @OutFrontCNN: HAPPENING NOW: NYPD update on #ISIS-related arrests http://t.co/OeNACkDx80 @CNNgo @CNN http://t.co/Eciei54DLP
 	Sentiment(polarity=0.0, subjectivity=0.0)
-42: On @CNNgo: Police briefing on the arrest of three men in New York and Florida for allegedly attempting to join #ISIS. http://t.co/UYpqI3w42L
+53: On @CNNgo: Police briefing on the arrest of three men in New York and Florida for allegedly attempting to join #ISIS. http://t.co/UYpqI3w42L
 	Sentiment(polarity=-0.004545454545454551, subjectivity=0.18484848484848485)
-43: RT @CNNent: . @parksandrecnbc finale a treat for fans 
+54: RT @CNNent: . @parksandrecnbc finale a treat for fans 
 http://t.co/7hPZzl4b7t #ParksFarewell #WafflesAcrossAmerica http://t.co/52eeqIldwN
 	Sentiment(polarity=0.0, subjectivity=0.0)
-44: RT @CNNMoney: Have you ever faced a tax #audit? 8 relatively easy ways to steer clear of a repeat http://t.co/kCtW34pyTP @IRSnews http://t.…
+55: RT @CNNMoney: Have you ever faced a tax #audit? 8 relatively easy ways to steer clear of a repeat http://t.co/kCtW34pyTP @IRSnews http://t.…
 	Sentiment(polarity=0.26666666666666666, subjectivity=0.6083333333333334)
-45: RT @CNNSitRoom: #Breaking: FBI says NYC terror suspect offered to assassinate the President on behalf of ISIS. http://t.co/9ZiofbbWh7
+56: RT @CNNSitRoom: #Breaking: FBI says NYC terror suspect offered to assassinate the President on behalf of ISIS. http://t.co/9ZiofbbWh7
 	Sentiment(polarity=0.0, subjectivity=0.0)
-46: RT @cnnbrk: Georgia postpones execution of Kelly Renee Gissendaner until Monday. http://t.co/cPAvgYQH77 http://t.co/MLC8xKgiCi
+57: RT @cnnbrk: Georgia postpones execution of Kelly Renee Gissendaner until Monday. http://t.co/cPAvgYQH77 http://t.co/MLC8xKgiCi
 	Sentiment(polarity=0.0, subjectivity=0.0)
-47: What ever happened to personal space? http://t.co/geFzIhMkvz http://t.co/3eIY0jpl6O
+58: What ever happened to personal space? http://t.co/geFzIhMkvz http://t.co/3eIY0jpl6O
 	Sentiment(polarity=0.0, subjectivity=0.3)
-48: RT @CNNSitRoom: #Breaking: FBI has arrested 3 men in New York who were allegedly trying to join #ISIS militants http://t.co/MSg8iFsU4F
+59: RT @CNNSitRoom: #Breaking: FBI has arrested 3 men in New York who were allegedly trying to join #ISIS militants http://t.co/MSg8iFsU4F
 	Sentiment(polarity=0.018181818181818174, subjectivity=0.2772727272727273)
-49: A new @BillCosby accuser has come forward with graphic details of alleged sexual assault:
+60: A new @BillCosby accuser has come forward with graphic details of alleged sexual assault:
 http://t.co/VPfbrL8SX3 http://t.co/xsskC2Qksq
 	Sentiment(polarity=0.1340909090909091, subjectivity=0.44696969696969696)
-50: North Carolina might be going rogue and could give the GOP big headaches in 2016: http://t.co/dVJTllEMA2 http://t.co/19gT9unuCD
+61: North Carolina might be going rogue and could give the GOP big headaches in 2016: http://t.co/dVJTllEMA2 http://t.co/19gT9unuCD
 	Sentiment(polarity=0.0, subjectivity=0.1)
-51: RT @NewDay: Cool video from @NASA of a spacewalk happening right now! @ChrisCuomo, @AlisynCamerota &amp; @MichaelaCNN are amazed. http://t.co/E…
+62: RT @NewDay: Cool video from @NASA of a spacewalk happening right now! @ChrisCuomo, @AlisynCamerota &amp; @MichaelaCNN are amazed. http://t.co/E…
 	Sentiment(polarity=0.35357142857142854, subjectivity=0.5928571428571429)
-52: .@SouthwestAir had to ground 128 planes after discovering it had missed some inspections:  http://t.co/pKnRbQY7jv http://t.co/EUsUj64L5G
+63: .@SouthwestAir had to ground 128 planes after discovering it had missed some inspections:  http://t.co/pKnRbQY7jv http://t.co/EUsUj64L5G
 	Sentiment(polarity=0.0, subjectivity=0.0)
-53: Another winter storm will race across parts of the South today: http://t.co/Weh26N7qRF http://t.co/M1SHiIfDtD
+64: Another winter storm will race across parts of the South today: http://t.co/Weh26N7qRF http://t.co/M1SHiIfDtD
 	Sentiment(polarity=0.0, subjectivity=0.0)
-54: A baby in California was born completely encased in his amniotic sac: http://t.co/UpdTMuh1dp http://t.co/xYGyFerUjH
+65: A baby in California was born completely encased in his amniotic sac: http://t.co/UpdTMuh1dp http://t.co/xYGyFerUjH
 	Sentiment(polarity=0.1, subjectivity=0.4)
-55: RT @NewDay: #ISIS abducts 150 Christians in Syria in what appears to be an ongoing operation: http://t.co/M7ZL3c7QbT http://t.co/hLgmPpvAUs
+66: RT @NewDay: #ISIS abducts 150 Christians in Syria in what appears to be an ongoing operation: http://t.co/M7ZL3c7QbT http://t.co/hLgmPpvAUs
 	Sentiment(polarity=0.0, subjectivity=0.0)
-56: RT @CNNPolitics: North Carolina might be going rogue in 2016, @PeterHambyCNN reports http://t.co/lpSKNZ3A67 http://t.co/K8AZ8hZPWu
+67: RT @CNNPolitics: North Carolina might be going rogue in 2016, @PeterHambyCNN reports http://t.co/lpSKNZ3A67 http://t.co/K8AZ8hZPWu
 	Sentiment(polarity=0.0, subjectivity=0.0)
-57: RT @ThisHour: States of emergency declared in Alabama, Tennessee and Georgia. #cnnsnow More details: http://t.co/VdgpEOrsF1 http://t.co/0v9…
+68: RT @ThisHour: States of emergency declared in Alabama, Tennessee and Georgia. #cnnsnow More details: http://t.co/VdgpEOrsF1 http://t.co/0v9…
 	Sentiment(polarity=0.5, subjectivity=0.5)
-58: A lawsuit claims Purina food harms dogs, but the company denies the allegations: http://t.co/xsbv1f9IZk
+69: A lawsuit claims Purina food harms dogs, but the company denies the allegations: http://t.co/xsbv1f9IZk
 	Sentiment(polarity=0.0, subjectivity=0.0)
-59: RT @NewDay: Almost time for the show! Don't forget to show us how you kick off your morning with #MyNewDay. See you on TV! http://t.co/kqGA…
+70: RT @NewDay: Almost time for the show! Don't forget to show us how you kick off your morning with #MyNewDay. See you on TV! http://t.co/kqGA…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-60: RT @CNNweather: A messy start in #Dallas this AM - The snow will move east in time for the #Atlanta commute home. #cnnsnow totals http://t.…
+71: RT @CNNweather: A messy start in #Dallas this AM - The snow will move east in time for the #Atlanta commute home. #cnnsnow totals http://t.…
 	Sentiment(polarity=-0.2, subjectivity=0.4)
-61: RT @NewDay: Coming up at 6amET: Guilty verdict in #AmericanSniper murder trial, Christians abducted in #Syria, Obama vetoes #KeystoneXL &amp; h…
+72: RT @NewDay: Coming up at 6amET: Guilty verdict in #AmericanSniper murder trial, Christians abducted in #Syria, Obama vetoes #KeystoneXL &amp; h…
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-62: RT @EarlyStart: Fifteen people injured in massive home explosion: http://t.co/xZlc8Tab4U http://t.co/D0gYoyytI3
+73: RT @EarlyStart: Fifteen people injured in massive home explosion: http://t.co/xZlc8Tab4U http://t.co/D0gYoyytI3
 	Sentiment(polarity=0.0, subjectivity=1.0)
-63: RT @cnnbrk: ISIS holding 150 Assyrian Christians hostage, expected to release message today threatening to kill them, official tells CNN.
+74: RT @cnnbrk: ISIS holding 150 Assyrian Christians hostage, expected to release message today threatening to kill them, official tells CNN.
 	Sentiment(polarity=-0.1, subjectivity=0.4)
-64: RT @CNNMoney: Why cheap oil is killing North Sea industry
+75: RT @CNNMoney: Why cheap oil is killing North Sea industry
 http://t.co/jN9pzq07NB via @IvanaKottasova http://t.co/s9UXOohoEI
 	Sentiment(polarity=0.4, subjectivity=0.7)
-65: RT @cnnbrk: Rare birth: Baby born in Los Angeles completely encased in amniotic sac. Doctor called it “a moment of awe.” http://t.co/Wd4gQ1…
+76: RT @cnnbrk: Rare birth: Baby born in Los Angeles completely encased in amniotic sac. Doctor called it “a moment of awe.” http://t.co/Wd4gQ1…
 	Sentiment(polarity=0.2, subjectivity=0.65)
-66: RT @CNNTonight: "The ones in the sky are the ones that fly, you know what I mean, the pigs." #EddieRayRouth in newly released audio http://…
+77: RT @CNNTonight: "The ones in the sky are the ones that fly, you know what I mean, the pigs." #EddieRayRouth in newly released audio http://…
 	Sentiment(polarity=0.20795454545454548, subjectivity=0.6806818181818182)
-67: RT @cnnbrk: . @ statedept official arrested on suspicion of soliciting sex from a minor, police said. http://t.co/BSJAlj7BYa
+78: RT @cnnbrk: . @ statedept official arrested on suspicion of soliciting sex from a minor, police said. http://t.co/BSJAlj7BYa
 	Sentiment(polarity=-0.05, subjectivity=0.2)
-68: RT @CNNTonight: We are live for a second hour of @CNNTonight. Stay with us through midnight for latest on #AmericanSniper verdict.
+79: RT @CNNTonight: We are live for a second hour of @CNNTonight. Stay with us through midnight for latest on #AmericanSniper verdict.
 	Sentiment(polarity=0.21212121212121213, subjectivity=0.4666666666666666)
-69: A man was able to see his wife for the first time in 10 years with the help of a bionic eye implant. http://t.co/SAZrK1eipQ
+80: A man was able to see his wife for the first time in 10 years with the help of a bionic eye implant. http://t.co/SAZrK1eipQ
 	Sentiment(polarity=0.375, subjectivity=0.47916666666666663)
-70: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.co/Km4rFpUQfR
+81: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.co/Km4rFpUQfR
 	Sentiment(polarity=0.0, subjectivity=0.0)
-71: An octopus jumped out of the water and grabbed a crab. Who wins this epic battle between creatures? http://t.co/kIl5UaIVcK
+82: An octopus jumped out of the water and grabbed a crab. Who wins this epic battle between creatures? http://t.co/kIl5UaIVcK
 	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
-72: RT @jonathanwald: #Breaking: Guilty. Life in prison no chance of parole for Eddie Routh in 'American Sniper' trial. @donlemon live @CNNToni…
+83: RT @jonathanwald: #Breaking: Guilty. Life in prison no chance of parole for Eddie Routh in 'American Sniper' trial. @donlemon live @CNNToni…
 	Sentiment(polarity=-0.12121212121212122, subjectivity=0.5)
-73: RT @CNNTonight: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.…
+84: RT @CNNTonight: #EddieRayRouth sentenced to life without parole for the killings of #ChrisKyle, #ChadLittlefield. #AmericanSniper http://t.…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-74: RT @CNNTonight: #EddieRayRouth found guilty in #AmericanSniper trial. #breaking http://t.co/Sm05y0uuZp
+85: RT @CNNTonight: #EddieRayRouth found guilty in #AmericanSniper trial. #breaking http://t.co/Sm05y0uuZp
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-75: RT @edlavaCNN: BREAKING: #EddieRayRouth found guilty in #AmericanSniperTrial. #ChrisKyle
+86: RT @edlavaCNN: BREAKING: #EddieRayRouth found guilty in #AmericanSniperTrial. #ChrisKyle
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-76: RT @CNNTonight: Jury finds #EddieRayRouth guilty of capital murder.  #AmericanSniper #breaking http://t.co/V9Zf7PTxRM
+87: RT @CNNTonight: Jury finds #EddieRayRouth guilty of capital murder.  #AmericanSniper #breaking http://t.co/V9Zf7PTxRM
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-77: "Bowtie is the new black." @peeweeherman has a new project coming to @Netflix: http://t.co/vnRPHrnAlF http://t.co/aPumhLT3xa
+88: "Bowtie is the new black." @peeweeherman has a new project coming to @Netflix: http://t.co/vnRPHrnAlF http://t.co/aPumhLT3xa
 	Sentiment(polarity=0.03535353535353535, subjectivity=0.4474747474747475)
-78: RT @CNNPhotos: Many have thought this famous photo at Iwo Jima was staged. Find out what really happened: http://t.co/9oKCkpGzbW http://t.c…
+89: RT @CNNPhotos: Many have thought this famous photo at Iwo Jima was staged. Find out what really happened: http://t.co/9oKCkpGzbW http://t.c…
 	Sentiment(polarity=0.39999999999999997, subjectivity=0.5666666666666667)
-79: A mystery tunnel near a 2015 Pan American Games venue in Toronto has stumped authorities. http://t.co/SuOsZ8xi72 http://t.co/EOq330EzvY
+90: A mystery tunnel near a 2015 Pan American Games venue in Toronto has stumped authorities. http://t.co/SuOsZ8xi72 http://t.co/EOq330EzvY
 	Sentiment(polarity=0.05, subjectivity=0.2)
-80: RT @AC360: .@GaryTuchmanCNN tried to get answers from #VAHospital that released #EddieRayRouth http://t.co/EApwkaEGvk
+91: RT @AC360: .@GaryTuchmanCNN tried to get answers from #VAHospital that released #EddieRayRouth http://t.co/EApwkaEGvk
 	Sentiment(polarity=0.0, subjectivity=0.0)
-81: RT @CNNOrigSeries: "God works in mysterious ways?" Maybe, but THAT'S not in the Bible. http://t.co/xOKBxT8dOb  #FindingJesus Sun 9p @CNN ht…
+92: RT @CNNOrigSeries: "God works in mysterious ways?" Maybe, but THAT'S not in the Bible. http://t.co/xOKBxT8dOb  #FindingJesus Sun 9p @CNN ht…
 	Sentiment(polarity=0.0, subjectivity=1.0)
-82: RT @cnnbrk: "American Sniper" killing trial goes to jury. http://t.co/dn0owrkVFZ.
+93: RT @cnnbrk: "American Sniper" killing trial goes to jury. http://t.co/dn0owrkVFZ.
 	Sentiment(polarity=0.0, subjectivity=0.0)
-83: Kids sure know how to hit the "undo" button on housework. Many parents could relate to this mom's video: http://t.co/uLWDMZLlja @CNNLiving
+94: Kids sure know how to hit the "undo" button on housework. Many parents could relate to this mom's video: http://t.co/uLWDMZLlja @CNNLiving
 	Sentiment(polarity=0.5, subjectivity=0.6944444444444444)
-84: RT @AC360: There are about 62-million people in the path of the storm cutting across the southern U.S. http://t.co/vrhdM7CUJv
+95: RT @AC360: There are about 62-million people in the path of the storm cutting across the southern U.S. http://t.co/vrhdM7CUJv
 	Sentiment(polarity=-0.3, subjectivity=0.45)
-85: RT @danmericaCNN: Embracing 2016 expectations, Clinton courts Silicon Valley women - My story from from CA: http://t.co/dALV2vfFHM http://t…
+96: RT @danmericaCNN: Embracing 2016 expectations, Clinton courts Silicon Valley women - My story from from CA: http://t.co/dALV2vfFHM http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-86: RT @CNNSitRoom: Are U.S. allies secretly funding #ISIS? @MKosinskiCNN investigates: http://t.co/ofpS2bIDh2 http://t.co/2grVg7bGCN
+97: RT @CNNSitRoom: Are U.S. allies secretly funding #ISIS? @MKosinskiCNN investigates: http://t.co/ofpS2bIDh2 http://t.co/2grVg7bGCN
 	Sentiment(polarity=-0.4, subjectivity=0.7)
-87: RT @AC360: I saw the car blow up right outside the window. Then we started rocking and rolling - #Oxnard survivor Joel Bingham http://t.co/…
+98: RT @AC360: I saw the car blow up right outside the window. Then we started rocking and rolling - #Oxnard survivor Joel Bingham http://t.co/…
 	Sentiment(polarity=0.14285714285714285, subjectivity=0.29285714285714287)
-88: Police: Driver of truck in commuter train collision arrested on suspicion of felony hit &amp; run: http://t.co/8xZie44fbs http://t.co/HSuQMqbgme
+99: Police: Driver of truck in commuter train collision arrested on suspicion of felony hit &amp; run: http://t.co/8xZie44fbs http://t.co/HSuQMqbgme
 	Sentiment(polarity=0.0, subjectivity=0.0)
-89: RT @cnnbrk: Ice. Snow. Sleet. How the nation is coping with winter's wrath. http://t.co/MZw67UZhbg.
+100: RT @cnnbrk: Ice. Snow. Sleet. How the nation is coping with winter's wrath. http://t.co/MZw67UZhbg.
 	Sentiment(polarity=0.0, subjectivity=0.0)
-90: RT @InsideManCNN: This family lives a trash-free life. You can too with the "5 Rs." @MorganSpurlock #InsideMan http://t.co/t8GYW7IZvA http:…
+101: RT @CNNMoney: Thank Janet Yellen: New records for the Dow and S&amp;P 500, and the Nasdaq is less than 1% away from 5,000.  http://t.co/A9OlUXC…
+	Sentiment(polarity=-0.015151515151515152, subjectivity=0.2606060606060606)
+102: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-91: RT @CNNPolitics: Clinton embraces the 2016 speculation in Silicon valley http://t.co/7d9XSBYKhC http://t.co/rfB2icvpOR
+103: @CNN @BET Generate traffic and earn dollars,benefit from the high exchange rate,click the link below http://t.co/aZgMva1Y8q
+	Sentiment(polarity=0.16, subjectivity=0.5399999999999999)
+104: #SocialMedia From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group's ide... http://t.co/PNqhCeWTHR
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+105: RT @cnnbrk: U.S. aid worker kidnapped from her workplace in Nigeria; kidnappers demanding ransom, police say. http://t.co/ZSGTyBdwGB
 	Sentiment(polarity=0.0, subjectivity=0.0)
-92: RT @CNNMoney: .@KeithOlbermann suspended for a week over #PennState tweets
-http://t.co/GM9E1a51Pl via @frankpallotta http://t.co/eUpToVHYUT
-	Sentiment(polarity=0.0, subjectivity=0.0)
-93: What will #BillCosby’s legacy be? http://t.co/jAie0pIAf2
-
-Watch #CNN &amp; @CNNgo tonight. http://t.co/UYpqI3w42L http://t.co/yGdeonyYeN
-	Sentiment(polarity=0.0, subjectivity=0.0)
-94: RT @CNNMoney: "Run, Forrest, run!" @Nike bringing back vintage kicks, including Classic Cortez worn by Gump http://t.co/9ZWoyVronK http://t…
-	Sentiment(polarity=0.08333333333333333, subjectivity=0.08333333333333333)
-95: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-96: .@OutFrontCNN tonight: Exclusive video of the “black hat bandits,” the pair wanted for 7 robberies in MD &amp; VA. @CNNgo http://t.co/UYpqI3esEb
-	Sentiment(polarity=-0.16666666666666666, subjectivity=0.43333333333333335)
-97: RT @AC360: The #AmericanSniper murder trial is headed to the jury. Did #EddieRayRouth’s lawyers prove insanity? #AC360 8p @CNN http://t.co/…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-98: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-99: RT @CNNPolitics: Congressman's lavish Instagram feed under scrutiny: http://t.co/UJQQAs6iRL http://t.co/Ev4nge5RTq
-	Sentiment(polarity=0.0, subjectivity=0.0)
-100: RT @CNNSitRoom: U.S. military is preparing to send weapons to Iraqi forces for a major battle against #ISIS: http://t.co/wJSgobFywz http://…
-	Sentiment(polarity=-0.018750000000000003, subjectivity=0.3)
-101: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+106: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-102: Space invaders -- from Biden to Travolta http://t.co/o1FzIXraGa
+107: #SocialMedia From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group's ide... http://t.co/p8ZpClFfwT
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+108: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-103: Opinion: Keep U.S. military option for Ukraine: A U.S. commitment of force in Ukraine, more than t... http://t.co/K3o5GOMIcl .. from CNN
-	Sentiment(polarity=0.2, subjectivity=0.3)
-104: #NashsNewVideo #CNN April-lee Gillen woke from coma to find she was pregnant - Illawarra Mercury  http://t.co/YensXpmOfp
-	Sentiment(polarity=0.11666666666666665, subjectivity=0.25)
-105: Breaking News from CNN: Dangers lurk at railroad-highway crossings http://t.co/Os9Mb91d73
-	Sentiment(polarity=0.0, subjectivity=0.0)
-106: Rebels continue to take #Russian #Ukraine from #Kiev Control http://t.co/bk8aPi1quc #msnbc #foxnews #nyt #wsj #cnn #npr #nbc #eu #nato #wapo
-	Sentiment(polarity=0.0, subjectivity=0.0)
-107: more from our shameful Veterans administration!
-http://t.co/yBsHUft6EA
-	Sentiment(polarity=0.625, subjectivity=0.5)
-108: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/DEBnK3kRGZ via @BizPacReview 
-
-#tcot #YCOT #DHS
-	Sentiment(polarity=-0.5, subjectivity=1.0)
-109: RT @USSOCOM: Special forces units from a number of countries are in Chad to train their African counterparts to fight Boko Haram http://t.c…
-	Sentiment(polarity=0.17857142857142858, subjectivity=0.2857142857142857)
+109: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
 110: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
 	Sentiment(polarity=0.0, subjectivity=0.1)
-111: ICE CUBE blames Korean's discrimination http://t.co/PdaNvALzA2 #BBC #CNN #Reuters #AP #ABC #NBC #CBS #NYT #FIFA #Deutschland #France #Italy
+111: RT @drsanjaygupta: exposing kids to #peanuts early in life may actually keep them from developing an #allergy -- http://t.co/hs0DbwGO27 htt…
+	Sentiment(polarity=0.05, subjectivity=0.2)
+112: #London #socialmedia From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist gro... http://t.co/U92enlIqqc
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+113: #adcareers From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group's ideol... http://t.co/MftbnYeeay
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+114: #CNN: Kurdish forces stop #DAESH assault with weapons from WWII http://t.co/zMw32WGW54
 	Sentiment(polarity=0.0, subjectivity=0.0)
-112: RT @cnnireport: Don't stop this pup from playing in the snow. http://t.co/0aXnV7Kmrm #CNNsnow http://t.co/Eqq8zb9v0R
-	Sentiment(polarity=0.0, subjectivity=0.0)
-113: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/UAzAefN7Jz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-114: Video warning from Al-Shabaab... http://t.co/DXjYWqsIZZ #politics
-	Sentiment(polarity=0.0, subjectivity=0.0)
-115: RT @KhaledBeydoun: The #ChapelHillShooting took place 9+ hours ago.  
-
-Still no coverage from @CNN, @FoxNews, @MSNBC and major outlets. htt…
-	Sentiment(polarity=0.0625, subjectivity=0.5)
-116: Space invaders -- from Biden to Travolta http://t.co/bGMWhdSxcY #SEBEE
-	Sentiment(polarity=0.0, subjectivity=0.0)
-117: Upgrading from Windows 7 or 8? You'll love Windows 10 http://t.co/GNCekZYvza
-	Sentiment(polarity=0.5, subjectivity=0.6)
-118: @CNN_News_Daily absolutly first from d bottom #indonesia
-	Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
-119: RT @mar__bru: "ISIS got started through funding from our friends and allies… to fight to the death against Hezbollah" gen. Wesley Clark, CN…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-120: RT @CNNMoney: .@bevel founder @tristanwalker's best advice came from @tylerperry http://t.co/1FrfPubDir http://t.co/ipmjguI912
-	Sentiment(polarity=1.0, subjectivity=0.3)
-121: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
-	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
-122: @HouseJudiciary @GOPsoundboard 
-
-Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint
-http://t.co/FCBUfcKSSR
-	Sentiment(polarity=-0.5, subjectivity=1.0)
-123: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-124: RT @Russ1913: CNN is on the scene as designers showcase their fall 2015 collections at New York Fashion Week from February 12-19.
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
-125: Decline in smoking rates could increase deaths from lung cancer http://t.co/OmvbPy5DSO
-	Sentiment(polarity=0.0, subjectivity=0.0)
-126: Blog update Decline in smoking rates could increase deaths from lung cancer http://t.co/Kqnrad4Q4o
-	Sentiment(polarity=0.0, subjectivity=0.0)
-127: Decline in smoking rates could increase deaths from lung cancer http://t.co/P4NyWmdl07
-	Sentiment(polarity=0.0, subjectivity=0.0)
-128: Space invaders -- from Biden to Travolta http://t.co/4BIuKxayGJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-129: @aaronschock I live in #Illinois and just found out you're under investigation. You should resign from #Congress. #UniteBlue #CNN #GOP
-	Sentiment(polarity=0.13636363636363635, subjectivity=0.5)
-130: #Health Decline in smoking rates could increase deaths from lung cancer http://t.co/aDEA8jknt6
-	Sentiment(polarity=0.0, subjectivity=0.0)
-131: Well lookie there. http://t.co/qI4td4k5mQ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-132: Stock markets all around the world broke records: From Germany to Britain to America, stocks… http://t.co/q53qFUyL7V
-	Sentiment(polarity=0.0, subjectivity=0.0)
-133: RT @Mojahedineng: Money earned from drug-trafficking influences all arenas in #Iran politics  #Reuters #AP #CNN http://t.co/Kf7pdsqsKy http…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-134: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-135: RT @Mojahedineng: Money earned from drug-trafficking influences all arenas in #Iran politics  #Reuters #AP #CNN http://t.co/Kf7pdsqsKy http…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-136: RT @Foxewise: 🌏❤@DohertyShannen @CNN Thanks❤ Cove Guardian Sarah 🐬🐳 traveled from UK to expose 🇯🇵#tweet4taiji @CoveGuardians 50.4K http://t…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-137: RT @Tea_Alliance: @SenGaryPeters  @SenateDems 
-
-Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint 
-http://t.co/F…
-	Sentiment(polarity=-0.5, subjectivity=1.0)
-138: Space invaders -- from Biden to Travolta http://t.co/hPRW5b1mjj
-	Sentiment(polarity=0.0, subjectivity=0.0)
-139: Space invaders -- from Biden to Travolta http://t.co/lmYIZc2gur
-	Sentiment(polarity=0.0, subjectivity=0.0)
-140: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
-	Sentiment(polarity=0.0, subjectivity=0.0)
-141: Pyongyang bans foreign runners from marathon  http://t.co/fNothhmyw2
-	Sentiment(polarity=-0.125, subjectivity=0.125)
-142: #Google   Pyongyang bans foreign runners from marathon http://t.co/lAuO0nh1Po
-	Sentiment(polarity=-0.125, subjectivity=0.125)
-143: #Google   From Scottish teen to ISIS bride and recruiter http://t.co/zbGgaJa5UX
-	Sentiment(polarity=0.0, subjectivity=0.0)
-144: RT @CNNMoney: Thank Janet Yellen: New records for the Dow and S&amp;P 500, and the Nasdaq is less than 1% away from 5,000.  http://t.co/A9OlUXC…
-	Sentiment(polarity=-0.015151515151515152, subjectivity=0.2606060606060606)
-145: @JenniferGrayCNN From Miami to CNN and doing a great job Jen. Congrats!
-	Sentiment(polarity=1.0, subjectivity=0.75)
-146: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
-	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
-147: #Top #Stories Space invaders -- from Biden to Travolta http://t.co/MzGT2In5Q1
-	Sentiment(polarity=0.5, subjectivity=0.5)
-148: 『猫が猛犬に体当たり、飼い主の子ども救う CNN -CAT SAVES CHILD FROM DOG-』 http://t.co/vlnH25F2o6
-
--YouTube (猫) -動画まとめ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-149: @MikeStaresinic @xahidcreator @benedictrogers @Police_Mv @BBCWorld @CNN @Reuters @sunbrk its not real pics. Just taken from internet.
-	Sentiment(polarity=-0.1, subjectivity=0.30000000000000004)
-150: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
-	Sentiment(polarity=0.0, subjectivity=0.5)
-151: Ban China from UN http://t.co/RyF9jh9teO #Afganistan #Pakistan #PLO #Palestine #Libia #Images #Picture #BBC #CNN #Reuters #AP #CBS #NYT #WSJ
-	Sentiment(polarity=0.0, subjectivity=0.0)
-152: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+115: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
 	Sentiment(polarity=0.0, subjectivity=0.1)
-153: RT @usairforce: MT @CNN: 'Ghost Rider': B-52 resurrected from desert Boneyard. http://t.co/I70tlpugYa #AirForce http://t.co/rHnZLNEpET
-	Sentiment(polarity=0.0, subjectivity=0.0)
-154: Space invaders -- from Biden to Travolta http://t.co/3VfDY5qq4d
-	Sentiment(polarity=0.0, subjectivity=0.0)
-155: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+116: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-156: #JamelHunter receives a #SpiderMan present from #StanLee #autism http://t.co/7WBJ3dZ0RL #CNN read more #news http://t.co/JNa46XwNn7
-	Sentiment(polarity=0.25, subjectivity=0.25)
-157: India couple, estranged from family, leaving all to pet http://t.co/y1K0N8auPb
+117: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-158: Decline in smoking rates could increase deaths from lung cancer http://t.co/C02GKvSkkE
+118: RT @danmericaCNN: Embracing 2016 expectations, Clinton courts Silicon Valley women - My story from from CA: http://t.co/dALV2vfFHM http://t…
 	Sentiment(polarity=0.0, subjectivity=0.0)
+119: BLN WORLD NEWS From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group's i... http://t.co/XW2pqrlCl1
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+120: HHTV WORLD NEWS From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group's ... http://t.co/qz6uTiZ7VT
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+121: CHELYNN WORLD NEWS From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group... http://t.co/mAdHtbweok
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+122: REVOLT WORLD NEWS From Scottish teen to ISIS recruiter - On social media, Aqsa Mahmood exults the terrorist group'... http://t.co/Nm3p4EhDot
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+123: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+124: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+125: From Scottish teen to ISIS recruiter: On social media, Aqsa Mahmood exults the terrorist group's ideology and ... http://t.co/mWuRVqYI7B
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+126: From Scottish teen to ISIS recruiter: On social media, Aqsa Mahmood exults the terrorist group's ideology and ... http://t.co/Q6XKDDfiyV
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+127: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+128: From Scottish teen to ISIS recruiter  http://t.co/EsZ8qI9yfp http://t.co/xvV3wVT67G
+	Sentiment(polarity=0.0, subjectivity=0.0)
+129: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+130: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+131: Heh! Excellent▶ @DarrellIssa Responds to #Giuliani Comments While CNN Insists on Distracting from #OBAMAFAIL https://t.co/xw9e0JGHlP #tcot
+	Sentiment(polarity=0.0, subjectivity=0.0)
+132: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+	Sentiment(polarity=0.0, subjectivity=0.1)
+133: From Scottish teen to ISIS recruiter: http://t.co/RgW99KkV8l
+	Sentiment(polarity=0.0, subjectivity=0.0)
+134: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+135: RT @TheScotty2Hotty: All major news outlets covering @SeaWorld rescuing manatees from storm drain. @cnn doesn't mention it. Hmm, wonder who…
+	Sentiment(polarity=0.0625, subjectivity=0.5)
+136: From Scottish teen to ISIS recruiter: http://t.co/IwKnBLIqSu
+	Sentiment(polarity=0.0, subjectivity=0.0)
+137: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+138: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+139: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+140: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/KTfG8Xwu8L
+	Sentiment(polarity=0.0, subjectivity=0.0)
+141: Embracing 2016 expectations, Clinton courts Silicon Valley women - My story from from CA: http://t.co/dALV2vfFHM http://t.co/sT8z3WoiGk
+	Sentiment(polarity=0.0, subjectivity=0.0)
+142: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+143: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+144: CNN: From Scottish teen to ISIS recruiter http://t.co/sMFtaqxLkb
+	Sentiment(polarity=0.0, subjectivity=0.0)
+145: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+146: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+147: RT @BIZPACReview: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/zLRD1hwrOo  #tcot http://t.co/7w…
+	Sentiment(polarity=-0.5, subjectivity=1.0)
+148: Icicles and Palm Trees: Taken in Myrtle Beach, SC this morning with palm trees visible beyond the icicles from... http://t.co/8035EJAeB1
+	Sentiment(polarity=0.0, subjectivity=0.0)
+149: Icicles and Palm Trees: Taken in Myrtle Beach, SC this morning with palm trees visible beyond the icicles from... http://t.co/7iuODjiULB
+	Sentiment(polarity=0.0, subjectivity=0.0)
+150: Icicles and Palm Trees: Taken in Myrtle Beach, SC this morning with palm trees visible beyond the icicles from... http://t.co/HAHPJmlbE1
+	Sentiment(polarity=0.0, subjectivity=0.0)
+151: #AntonSolamente Martial Arts Classes Help Protect Children From Bullying: It is with increasing re... http://t.co/gX77PNwkoA #Lafalacia_
+	Sentiment(polarity=0.0, subjectivity=0.0)
+152: Icicles and Palm Trees: Taken in Myrtle Beach, SC this morning with palm trees visible beyond the icicles from... http://t.co/LRux78xexF
+	Sentiment(polarity=0.0, subjectivity=0.0)
+153: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+	Sentiment(polarity=0.0, subjectivity=0.1)
+154: Decline in smoking rates could increase deaths from lung cancer http://t.co/k41e7g7UOx
+	Sentiment(polarity=0.0, subjectivity=0.0)
+155: China the enemy of mankind http://t.co/LKOG3iyoyG http://t.co/iB69APgfdg #Justice #Oppression #Right #Fake #Business #News #socialmedia #CNN
+	Sentiment(polarity=-0.10714285714285715, subjectivity=0.7678571428571428)
+156: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+157: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
+158: Upgrading from Windows 7 or 8? You'll love Windows 10
+http://t.co/ZwCInrMBmE
+	Sentiment(polarity=0.5, subjectivity=0.6)
 159: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-160: Space invaders -- from Biden to Travolta http://t.co/du2tqvCJpU
+160: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-161: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/XzkBAmDeET
-	Sentiment(polarity=0.0, subjectivity=0.0)
+161: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+	Sentiment(polarity=0.0, subjectivity=0.5)
 162: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-163: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
+163: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+164: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+165: RT @gabrielsherman: CNN: Seven people who were there for CBS couldn't recall anyone from the network being injured in Argentina
+	Sentiment(polarity=0.0, subjectivity=0.0)
+166: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-164: RT @cnnbrk: U.S. aid worker kidnapped from her workplace in Nigeria; kidnappers demanding ransom, police say. http://t.co/ZSGTyBdwGB
+167: RT @YourAnonGlobal: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/99YTTLE4Lf http://t.co/S1vnFpmnzw
 	Sentiment(polarity=0.0, subjectivity=0.0)
-165: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/5KmMz8W1Dw
-	Sentiment(polarity=0.0, subjectivity=0.0)
-166: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/uInPWL2P9R via @BizPacReview
+168: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/zLRD1hwrOo  #tcot http://t.co/7wWOZbIRbF
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-167: RT @nbenitez1977: #TNTweeters 
-
-&gt; @HouseGOP 
-#wethepeople will NOT forget in 2016!
-Shameful Anti-#immigrant ATTACKS from @GOP ! http://t.co…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-168: http://t.co/KStLKTqRce Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/E0EffQfCrz
-	Sentiment(polarity=0.0, subjectivity=0.0)
-169: Space invaders -- from Biden to Travolta http://t.co/puSJVGL2S8
+169: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story - http://t.co/tYpsYKA7G3 http://t.co/4evdc3eqv1
 	Sentiment(polarity=0.0, subjectivity=0.0)
 170: RT @danprimack: Fulltime boxer and part-time VC @FloydMayweather stands to earn $120m from Pacquiao fight. http://t.co/wurdL8vWzh Enough fo…
 	Sentiment(polarity=0.0, subjectivity=0.5)
-171: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
+171: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-172: 1 in 7 suffer from sleep 'drunkenness' http://t.co/UzF3xHOPVf
+172: From Scottish teen to ISIS recruiter: http://t.co/EWmwYFnbcY
 	Sentiment(polarity=0.0, subjectivity=0.0)
-173: RT @cnnireport: Don't stop this pup from playing in the snow. http://t.co/0aXnV7Kmrm #CNNsnow http://t.co/Eqq8zb9v0R
+173: RT  Moni billeterojcg :#NashsNewVideo #CNN Socceroos legend Mark Bresciano announces retirement from international… http://t.co/rbkjrhZSSD
 	Sentiment(polarity=0.0, subjectivity=0.0)
-174: RT @DANEgerus: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
+174: #BillOReilly has 'full support' from #FoxNews chief http://t.co/VeQGtM2Rzu - What's it they say, rats of a feather.
+	Sentiment(polarity=0.35, subjectivity=0.55)
+175: #NashsNewVideo #CNN Socceroos legend Mark Bresciano announces retirement from international  # # # - Brisbane Times  http://t.co/XFo9PYCykT
 	Sentiment(polarity=0.0, subjectivity=0.0)
-175: #Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/Q9Kk6aIXht
+176: RT @YourAnonGlobal: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/99YTTLE4Lf http://t.co/S1vnFpmnzw
 	Sentiment(polarity=0.0, subjectivity=0.0)
-176: Accidental Accuracy leaked from CNN http://t.co/DvXxD1EcVb Democrats recoil in horror
+177: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
 	Sentiment(polarity=0.0, subjectivity=0.0)
-177: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/2WnQBgcxXW  #tcot http://t.co/ldkNQ0grnl
+178: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+179: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+180: news: From Scottish teen to ISIS recruiter On social media, Aqsa Mahmood exults the terror http://t.co/3BpYsL79Go
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+181: @JL918 @CNNSitRoom @CNN  will not be the first time they get wapons from the US
+	Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+182: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
+	Sentiment(polarity=0.0, subjectivity=0.0)
+183: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
+	Sentiment(polarity=0.0, subjectivity=0.0)
+184: Jaw-dropping headline from CNN leaves conservatives stunned; Dems feel faint http://t.co/P0jMAu4X6f via @BizPacReview
 	Sentiment(polarity=-0.5, subjectivity=1.0)
-178: Adrian Grenier finds entourage for whale http://t.co/uiG4RwYqx5 via @CNNMoney Adrian Grenier from entourage explain why he love whale
-	Sentiment(polarity=0.5, subjectivity=0.6)
-179: RT @erikagrey: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/ef2lj0P5fn
+185: Seems like #hamas is digging tunnels from their Canadian headquarters @yorkuniversity !!!!
+@CFRAOttawa @OttawaCitizen @CBCNews @CNN
 	Sentiment(polarity=0.0, subjectivity=0.0)
-180: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
-	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
-181: RT @AmandaJ_TX: "@cnnireport: Don't stop this pup from playing in the snow. http://t.co/Qiflap1X0a #CNNsnow http://t.co/NjShv1S7Y7" #dogsli…
+186: She doesn't look Scottish to me #MSMBias
+
+CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/PNfGYHkU0i
 	Sentiment(polarity=0.0, subjectivity=0.0)
-182: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/G22i57QEaK http://t.co/2do8CgbWlM
+187: Iranian activist calls for a hair revolution:  http://t.co/TazU6hKpJb .. from CNN
 	Sentiment(polarity=0.0, subjectivity=0.0)
-183: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/6MSjttALYb http://t.co/zNv74u8swV
+188: CNN: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/yLgQ5PBdH8  An affluent family... @MarieHarf
+	Sentiment(polarity=0.32499999999999996, subjectivity=0.475)
+189: RT @CNN: Embracing peanuts might actually help high-risk infants from developing an allergy: http://t.co/5E7KO9Mmvb http://t.co/NF8s8VDMDO
+	Sentiment(polarity=0.0, subjectivity=0.1)
+190: From Scottish teen to ISIS recruiter  via @josephjett #news http://t.co/CzOmw77by4
 	Sentiment(polarity=0.0, subjectivity=0.0)
-184: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/UVkBUAfYqw http://t.co/Z8WaTGPpv2
+191: From Scottish teen to ISIS recruiter On social media, Aqsa Mahmood exults the terrorist gr http://t.co/TI1s1WHPE4
+	Sentiment(polarity=0.016666666666666666, subjectivity=0.03333333333333333)
+192: From Scottish teen to ISIS bride and recruiter: the Aqsa Mahmood story - http://t.co/eiIH9scLc1 http://t.co/wQb1ugmJio
 	Sentiment(polarity=0.0, subjectivity=0.0)
-185: @CNN  Tweet reply sent from Vantage 1424816711
+193: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-186: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/ziJuFUdDeP http://t.co/uh06n0bAZT
+194: From Scottish teen to ISIS bride and recruiter http://t.co/PKIKrVgJ5b
 	Sentiment(polarity=0.0, subjectivity=0.0)
-187: RT @chicksonright: Real journalism from CNN? Did hell freeze over?http://t.co/240Tg1yOP4
-	Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
-188: "@cnnireport: Don't stop this pup from playing in the snow. http://t.co/Qiflap1X0a #CNNsnow http://t.co/NjShv1S7Y7" #dogslife 🐾🐶🐕
+195: From Scottish teen to ISIS recruiter: http://t.co/RgHozPwCCG
 	Sentiment(polarity=0.0, subjectivity=0.0)
-189: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
-	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
-190: RT @cnnhealth: Good &amp; bad: the decline in smoking rates could actually increase deaths from lung cancer http://t.co/vJno77cfEK
-	Sentiment(polarity=3.700743415417188e-17, subjectivity=0.45555555555555555)
-191: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/zdwcg1yiUP
+196: One great quote from CNN's recent segment on bitcoin was when Andreas Antonopoulos called it "the internet's own money". Wow
+	Sentiment(polarity=0.375, subjectivity=0.75)
+197: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-192: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/p88qGNINBv
+198: @CNN a ? for you/total the $1 bills from each nation how much is the literal worth of those investment values &amp; the difference of deflation?
+	Sentiment(polarity=0.25, subjectivity=0.15000000000000002)
+199: RT @CNN: From Scottish teen to #ISIS bride and recruiter: the Aqsa Mahmood story http://t.co/z2fex7Mkwn http://t.co/LWUTifI8eZ
 	Sentiment(polarity=0.0, subjectivity=0.0)
-193: RT @biolau: Are we misquoting the Bible? @CNN talks with prof. @CraigHazen about quoting things from Scripture that aren't there: http://t.…
-	Sentiment(polarity=0.0, subjectivity=0.0)
-194: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/HejLRwrZJs
-	Sentiment(polarity=0.0, subjectivity=0.0)
-195: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/HqFy71PxAv
-	Sentiment(polarity=0.0, subjectivity=0.0)
-196: Decline in smoking rates could increase deaths from lung cancer - CNN http://t.co/824lovsAW3
-	Sentiment(polarity=0.0, subjectivity=0.0)
-197: Google bans porn from Blogger http://t.co/Pf9LjyCdcB via @CNNMoney
-	Sentiment(polarity=0.0, subjectivity=0.0)
-198: #FF #IFB #RT #follow Space invaders -- from Biden to Travolta:  http://t.co/6uKZ22Yugw #followback #ifb
-	Sentiment(polarity=0.0, subjectivity=0.0)
-199: Space invaders -- from Biden to Travolta:  http://t.co/WeboKXugZi
-	Sentiment(polarity=0.0, subjectivity=0.0)
-200: Space invaders -- from Biden to Travolta:  http://t.co/o2kD9SFtra
+200: RT @CNNOrigSeries: Take a break from #Winter to go spearfishing in #Vanuatu. #TheWonderList @CNN Sun. 10p ET/PT http://t.co/iaY88NxghL http…
 	Sentiment(polarity=0.0, subjectivity=0.0)

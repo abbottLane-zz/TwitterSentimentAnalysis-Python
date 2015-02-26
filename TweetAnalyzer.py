@@ -4,6 +4,9 @@ from textblob import TextBlob
 from TweetObject import TweetObject
 import TweetScraper
 import twitter
+import matplotlib
+import pylab
+from scipy.stats.stats import pearsonr
 
 __author__ = 'wlane'
 
@@ -14,7 +17,6 @@ OAUTH_TOKEN_SECRET = 'NiZIjkLEgA6MD6k8yEvd7mBJEd5Pkjn8z3Tgw2M5EIa6z'
 
 # pull argument[0] from cmd line: this is our query string
 query = str(sys.argv[1])
-print "query is : " + query
 
 # Authorization to use twitter api
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
@@ -38,12 +40,51 @@ for tweet in rawArray:
     count += 1
 
     # Create array of tweet objects
-    tweetArray.append(TweetObject(tweet['text'].encode('utf-8'), str(blob.sentiment.polarity), tweet['retweet_count']))
+    tweetArray.append(TweetObject(tweet['text'].encode('utf-8'), str(blob.sentiment.polarity), tweet['retweet_count'],
+                                  tweet['user']['name']))
 
     # Write raw data to file
     txtFile.write(str(count) + ": " + tweet['text'].encode('utf-8') + "\n\t" + str(blob.sentiment) + "\n")
 
 # print blob.tags
 print "Sentiment and tweets recorded in tweets.txt"
-print "Positivity Sample: " + tweetArray[0].get_positivity() + " \n The Tweet: " + tweetArray[0].get_tweet_text() + "\n Retweet Count: " + str(tweetArray[0].get_retweets())
+print ""
+print "calculating correlation between positivity score and number of retweets ..."
+
+positivityList = []
+retweetList = []
+mostPositiveTweet = TweetObject("tweet", 0, 0, "wlane")
+mostNegativeTweet = TweetObject("tweet", 0, 0, "wlane")
+for tweet in tweetArray:
+    positivityList.append(float(tweet.get_positivity()))
+    retweetList.append(float(tweet.get_retweets()))
+    if tweet.get_positivity() > mostPositiveTweet.get_positivity():
+        mostPositiveTweet = tweet
+    if tweet.get_positivity() < mostNegativeTweet.get_positivity():
+        mostNegativeTweet = tweet
+
+print ""
+print "Most Positive Tweet: \n" + "   " + mostPositiveTweet.get_tweet_text()
+print "   Positivity Score: " + str(mostPositiveTweet.get_positivity())
+print "   Retweets: " + str(mostPositiveTweet.get_retweets())
+print ""
+print "Most Negative Tweet: \n" + "   " + mostNegativeTweet.get_tweet_text()
+print "   Positivity Score: " + str(mostNegativeTweet.get_positivity())
+print "   Retweets: " + str(mostNegativeTweet.get_retweets())
+print ""
+
+# as the positivity score gets bigger, the number of retweets goes down for negative corr, or up for pos corr
+correlation = pearsonr(retweetList, positivityList)
+print "Correlation, p-value: " + str(correlation)
+
+print ""
+print "producing scatterplot ... "
+
+matplotlib.pyplot.scatter(retweetList, positivityList)
+matplotlib.pyplot.show()
+
+
+# print "\n\nTESTS: \nPositivity Sample: " + tweetArray[3].get_positivity() + " \n The Tweet: " + tweetArray[
+#     3].get_tweet_text() + "\n Retweet Count: " + str(tweetArray[3].get_retweets()) + "\nUser: " + tweetArray[
+#     3].get_screen_name()
 
