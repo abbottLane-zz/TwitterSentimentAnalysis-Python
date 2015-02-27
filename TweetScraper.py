@@ -1,6 +1,4 @@
-import json
-import twitter
-import nltk
+
 
 __author__ = 'wlane'
 
@@ -11,24 +9,24 @@ class TweetScraper:
 
     # Returns a count of how many tweets were collected
     @staticmethod
-    def scrape_twitter(t_api, q):
+    def scrape_twitter_200limit(t_api, q):
 
         query = 'from:' + q
 
         print "Query: " + query
 
-        count = 300  # * 10 = the number of tweets to collect
+        count = 200  # * 10 = the number of tweets to collect
 
         search_results = t_api.search.tweets(q=query, count=count, user='WAbbott')
         statuses = search_results['statuses']
 
         # iterate through 5 more batches of results by following the cursor
-        count = 0
+        tcount = 0
         for _ in range(5):
             print "Tweets collected so far: ", len(statuses)
             try:
                 next_results = search_results['search_metadata']['next_results']
-                count += 100
+                tcount += 100
             except KeyError, e:  # no more results when next results doesnt exist
                 break
 
@@ -45,8 +43,29 @@ class TweetScraper:
         print "Total Number of Tweets Collected: " + str(len(statuses))
         return statuses
 
+    @staticmethod
+    def scrape_twitter_timeline(t_api, query):
 
+        print "Collecting most recent tweet_Id for max_id pagination ..."
+        user_timeline = t_api.statuses.user_timeline(screen_name=query, count=1)
+        most_recent_tweet_id_arr = [user_timeline[0]['id']]
+        # print "User Timeline ID : " + str(mostRecentTweetId)
+        statuses = []
 
+        for i in range(0, 10):  # iterate through all tweets (10 * 200 = 2000 tweets)
+            # tweet extract method with the last list item as the max_id
+            user_timeline = t_api.statuses.user_timeline(screen_name=query, count=200,
+                                                         max_id=most_recent_tweet_id_arr[-1])
+            # time.sleep(300)  ## 5 minute rest between api calls
+
+            for tweet in user_timeline:
+                # print tweet['text']  # print the tweet
+                statuses.append(tweet)
+                most_recent_tweet_id_arr.append(tweet['id'])  # append tweet id's
+            print "Collected " + str(len(statuses)) + " tweets so far ..."
+
+        print "Total Number of Tweets Collected: " + str(len(statuses))
+        return statuses
 
 
 
