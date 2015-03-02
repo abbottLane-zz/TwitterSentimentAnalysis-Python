@@ -88,7 +88,8 @@ print "   Retweets: " + str(mostRetweetedTweet.get_retweets())
 
 # as the positivity score gets bigger, the number of retweets goes down for negative corr, or up for pos corr
 correlation = pearsonr(retweetList, positivityList)
-print "Correlation, p-value: " + str(correlation)
+print ""
+print "Correlation: " + str(correlation[0])
 print ""
 print "  ¯\_(ツ)_/¯ "
 print ""
@@ -99,6 +100,11 @@ print "producing scatterplot ... "
 
 
 matplotlib.pyplot.scatter(retweetList, positivityList)
+matplotlib.pyplot.ylabel('Positivity Score')
+matplotlib.pyplot.xlabel('Number of Retweets')
+matplotlib.pyplot.title(query + ': \nPositivity Score vs. Number of Retweets')
+matplotlib.pyplot.ylim([-1, 1])
+matplotlib.pyplot.xlim(xmin=0)
 matplotlib.pyplot.show()
 
 

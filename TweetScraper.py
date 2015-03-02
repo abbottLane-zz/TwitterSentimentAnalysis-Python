@@ -53,8 +53,8 @@ class TweetScraper:
         for i in range(0, 10):  # iterate through all tweets (10 * 200 = 2000 tweets)
             # tweet extract method with the last list item as the max_id
             user_timeline = t_api.statuses.user_timeline(screen_name=query, count=200,
+                                                         include_retweets=False,
                                                          max_id=most_recent_tweet_id_arr[-1])
-            # time.sleep(300)  ## 5 minute rest between api calls
 
             for tweet in user_timeline:
                 # print tweet['text']  # print the tweet
