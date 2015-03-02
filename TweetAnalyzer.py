@@ -1,6 +1,7 @@
 # coding=utf-8
 import sys
 from textblob import TextBlob
+from MyTwitterCreds import TwitterCreds
 from TweetObject import TweetObject
 import TweetScraper
 import twitter
@@ -10,10 +11,12 @@ from scipy.stats.stats import pearsonr
 
 __author__ = 'wlane'
 
-CONSUMER_KEY = 'mGoDFrFMV7zHV05rB8N9d2NFK'
-CONSUMER_SECRET = 'D1v51YzhuGb2LhjOGwoz4sDjFuM5vqETatiYbyxlKly2g1pki0'
-OAUTH_TOKEN = '31221546-JOk6rEkpjCvHZYD7tO0JuUDVBW75hIqCOxPfPoQZj'
-OAUTH_TOKEN_SECRET = 'NiZIjkLEgA6MD6k8yEvd7mBJEd5Pkjn8z3Tgw2M5EIa6z'
+cred = TwitterCreds()
+
+CONSUMER_KEY = cred.getConsumerKey()
+CONSUMER_SECRET = cred.getConsumerSecret()
+OAUTH_TOKEN = cred.getOAuthToken()
+OAUTH_TOKEN_SECRET = cred.getOAuthSecret()
 
 # pull argument[0] from cmd line: this is our query string
 query = str(sys.argv[1])
